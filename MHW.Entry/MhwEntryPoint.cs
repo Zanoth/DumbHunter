@@ -1,6 +1,4 @@
-﻿using MhW.Wpf;
-using MHW.Console;
-using MHW.Wpf;
+﻿using MHW.Console;
 using Microsoft.Extensions.DependencyInjection;
 using Serialization.Abstraction;
 
@@ -16,17 +14,20 @@ public static class MhwEntryPoint
     Console.WriteLine("------------------------------------------------------------");
 
     // Assuming we have retrieved the UI type from args
-    //var uiType = "Console";
-    var uiType = "Wpf";
+    var uiType = "Console";
+    //var uiType = "Wpf";
 
     Console.WriteLine($"UI type chosen: {uiType}");
 
     var serviceCollection = new ServiceCollection();
 
+
+    var typeFinder = new ReflectionTypeFinder();
+
     var commonServices = new List<IServiceRegistrar>
     {
       new MhwDataContext(),
-      new SerilizationContext()
+      new SerilizationContext(typeFinder)
     };
 
     RegisterServices(serviceCollection, commonServices);
@@ -50,14 +51,15 @@ public static class MhwEntryPoint
 
   private static void LaunchWpf(string[] args, IServiceCollection serviceCollection)
   {
-    RegisterServices(serviceCollection, new List<IServiceRegistrar>
-    {
-      new MhwWpfContext(),
-    });
+    throw new NotImplementedException();
+    //RegisterServices(serviceCollection, new List<IServiceRegistrar>
+    //{
+    //  new MhwWpfContext(),
+    //});
 
-    Wpf.App.ServiceCollection = serviceCollection;
-    var worldWpfApp = new Wpf.App(); //TODO: Fix the namespace of  MhW.Wpf.App (MhW vs MHW)
-    worldWpfApp.Run();
+    //Wpf.App.ServiceCollection = serviceCollection;
+    //var worldWpfApp = new Wpf.App(); 
+    //worldWpfApp.Run();
   }
 
 
