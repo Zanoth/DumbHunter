@@ -1,0 +1,3870 @@
+[
+  {
+    "CharmId": "charm-001",
+    "Name": "Poison Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-001",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-002",
+    "Name": "Poison Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-001",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-003",
+    "Name": "Poison Charm III",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-001",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-004",
+    "Name": "Attack Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-005",
+    "Name": "Attack Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-006",
+    "Name": "Attack Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-235",
+    "Name": "Attack Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-007",
+    "Name": "Defense Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-016",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-008",
+    "Name": "Defense Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-016",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-009",
+    "Name": "Defense Charm III",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-016",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-236",
+    "Name": "Defense Charm IV",
+
+    "Rarity": 9,
+    "Skills": [
+      {
+        "SkillId": "skill-016",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-237",
+    "Name": "Defense Charm V",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-016",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-010",
+    "Name": "Paralysis Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-002",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-011",
+    "Name": "Paralysis Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-002",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-012",
+    "Name": "Paralysis Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-002",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-013",
+    "Name": "Sleep Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-003",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-014",
+    "Name": "Sleep Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-003",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-015",
+    "Name": "Sleep Charm III",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-003",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-016",
+    "Name": "Stun Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-004",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-017",
+    "Name": "Stun Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-004",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-018",
+    "Name": "Stun Charm III",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-004",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-019",
+    "Name": "Windproof Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-020",
+    "Name": "Windproof Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-021",
+    "Name": "Windproof Charm III",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-238",
+    "Name": "Windproof Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-022",
+    "Name": "Health Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-023",
+    "Name": "Health Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-024",
+    "Name": "Health Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-025",
+    "Name": "Recovery Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-026",
+    "Name": "Recovery Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-027",
+    "Name": "Recovery Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-028",
+    "Name": "Fire Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-020",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-029",
+    "Name": "Fire Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-020",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-030",
+    "Name": "Fire Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-020",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-031",
+    "Name": "Water Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-021",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-032",
+    "Name": "Water Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-021",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-033",
+    "Name": "Water Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-021",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-034",
+    "Name": "Thunder Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-023",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-035",
+    "Name": "Thunder Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-023",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-036",
+    "Name": "Thunder Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-023",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-037",
+    "Name": "Blaze Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-026",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-038",
+    "Name": "Blaze Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-026",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-039",
+    "Name": "Blaze Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-026",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-239",
+    "Name": "Blaze Charm IV",
+
+    "Rarity": 10,
+    "Skills": [
+      {
+        "SkillId": "skill-026",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-240",
+    "Name": "Blaze Charm V",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-026",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-040",
+    "Name": "Flood Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-027",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-041",
+    "Name": "Flood Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-027",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-042",
+    "Name": "Flood Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-027",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-241",
+    "Name": "Flood Charm IV",
+
+    "Rarity": 10,
+    "Skills": [
+      {
+        "SkillId": "skill-027",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-242",
+    "Name": "Flood Charm V",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-027",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-043",
+    "Name": "Shock Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-029",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-044",
+    "Name": "Shock Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-029",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-045",
+    "Name": "Shock Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-029",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-243",
+    "Name": "Shock Charm IV",
+
+    "Rarity": 10,
+    "Skills": [
+      {
+        "SkillId": "skill-029",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-244",
+    "Name": "Shock Charm V",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-029",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-046",
+    "Name": "Venom Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-031",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-047",
+    "Name": "Venom Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-031",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-048",
+    "Name": "Venom Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-031",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-245",
+    "Name": "Venom Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-031",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-049",
+    "Name": "Immobilize Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-032",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-050",
+    "Name": "Immobilize Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-032",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-051",
+    "Name": "Immobilize Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-032",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-246",
+    "Name": "Immobilize Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-032",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-052",
+    "Name": "Tranq Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-033",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-053",
+    "Name": "Tranq Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-033",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-054",
+    "Name": "Tranq Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-033",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-247",
+    "Name": "Tranq Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-033",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-055",
+    "Name": "KO Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-047",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-056",
+    "Name": "KO Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-047",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-057",
+    "Name": "KO Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-047",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-058",
+    "Name": "Enervate Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-048",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-059",
+    "Name": "Enervate Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-048",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-060",
+    "Name": "Enervate Charm III",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-048",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-061",
+    "Name": "Artillery Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-061",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-062",
+    "Name": "Artillery Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-061",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-063",
+    "Name": "Artillery Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-061",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-064",
+    "Name": "Hungerless Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-067",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-065",
+    "Name": "Hungerless Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-067",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-066",
+    "Name": "Hungerless Charm III",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-067",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-067",
+    "Name": "Ironside Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-068",
+    "Name": "Ironside Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-069",
+    "Name": "Ironside Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-248",
+    "Name": "Ironside Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-249",
+    "Name": "Ironside Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-070",
+    "Name": "Friendship Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-071",
+    "Name": "Friendship Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-072",
+    "Name": "Friendship Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-250",
+    "Name": "Friendship Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-251",
+    "Name": "Friendship Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-073",
+    "Name": "Extension Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-073",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-074",
+    "Name": "Extension Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-073",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-075",
+    "Name": "Extension Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-073",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-076",
+    "Name": "Glutton's Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-075",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-077",
+    "Name": "Glutton's Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-075",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-078",
+    "Name": "Glutton's Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-075",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-079",
+    "Name": "Blessing Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-080",
+    "Name": "Blessing Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-081",
+    "Name": "Blessing Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-082",
+    "Name": "Rally Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-085",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-083",
+    "Name": "Rally Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-085",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-084",
+    "Name": "Rally Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-085",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-252",
+    "Name": "Rally Charm IV",
+
+    "Rarity": 9,
+    "Skills": [
+      {
+        "SkillId": "skill-085",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-253",
+    "Name": "Rally Charm V",
+
+    "Rarity": 10,
+    "Skills": [
+      {
+        "SkillId": "skill-085",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-085",
+    "Name": "Botany Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-086",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-086",
+    "Name": "Botany Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-086",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-087",
+    "Name": "Botany Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-086",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-254",
+    "Name": "Botany Charm IV",
+
+    "Rarity": 9,
+    "Skills": [
+      {
+        "SkillId": "skill-086",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-088",
+    "Name": "Geology Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-087",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-089",
+    "Name": "Geology Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-087",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-090",
+    "Name": "Geology Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-087",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-091",
+    "Name": "Slinger Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-089",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-092",
+    "Name": "Slinger Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-089",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-093",
+    "Name": "Slinger Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-089",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-094",
+    "Name": "Stealth Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-090",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-095",
+    "Name": "Stealth Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-090",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-096",
+    "Name": "Stealth Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-090",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-097",
+    "Name": "Smoke Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-095",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-098",
+    "Name": "Smoke Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-095",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-099",
+    "Name": "Smoke Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-095",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-100",
+    "Name": "Mirewalker Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-096",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-101",
+    "Name": "Mirewalker Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-096",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-102",
+    "Name": "Mirewalker Charm III",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-096",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-103",
+    "Name": "Insect Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-100",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-104",
+    "Name": "Insect Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-100",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-105",
+    "Name": "Insect Charm III",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-100",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-106",
+    "Name": "Intimidator Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-107",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-107",
+    "Name": "Intimidator Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-107",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-108",
+    "Name": "Intimidator Charm III",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-107",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-109",
+    "Name": "Heavy Artillery Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-062",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-110",
+    "Name": "Heavy Artillery Charm II",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-062",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-111",
+    "Name": "Light Eater's Charm",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-074",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-112",
+    "Name": "Tracker Charm",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-102",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-113",
+    "Name": "Fortification Charm",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-055",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-114",
+    "Name": "Performer's Charm",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-058",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-255",
+    "Name": "Performer's Charm II",
+
+    "Rarity": 9,
+    "Skills": [
+      {
+        "SkillId": "skill-058",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-115",
+    "Name": "Capacity Charm",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-059",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-116",
+    "Name": "Bleed Charm I",
+
+    "Rarity": 4,
+    "Skills": [
+      {
+        "SkillId": "skill-007",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-117",
+    "Name": "Bleed Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-007",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-118",
+    "Name": "Bleed Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-007",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-119",
+    "Name": "Speed Heal Charm I",
+
+    "Rarity": 4,
+    "Skills": [
+      {
+        "SkillId": "skill-019",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-120",
+    "Name": "Speed Heal Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-019",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-121",
+    "Name": "Speed Heal Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-019",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-122",
+    "Name": "Ice Charm I",
+
+    "Rarity": 4,
+    "Skills": [
+      {
+        "SkillId": "skill-022",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-123",
+    "Name": "Ice Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-022",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-124",
+    "Name": "Ice Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-022",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-125",
+    "Name": "Blight Charm I",
+
+    "Rarity": 4,
+    "Skills": [
+      {
+        "SkillId": "skill-025",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-126",
+    "Name": "Blight Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-025",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-127",
+    "Name": "Blight Charm III",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-025",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-128",
+    "Name": "Frost Charm I",
+
+    "Rarity": 4,
+    "Skills": [
+      {
+        "SkillId": "skill-028",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-129",
+    "Name": "Frost Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-028",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-130",
+    "Name": "Frost Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-028",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-256",
+    "Name": "Frost Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-028",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-257",
+    "Name": "Frost Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-028",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-131",
+    "Name": "Master's Charm I",
+
+    "Rarity": 4,
+    "Skills": [
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-132",
+    "Name": "Master's Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-133",
+    "Name": "Master's Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-258",
+    "Name": "Master's Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-134",
+    "Name": "Evasion Charm I",
+
+    "Rarity": 4,
+    "Skills": [
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-135",
+    "Name": "Evasion Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-136",
+    "Name": "Evasion Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-259",
+    "Name": "Evasion Charm IV",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-137",
+    "Name": "Sheath Charm I",
+
+    "Rarity": 4,
+    "Skills": [
+      {
+        "SkillId": "skill-071",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-138",
+    "Name": "Sheath Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-071",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-139",
+    "Name": "Sheath Charm III",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-071",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-140",
+    "Name": "Whetstone Charm I",
+
+    "Rarity": 4,
+    "Skills": [
+      {
+        "SkillId": "skill-076",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-141",
+    "Name": "Whetstone Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-076",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-142",
+    "Name": "Whetstone Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-076",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-143",
+    "Name": "Blast Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-006",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-144",
+    "Name": "Blast Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-006",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-145",
+    "Name": "Blast Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-006",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-146",
+    "Name": "Dragon Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-024",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-147",
+    "Name": "Dragon Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-024",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-148",
+    "Name": "Dragon Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-024",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-149",
+    "Name": "Wyrmsbane Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-030",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-150",
+    "Name": "Wyrmsbane Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-030",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-151",
+    "Name": "Wyrmsbane Charm III",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-030",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-260",
+    "Name": "Wyrmsbane Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-030",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-261",
+    "Name": "Wyrmsbane Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-030",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-152",
+    "Name": "Demolition Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-034",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-153",
+    "Name": "Demolition Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-034",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-154",
+    "Name": "Demolition Charm III",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-034",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-262",
+    "Name": "Demolition Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-034",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-155",
+    "Name": "Draw Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-045",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-156",
+    "Name": "Draw Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-045",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-301",
+    "Name": "Draw Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-045",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-157",
+    "Name": "Special Shot Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-060",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-158",
+    "Name": "Special Shot Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-060",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-159",
+    "Name": "Marathon Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-063",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-160",
+    "Name": "Marathon Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-063",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-263",
+    "Name": "Marathon Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-063",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-161",
+    "Name": "Fitness Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-162",
+    "Name": "Fitness Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-163",
+    "Name": "Fitness Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-264",
+    "Name": "Fitness Charm IV",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-303",
+    "Name": "Fitness Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-164",
+    "Name": "Surge Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-066",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-165",
+    "Name": "Surge Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-066",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-265",
+    "Name": "Surge Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-066",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-166",
+    "Name": "Leaping Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-069",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-167",
+    "Name": "Leaping Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-069",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-266",
+    "Name": "Leaping Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-069",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-168",
+    "Name": "Bombardier Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-077",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-169",
+    "Name": "Bombardier Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-077",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-170",
+    "Name": "Bombardier Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-077",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-171",
+    "Name": "Mushroom Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-078",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-172",
+    "Name": "Mushroom Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-078",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-267",
+    "Name": "Mushroom Charm III",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-078",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-173",
+    "Name": "Awakening Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-174",
+    "Name": "Awakening Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-268",
+    "Name": "Awakening Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-175",
+    "Name": "Handicraft Charm I",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-176",
+    "Name": "Handicraft Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-177",
+    "Name": "Handicraft Charm III",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-269",
+    "Name": "Handicraft Charm IV",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-178",
+    "Name": "Mud Puppy Charm",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-005",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-065",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-179",
+    "Name": "Trickshot Charm",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-012",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-098",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-180",
+    "Name": "Hunter's Life Charm",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-130",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-079",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-181",
+    "Name": "Procurer's Charm",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-080",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-082",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-182",
+    "Name": "Gatherer's Charm",
+
+    "Rarity": 5,
+    "Skills": [
+      {
+        "SkillId": "skill-081",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-083",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-183",
+    "Name": "Guard Charm I",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-008",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-184",
+    "Name": "Guard Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-008",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-185",
+    "Name": "Guard Charm III",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-008",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-186",
+    "Name": "Earplugs Charm I",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-187",
+    "Name": "Earplugs Charm II",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-188",
+    "Name": "Earplugs Charm III",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-270",
+    "Name": "Earplugs Charm IV",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-189",
+    "Name": "Tremor Charm I",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-011",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-190",
+    "Name": "Tremor Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-011",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-271",
+    "Name": "Tremor Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-011",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-191",
+    "Name": "Exploiter Charm I",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-041",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-192",
+    "Name": "Exploiter Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-041",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-193",
+    "Name": "Focus Charm I",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-042",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-194",
+    "Name": "Focus Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-042",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-272",
+    "Name": "Focus Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-042",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-195",
+    "Name": "Breaker Charm I",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-046",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-196",
+    "Name": "Breaker Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-046",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-273",
+    "Name": "Breaker Charm III",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-046",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-197",
+    "Name": "Fury Charm I",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-198",
+    "Name": "Fury Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-274",
+    "Name": "Fury Charm III",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-275",
+    "Name": "Fury Charm IV",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-297",
+    "Name": "Fury Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-199",
+    "Name": "Grit Charm I",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-200",
+    "Name": "Grit Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-276",
+    "Name": "Grit Charm III",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-277",
+    "Name": "Grit Charm IV",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-201",
+    "Name": "Maintenance Charm I",
+
+    "Rarity": 6,
+    "Skills": [
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-202",
+    "Name": "Maintenance Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-203",
+    "Name": "Maintenance Charm III",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-204",
+    "Name": "Power Charm I",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-205",
+    "Name": "Power Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-278",
+    "Name": "Power Charm III",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-279",
+    "Name": "Power Charm IV",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-298",
+    "Name": "Power Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-206",
+    "Name": "Challenger Charm I",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-207",
+    "Name": "Challenger Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-280",
+    "Name": "Challenger Charm III",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-281",
+    "Name": "Challenger Charm IV",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-300",
+    "Name": "Challenger Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-208",
+    "Name": "Unscathed Charm I",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-053",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-209",
+    "Name": "Unscathed Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-053",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-210",
+    "Name": "Mighty Charm I",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-088",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-211",
+    "Name": "Mighty Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-088",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-299",
+    "Name": "Mighty Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-088",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-212",
+    "Name": "Impact Charm I",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-091",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-213",
+    "Name": "Impact Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-091",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-282",
+    "Name": "Impact Charm III",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-091",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-214",
+    "Name": "Miasma Charm I",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-101",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-215",
+    "Name": "Miasma Charm II",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-101",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-216",
+    "Name": "Miasma Charm III",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-101",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-217",
+    "Name": "Normal Shots Charm",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-035",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-283",
+    "Name": "Normal Shots Charm II",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-035",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-218",
+    "Name": "Clearmind Charm",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-014",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-013",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-219",
+    "Name": "Rider's Charm",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-049",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-094",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-220",
+    "Name": "Surveyor's Charm",
+
+    "Rarity": 7,
+    "Skills": [
+      {
+        "SkillId": "skill-092",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-099",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-221",
+    "Name": "Critical Charm I",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-040",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-284",
+    "Name": "Critical Charm II",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-040",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-222",
+    "Name": "Invigorate Charm I",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-043",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-223",
+    "Name": "Invigorate Charm II",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-043",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-285",
+    "Name": "Invigorate Charm III",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-043",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-224",
+    "Name": "Penetration Charm",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-036",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-286",
+    "Name": "Penetration Charm II",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-036",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-225",
+    "Name": "Dispersal Charm",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-037",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-287",
+    "Name": "Dispersal Charm II",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-037",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-226",
+    "Name": "Poison Coating Charm",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-134",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-227",
+    "Name": "Para Coating Charm",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-133",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-228",
+    "Name": "Sleep Coating Charm",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-135",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-229",
+    "Name": "Blast Coating Charm",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-131",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-230",
+    "Name": "Geomancy Charm",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-103",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-104",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-231",
+    "Name": "Gale Charm",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-106",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-050",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-232",
+    "Name": "Wyrmslayer Charm",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-132",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-030",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-233",
+    "Name": "Bulwark Charm",
+
+    "Rarity": 8,
+    "Skills": [
+      {
+        "SkillId": "skill-118",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-057",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-288",
+    "Name": "Guardian Charm I",
+
+    "Rarity": 9,
+    "Skills": [
+      {
+        "SkillId": "skill-138",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-289",
+    "Name": "Guardian Charm II",
+
+    "Rarity": 10,
+    "Skills": [
+      {
+        "SkillId": "skill-138",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-290",
+    "Name": "Guardian Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-138",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-291",
+    "Name": "Phoenix Charm I",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-139",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-292",
+    "Name": "Phoenix Charm II",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-139",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-302",
+    "Name": "Phoenix Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-139",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-293",
+    "Name": "Adamantine Charm",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-116",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-115",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-294",
+    "Name": "Razor Sharp Charm",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-122",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-295",
+    "Name": "Sealer's Charm",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-132",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-111",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-296",
+    "Name": "Gutsy Charm",
+
+    "Rarity": 11,
+    "Skills": [
+      {
+        "SkillId": "skill-119",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-234",
+    "Name": "Fair Wind Charm",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-304",
+    "Name": "Attack Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-305",
+    "Name": "Windproof Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-306",
+    "Name": "Survival Charm I",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-095",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-307",
+    "Name": "Survival Charm II",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-095",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-308",
+    "Name": "Survival Charm III",
+
+    "Rarity": 3,
+    "Skills": [
+      {
+        "SkillId": "skill-095",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-309",
+    "Name": "Master's Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-310",
+    "Name": "Evasion Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-311",
+    "Name": "Handicraft Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-312",
+    "Name": "Earplugs Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-313",
+    "Name": "Exploiter Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-041",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-314",
+    "Name": "Grit Charm V",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 5
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-315",
+    "Name": "Unscathed Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-053",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-316",
+    "Name": "Critical Charm III",
+
+    "Rarity": 12,
+    "Skills": [
+      {
+        "SkillId": "skill-040",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "CharmId": "charm-317",
+    "Name": "Shaver Charm",
+
+    "Rarity": 9,
+    "Skills": [
+      {
+        "SkillId": "skill-169",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-097",
+        "SkillLevel": 1
+      }
+    ]
+  }
+]

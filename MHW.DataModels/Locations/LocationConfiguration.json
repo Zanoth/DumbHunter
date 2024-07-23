@@ -1,0 +1,70 @@
+[
+  {
+    "LocationId": "Location-01",
+    "Name": "Ancient Forest"
+  },
+  {
+    "LocationId": "Location-02",
+    "Name": "Wildspire Waste"
+  },
+  {
+    "LocationId": "Location-03",
+    "Name": "Coral Highlands"
+  },
+  {
+    "LocationId": "Location-04",
+    "Name": "Rotten Vale"
+  },
+  {
+    "LocationId": "Location-05",
+    "Name": "Elder's Recess"
+  },
+  {
+    "LocationId": "Location-06",
+    "Name": "Everstream"
+  },
+  {
+    "LocationId": "Location-07",
+    "Name": "Great Ravine"
+  },
+  {
+    "LocationId": "Location-08",
+    "Name": "Arena"
+  },
+  {
+    "LocationId": "Location-09",
+    "Name": "Confluence of Fates"
+  },
+  {
+    "LocationId": "Location-10",
+    "Name": "Caverns of El Dorado"
+  },
+  {
+    "LocationId": "Location-11",
+    "Name": "Special Arena"
+  },
+  {
+    "LocationId": "Location-12",
+    "Name": "Hoarfrost Reach"
+  },
+  {
+    "LocationId": "Location-13",
+    "Name": "Origin Isle"
+  },
+  {
+    "LocationId": "Location-14",
+    "Name": "Guiding Lands"
+  },
+  {
+    "LocationId": "Location-15",
+    "Name": "Secluded Valley"
+  },
+  {
+    "LocationId": "Location-16",
+    "Name": "Seliana Supply Cache"
+  },
+  {
+    "LocationId": "Location-17",
+    "Name": "Castle Schrade"
+  }
+]

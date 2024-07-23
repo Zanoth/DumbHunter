@@ -1,0 +1,6190 @@
+[
+  {
+    "DecorationId": "decoration-001",
+    "Name": "Antidote Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-001",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-002",
+    "Name": "Geology Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-087",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-003",
+    "Name": "Heavy Artillery Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-062",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-004",
+    "Name": "Hungerless Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-067",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-005",
+    "Name": "Satiated Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-074",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-006",
+    "Name": "Protection Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-007",
+    "Name": "Meowster Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-085",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-008",
+    "Name": "Botany Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Lime",
+    "Skills": [
+      {
+        "SkillId": "skill-086",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-009",
+    "Name": "Tip Toe Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-090",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-010",
+    "Name": "Flight Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 5,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-050",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-012",
+    "Name": "Mirewalker Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-096",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-013",
+    "Name": "Specimen Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Green",
+    "Skills": [
+      {
+        "SkillId": "skill-100",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-014",
+    "Name": "Miasma Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "DarkBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-101",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-015",
+    "Name": "Scent Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-102",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-016",
+    "Name": "Intimidator Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-107",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-017",
+    "Name": "Crisis Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-057",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-018",
+    "Name": "Antipara Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-002",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-019",
+    "Name": "Fortitude Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-055",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-020",
+    "Name": "Water Res Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-021",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-021",
+    "Name": "Suture Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-007",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-022",
+    "Name": "Dragon Res Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-024",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-023",
+    "Name": "Fire Res Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-020",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-024",
+    "Name": "Ice Res Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-022",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-025",
+    "Name": "Def Lock Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-008",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-026",
+    "Name": "Thunder Res Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Gold",
+    "Skills": [
+      {
+        "SkillId": "skill-023",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-027",
+    "Name": "Pep Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-003",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-028",
+    "Name": "Antiblast Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-006",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-029",
+    "Name": "Maintenance Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 5,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-030",
+    "Name": "Gobbler Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-075",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-031",
+    "Name": "Physique Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 6,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-032",
+    "Name": "Blaze Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-026",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-033",
+    "Name": "Evasion Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 6,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-034",
+    "Name": "Jumping Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 6,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-069",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-035",
+    "Name": "Sheath Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-071",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-036",
+    "Name": "Friendship Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-037",
+    "Name": "Enduring Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-073",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-038",
+    "Name": "Medicine Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Green",
+    "Skills": [
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-039",
+    "Name": "Grinder Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Gold",
+    "Skills": [
+      {
+        "SkillId": "skill-076",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-040",
+    "Name": "Steadfast Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Gold",
+    "Skills": [
+      {
+        "SkillId": "skill-004",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-041",
+    "Name": "Bomber Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-077",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-042",
+    "Name": "Recovery Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Green",
+    "Skills": [
+      {
+        "SkillId": "skill-019",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-043",
+    "Name": "Slider Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 6,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-106",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-044",
+    "Name": "Defense Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-016",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-045",
+    "Name": "Stonethrower Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Lime",
+    "Skills": [
+      {
+        "SkillId": "skill-089",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-046",
+    "Name": "Footing Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 6,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-011",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-047",
+    "Name": "Brace Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 6,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-091",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-048",
+    "Name": "Wind Resist Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 6,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-049",
+    "Name": "Earplug Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 6,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-050",
+    "Name": "Vitality Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Green",
+    "Skills": [
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-051",
+    "Name": "Resistor Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "DarkBlue",
+    "Skills": [
+      {
+        "SkillId": "skill-025",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-052",
+    "Name": "Sonorous Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-058",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-053",
+    "Name": "KO Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 6,
+    "IconColor": "Gold",
+    "Skills": [
+      {
+        "SkillId": "skill-047",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-054",
+    "Name": "Stream Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-027",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-055",
+    "Name": "Frost Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-028",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-056",
+    "Name": "Bolt Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Gold",
+    "Skills": [
+      {
+        "SkillId": "skill-029",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-057",
+    "Name": "Dragon Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-030",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-058",
+    "Name": "Venom Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-031",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-059",
+    "Name": "Poisoncoat Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 6,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-134",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-060",
+    "Name": "Expert Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "DarkBlue",
+    "Skills": [
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-061",
+    "Name": "Tenderizer Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 6,
+    "IconColor": "DarkBlue",
+    "Skills": [
+      {
+        "SkillId": "skill-041",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-062",
+    "Name": "Destroyer Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 6,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-046",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-063",
+    "Name": "Elementless Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 6,
+    "IconColor": "DarkBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-116",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-064",
+    "Name": "Drain Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 6,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-048",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-065",
+    "Name": "Paracoat Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 7,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-133",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-066",
+    "Name": "Sharp Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 7,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-129",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-067",
+    "Name": "Shield Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 7,
+    "IconColor": "",
+    "Skills": [
+      {
+        "SkillId": "skill-118",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-068",
+    "Name": "Dragonseal Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 7,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-132",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-069",
+    "Name": "Trueshot Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 7,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-060",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-070",
+    "Name": "Enhancer Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 7,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-043",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-071",
+    "Name": "Forceshot Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 7,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-035",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-072",
+    "Name": "Furor Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 7,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-073",
+    "Name": "Potential Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 7,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-074",
+    "Name": "Paralyzer Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 7,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-032",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-075",
+    "Name": "Sleep Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 7,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-033",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-076",
+    "Name": "Ironwall Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 7,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-077",
+    "Name": "Refresh Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 7,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-066",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-078",
+    "Name": "Blast Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 7,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-034",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-079",
+    "Name": "Sleepcoat Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 7,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-135",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-080",
+    "Name": "Blastcoat Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 7,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-131",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-081",
+    "Name": "Throttle Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 7,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-082",
+    "Name": "Challenger Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 7,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-083",
+    "Name": "Attack Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 7,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-084",
+    "Name": "Flawless Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 7,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-053",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-085",
+    "Name": "Magazine Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 7,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-059",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-086",
+    "Name": "Mighty Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 7,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-088",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-087",
+    "Name": "Sprinter Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 8,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-063",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-088",
+    "Name": "Critical Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 8,
+    "IconColor": "DarkBlue",
+    "Skills": [
+      {
+        "SkillId": "skill-040",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-089",
+    "Name": "Artillery Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 8,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-061",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-090",
+    "Name": "Fungiform Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 8,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-078",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-091",
+    "Name": "Release Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 8,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-092",
+    "Name": "Spread Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 8,
+    "IconColor": "DarkGreen",
+    "Skills": [
+      {
+        "SkillId": "skill-037",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-093",
+    "Name": "Charger Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 8,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-042",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-094",
+    "Name": "Handicraft Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 8,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-095",
+    "Name": "Mighty Bow Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 8,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-127",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-096",
+    "Name": "Mind's Eye Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 8,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-114",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-097",
+    "Name": "Draw Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 8,
+    "IconColor": "DarkBlue",
+    "Skills": [
+      {
+        "SkillId": "skill-045",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-098",
+    "Name": "Pierce Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 8,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-036",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-099",
+    "Name": "Phoenix Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-139",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-100",
+    "Name": "Fire Res Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-020",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-101",
+    "Name": "Water Res Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-021",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-102",
+    "Name": "Ice Res Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-022",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-103",
+    "Name": "Thunder Res Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-023",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-104",
+    "Name": "Dragon Res Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-024",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-105",
+    "Name": "Blaze Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-026",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-106",
+    "Name": "Stream Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-027",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-107",
+    "Name": "Frost Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-028",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-108",
+    "Name": "Bolt Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-029",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-109",
+    "Name": "Dragon Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-030",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-110",
+    "Name": "Venom Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-031",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-111",
+    "Name": "Paralyzer Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-032",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-112",
+    "Name": "Sleep Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-033",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-113",
+    "Name": "Blast Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-034",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-114",
+    "Name": "Hard Fire Res Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-020",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-115",
+    "Name": "Hard Water Res Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-021",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-116",
+    "Name": "Hard Ice Res Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-022",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-117",
+    "Name": "Hard Thunder Res Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-023",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-118",
+    "Name": "Hard Dragon Res Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-024",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-119",
+    "Name": "Antidote Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-001",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-120",
+    "Name": "Antipara Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-002",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-121",
+    "Name": "Pep Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-003",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-122",
+    "Name": "Steadfast Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-004",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-123",
+    "Name": "Antiblast Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-006",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-124",
+    "Name": "Suture Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-007",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-125",
+    "Name": "Def Lock Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "DarkBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-008",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-126",
+    "Name": "Miasma Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-101",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-127",
+    "Name": "Hungerless Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-067",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-128",
+    "Name": "Recovery Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Green",
+    "Skills": [
+      {
+        "SkillId": "skill-019",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-129",
+    "Name": "Tip Toe Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-090",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-130",
+    "Name": "Intimidator Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-107",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-131",
+    "Name": "Meowster Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-085",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-132",
+    "Name": "Hard Tip Toe Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-090",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-133",
+    "Name": "Hard Intimidator Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-107",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-134",
+    "Name": "Hard Meowster Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-085",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-135",
+    "Name": "Trueshot Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-060",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-136",
+    "Name": "Heavy Artillery Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-062",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-137",
+    "Name": "Botany Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Lime",
+    "Skills": [
+      {
+        "SkillId": "skill-086",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-138",
+    "Name": "Geology Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-087",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-139",
+    "Name": "Survival Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-095",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-140",
+    "Name": "Mirewalker Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-096",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-141",
+    "Name": "Specimen Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Green",
+    "Skills": [
+      {
+        "SkillId": "skill-100",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-142",
+    "Name": "Sonorous Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-058",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-143",
+    "Name": "Hard Botany Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Lime",
+    "Skills": [
+      {
+        "SkillId": "skill-086",
+        "SkillLevel": 4
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-144",
+    "Name": "Hard Geology Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-087",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-145",
+    "Name": "Hard Survival Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-095",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-146",
+    "Name": "Hard Specimen Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Green",
+    "Skills": [
+      {
+        "SkillId": "skill-100",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-147",
+    "Name": "Enduring Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-073",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-148",
+    "Name": "Defense Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-016",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-149",
+    "Name": "Hard Enduring Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-073",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-150",
+    "Name": "Hard Defense Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-016",
+        "SkillLevel": 3
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-151",
+    "Name": "Artillery Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-061",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-152",
+    "Name": "Earplug Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-153",
+    "Name": "Wind Resist Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-154",
+    "Name": "Attack Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-155",
+    "Name": "Expert Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "DarkPurple",
+    "Skills": [
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-156",
+    "Name": "Handicraft Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-157",
+    "Name": "Throttle Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-158",
+    "Name": "Challenger Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-159",
+    "Name": "Potential Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-160",
+    "Name": "Furor Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-161",
+    "Name": "Physique Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-162",
+    "Name": "Evasion Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-163",
+    "Name": "Ironwall Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-164",
+    "Name": "Friendship Jewel+ 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 2
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-165",
+    "Name": "Drain/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-048",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-166",
+    "Name": "Fortitude/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-055",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-167",
+    "Name": "Crisis/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-057",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-168",
+    "Name": "Ironwall/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-169",
+    "Name": "Friendship/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-170",
+    "Name": "Satiated/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-074",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-171",
+    "Name": "Stonethrower/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Lime",
+    "Skills": [
+      {
+        "SkillId": "skill-089",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-172",
+    "Name": "Resistor/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-025",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-173",
+    "Name": "Flight/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-050",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-174",
+    "Name": "Sprinter/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-063",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-175",
+    "Name": "Refresh/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-066",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-176",
+    "Name": "Jumping/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-069",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-177",
+    "Name": "Sheath/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-071",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-178",
+    "Name": "Gobbler/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-075",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-179",
+    "Name": "Grinder/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-076",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-180",
+    "Name": "Bomber/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-077",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-181",
+    "Name": "Fungiform/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-078",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-182",
+    "Name": "Slider/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-106",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-183",
+    "Name": "Guardian/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-138",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-184",
+    "Name": "Drain/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-048",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-185",
+    "Name": "Fortitude/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-055",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-186",
+    "Name": "Crisis/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-057",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-187",
+    "Name": "Ironwall/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-188",
+    "Name": "Friendship/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-189",
+    "Name": "Satiated/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-074",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-190",
+    "Name": "Stonethrower/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Lime",
+    "Skills": [
+      {
+        "SkillId": "skill-089",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-191",
+    "Name": "Resistor/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-025",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-192",
+    "Name": "Flight/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-050",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-193",
+    "Name": "Sprinter/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-063",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-194",
+    "Name": "Refresh/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-066",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-195",
+    "Name": "Jumping/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-069",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-196",
+    "Name": "Sheath/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-071",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-197",
+    "Name": "Gobbler/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-075",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-198",
+    "Name": "Grinder/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-076",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-199",
+    "Name": "Bomber/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-077",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-200",
+    "Name": "Fungiform/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-078",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-201",
+    "Name": "Slider/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-106",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-202",
+    "Name": "Guardian/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-138",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-203",
+    "Name": "Drain/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-048",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-204",
+    "Name": "Fortitude/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-055",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-205",
+    "Name": "Crisis/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-057",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-206",
+    "Name": "Ironwall/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-207",
+    "Name": "Friendship/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-208",
+    "Name": "Satiated/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-074",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-209",
+    "Name": "Stonethrower/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Lime",
+    "Skills": [
+      {
+        "SkillId": "skill-089",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-210",
+    "Name": "Resistor/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-025",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-211",
+    "Name": "Flight/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-050",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-212",
+    "Name": "Sprinter/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-063",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-213",
+    "Name": "Refresh/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-066",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-214",
+    "Name": "Jumping/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-069",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-215",
+    "Name": "Sheath/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-071",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-216",
+    "Name": "Gobbler/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-075",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-217",
+    "Name": "Grinder/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-076",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-218",
+    "Name": "Bomber/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-077",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-219",
+    "Name": "Fungiform/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-078",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-220",
+    "Name": "Slider/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-106",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-221",
+    "Name": "Guardian/Attack Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-138",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-015",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-222",
+    "Name": "Drain/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-048",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-223",
+    "Name": "Fortitude/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-055",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-224",
+    "Name": "Crisis/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-057",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-225",
+    "Name": "Ironwall/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-226",
+    "Name": "Friendship/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-227",
+    "Name": "Satiated/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-074",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-228",
+    "Name": "Stonethrower/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Lime",
+    "Skills": [
+      {
+        "SkillId": "skill-089",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-229",
+    "Name": "Resistor/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-025",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-230",
+    "Name": "Flight/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-050",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-231",
+    "Name": "Sprinter/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-063",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-232",
+    "Name": "Refresh/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-066",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-233",
+    "Name": "Jumping/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-069",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-234",
+    "Name": "Sheath/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-071",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-235",
+    "Name": "Gobbler/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-075",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-236",
+    "Name": "Grinder/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-076",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-237",
+    "Name": "Bomber/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-077",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-238",
+    "Name": "Fungiform/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-078",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-239",
+    "Name": "Slider/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-106",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-240",
+    "Name": "Guardian/Expert Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 9,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-138",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-039",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-241",
+    "Name": "Drain/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-048",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-242",
+    "Name": "Fortitude/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-055",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-243",
+    "Name": "Crisis/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-057",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-244",
+    "Name": "Ironwall/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-245",
+    "Name": "Friendship/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-246",
+    "Name": "Satiated/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-074",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-247",
+    "Name": "Stonethrower/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Lime",
+    "Skills": [
+      {
+        "SkillId": "skill-089",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-248",
+    "Name": "Resistor/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-025",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-249",
+    "Name": "Flight/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-050",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-250",
+    "Name": "Sprinter/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-063",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-251",
+    "Name": "Refresh/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-066",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-252",
+    "Name": "Jumping/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-069",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-253",
+    "Name": "Sheath/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-071",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-254",
+    "Name": "Gobbler/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-075",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-255",
+    "Name": "Grinder/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-076",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-256",
+    "Name": "Bomber/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-077",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-257",
+    "Name": "Fungiform/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-078",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-258",
+    "Name": "Slider/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-106",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-259",
+    "Name": "Guardian/Release Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-138",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-260",
+    "Name": "Drain/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-048",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-261",
+    "Name": "Fortitude/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-055",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-262",
+    "Name": "Crisis/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-057",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-263",
+    "Name": "Ironwall/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-070",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-264",
+    "Name": "Friendship/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-072",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-265",
+    "Name": "Satiated/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-074",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-266",
+    "Name": "Stonethrower/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Lime",
+    "Skills": [
+      {
+        "SkillId": "skill-089",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-267",
+    "Name": "Resistor/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-025",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-268",
+    "Name": "Flight/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-050",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-269",
+    "Name": "Sprinter/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-063",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-270",
+    "Name": "Refresh/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-066",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-271",
+    "Name": "Jumping/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-069",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-272",
+    "Name": "Sheath/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-071",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-273",
+    "Name": "Gobbler/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-075",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-274",
+    "Name": "Grinder/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-076",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-275",
+    "Name": "Bomber/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-077",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-276",
+    "Name": "Fungiform/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-078",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-277",
+    "Name": "Slider/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-106",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-278",
+    "Name": "Guardian/Handicraft Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-138",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-279",
+    "Name": "Footing/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-011",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-280",
+    "Name": "Charger/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-042",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-281",
+    "Name": "Enhancer/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-043",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-282",
+    "Name": "Destroyer/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-046",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-283",
+    "Name": "KO/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-047",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-284",
+    "Name": "Potential/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-285",
+    "Name": "Wind Resist/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-286",
+    "Name": "Draw/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-045",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-287",
+    "Name": "Throttle/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-288",
+    "Name": "Challenger/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-289",
+    "Name": "Flawless/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-053",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-290",
+    "Name": "Furor/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-291",
+    "Name": "Mighty/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-088",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-292",
+    "Name": "Brace/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-091",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-293",
+    "Name": "Phoenix/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-139",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-294",
+    "Name": "Earplug/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-295",
+    "Name": "Critical/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-040",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-296",
+    "Name": "Tenderizer/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-041",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-297",
+    "Name": "Handicraft/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-298",
+    "Name": "Release/Protection Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-084",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-299",
+    "Name": "Footing/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-011",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-300",
+    "Name": "Charger/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-042",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-301",
+    "Name": "Enhancer/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-043",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-302",
+    "Name": "Destroyer/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-046",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-303",
+    "Name": "KO/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-047",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-304",
+    "Name": "Potential/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-305",
+    "Name": "Wind Resist/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-306",
+    "Name": "Draw/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-045",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-307",
+    "Name": "Throttle/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-308",
+    "Name": "Challenger/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-309",
+    "Name": "Flawless/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-053",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-310",
+    "Name": "Furor/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-311",
+    "Name": "Mighty/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-088",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-312",
+    "Name": "Brace/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-091",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-313",
+    "Name": "Phoenix/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-139",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-314",
+    "Name": "Earplug/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-315",
+    "Name": "Critical/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-040",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-316",
+    "Name": "Tenderizer/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-041",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-317",
+    "Name": "Handicraft/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-318",
+    "Name": "Release/Medicine Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-018",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-319",
+    "Name": "Footing/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-011",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-320",
+    "Name": "Charger/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-042",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-321",
+    "Name": "Enhancer/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-043",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-322",
+    "Name": "Destroyer/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-046",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-323",
+    "Name": "KO/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-047",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-324",
+    "Name": "Potential/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-325",
+    "Name": "Wind Resist/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-326",
+    "Name": "Draw/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-045",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-327",
+    "Name": "Throttle/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-328",
+    "Name": "Challenger/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-329",
+    "Name": "Flawless/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-053",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-330",
+    "Name": "Furor/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-331",
+    "Name": "Mighty/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-088",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-332",
+    "Name": "Brace/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-091",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-333",
+    "Name": "Phoenix/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-139",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-334",
+    "Name": "Earplug/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-335",
+    "Name": "Critical/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-040",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-336",
+    "Name": "Tenderizer/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-041",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-337",
+    "Name": "Handicraft/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-338",
+    "Name": "Release/Vitality Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-017",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-339",
+    "Name": "Footing/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-011",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-340",
+    "Name": "Charger/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-042",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-341",
+    "Name": "Enhancer/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-043",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-342",
+    "Name": "Destroyer/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-046",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-343",
+    "Name": "KO/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-047",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-344",
+    "Name": "Potential/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-345",
+    "Name": "Wind Resist/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-346",
+    "Name": "Draw/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-045",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-347",
+    "Name": "Throttle/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-348",
+    "Name": "Challenger/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-349",
+    "Name": "Flawless/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-053",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-350",
+    "Name": "Furor/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-351",
+    "Name": "Mighty/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-088",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-352",
+    "Name": "Brace/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 10,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-091",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-353",
+    "Name": "Phoenix/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-139",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-354",
+    "Name": "Earplug/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-355",
+    "Name": "Critical/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-040",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-356",
+    "Name": "Tenderizer/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-041",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-357",
+    "Name": "Handicraft/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-358",
+    "Name": "Release/Maintenance Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-105",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-359",
+    "Name": "Footing/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-011",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-360",
+    "Name": "Charger/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-042",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-361",
+    "Name": "Enhancer/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-043",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-362",
+    "Name": "Destroyer/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-046",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-363",
+    "Name": "KO/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-047",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-364",
+    "Name": "Potential/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-365",
+    "Name": "Wind Resist/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-366",
+    "Name": "Draw/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-045",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-367",
+    "Name": "Throttle/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-368",
+    "Name": "Challenger/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-369",
+    "Name": "Flawless/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-053",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-370",
+    "Name": "Furor/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-371",
+    "Name": "Mighty/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-088",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-372",
+    "Name": "Brace/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-091",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-373",
+    "Name": "Phoenix/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-139",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-374",
+    "Name": "Earplug/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-375",
+    "Name": "Critical/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-040",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-376",
+    "Name": "Tenderizer/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-041",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-377",
+    "Name": "Handicraft/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-378",
+    "Name": "Release/Physique Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-064",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-379",
+    "Name": "Footing/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-011",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-380",
+    "Name": "Charger/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-042",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-381",
+    "Name": "Enhancer/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "LightBeige",
+    "Skills": [
+      {
+        "SkillId": "skill-043",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-382",
+    "Name": "Destroyer/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-046",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-383",
+    "Name": "KO/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Yellow",
+    "Skills": [
+      {
+        "SkillId": "skill-047",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-384",
+    "Name": "Potential/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-054",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-385",
+    "Name": "Wind Resist/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-010",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-386",
+    "Name": "Draw/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-045",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-387",
+    "Name": "Throttle/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-051",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-388",
+    "Name": "Challenger/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-052",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-389",
+    "Name": "Flawless/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-053",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-390",
+    "Name": "Furor/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "DarkRed",
+    "Skills": [
+      {
+        "SkillId": "skill-056",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-391",
+    "Name": "Mighty/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-088",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-392",
+    "Name": "Brace/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 11,
+    "IconColor": "Gray",
+    "Skills": [
+      {
+        "SkillId": "skill-091",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-393",
+    "Name": "Phoenix/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-139",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-394",
+    "Name": "Earplug/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-009",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-395",
+    "Name": "Critical/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-040",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-396",
+    "Name": "Tenderizer/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "Violet",
+    "Skills": [
+      {
+        "SkillId": "skill-041",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-397",
+    "Name": "Handicraft/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-044",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-398",
+    "Name": "Release/Evasion Jewel 4",
+    "RequiredSlotSize": 4,
+    "Rarity": 12,
+    "IconColor": "Cyan",
+    "Skills": [
+      {
+        "SkillId": "skill-038",
+        "SkillLevel": 1
+      },
+      {
+        "SkillId": "skill-068",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-399",
+    "Name": "Survival Jewel 1",
+    "RequiredSlotSize": 1,
+    "Rarity": 9,
+    "IconColor": "Beige",
+    "Skills": [
+      {
+        "SkillId": "skill-095",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-400",
+    "Name": "Guardian Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 10,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-138",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-402",
+    "Name": "Cooling Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 9,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-014",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-403",
+    "Name": "Warming Jewel 2",
+    "RequiredSlotSize": 2,
+    "Rarity": 9,
+    "IconColor": "White",
+    "Skills": [
+      {
+        "SkillId": "skill-176",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-404",
+    "Name": "Diversion Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 11,
+    "IconColor": "Orange",
+    "Skills": [
+      {
+        "SkillId": "skill-177",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-405",
+    "Name": "Acrobat Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 11,
+    "IconColor": "Blue",
+    "Skills": [
+      {
+        "SkillId": "skill-178",
+        "SkillLevel": 1
+      }
+    ]
+  },
+  {
+    "DecorationId": "decoration-406",
+    "Name": "Shaver Jewel 3",
+    "RequiredSlotSize": 3,
+    "Rarity": 11,
+    "IconColor": "Red",
+    "Skills": [
+      {
+        "SkillId": "skill-169",
+        "SkillLevel": 1
+      }
+    ]
+  }
+]

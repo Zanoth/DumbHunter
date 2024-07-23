@@ -1,0 +1,3276 @@
+[
+  {
+    "SkillId": "skill-001",
+    "Name": "Poison Resistance",
+    "IconColor": "Violet",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces the number of times you take poison damage"
+      },
+      {
+        "Level": 2,
+        "Description": "Greatly reduces the number of times you take poison damage."
+      },
+      {
+        "Level": 3,
+        "Description": "Prevents poison."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-002",
+    "Name": "Paralysis Resistance",
+    "IconColor": "Yellow",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces the duration of paralysis by 30%."
+      },
+      {
+        "Level": 2,
+        "Description": "Reduces the duration of paralysis by 60%."
+      },
+      {
+        "Level": 3,
+        "Description": "Prevents paralysis."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-003",
+    "Name": "Sleep Resistance",
+    "IconColor": "Cyan",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces the duration of sleep by 30%."
+      },
+      {
+        "Level": 2,
+        "Description": "Reduces the duration of sleep by 60%."
+      },
+      {
+        "Level": 3,
+        "Description": "Prevents sleep."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-004",
+    "Name": "Stun Resistance",
+    "IconColor": "Gold",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces the duration of stun by 60%."
+      },
+      {
+        "Level": 2,
+        "Description": "Reduces the duration of stun by 90%."
+      },
+      {
+        "Level": 3,
+        "Description": "Prevents stun."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-005",
+    "Name": "Muck Resistance",
+    "IconColor": "Gray",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces limits on movement speed and evasion."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-006",
+    "Name": "Blast Resistance",
+    "IconColor": "Orange",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Delays blastblight and reduces blast damage."
+      },
+      {
+        "Level": 2,
+        "Description": "Greatly delays blastblight and greatly reduces blast damage."
+      },
+      {
+        "Level": 3,
+        "Description": "Prevents blastblight."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-007",
+    "Name": "Bleeding Resistance",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces damage while bleeding."
+      },
+      {
+        "Level": 2,
+        "Description": "Greatly reduces damage while bleeding."
+      },
+      {
+        "Level": 3,
+        "Description": "Prevents bleeding."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-008",
+    "Name": "Iron Skin",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces the duration of Defense Down by 50%."
+      },
+      {
+        "Level": 2,
+        "Description": "Reduces the duration of Defense Down by 75%."
+      },
+      {
+        "Level": 3,
+        "Description": "Prevents Defense Down."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-009",
+    "Name": "Earplugs",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Slightly reduces the effects of weak monster roars."
+      },
+      {
+        "Level": 2,
+        "Description": "Reduces the effects of weak monster roars."
+      },
+      {
+        "Level": 3,
+        "Description": "Nullifies weak monster roars."
+      },
+      {
+        "Level": 4,
+        "Description": "Nullifies weak monster roars and reduces the effects of strong monster roars."
+      },
+      {
+        "Level": 5,
+        "Description": "Nullifies weak and strong monster roars."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-010",
+    "Name": "Windproof",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Slightly reduces the effects of minor wind pressure."
+      },
+      {
+        "Level": 2,
+        "Description": "Reduces the effects of minor wind pressure."
+      },
+      {
+        "Level": 3,
+        "Description": "Negates minor wind pressure."
+      },
+      {
+        "Level": 4,
+        "Description": "Negates minor wind pressure and reduces the effects of major wind pressure."
+      },
+      {
+        "Level": 5,
+        "Description": "Negates minor and major wind pressure."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-011",
+    "Name": "Tremor Resistance",
+    "IconColor": "Gray",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Nullifies minor ground tremors."
+      },
+      {
+        "Level": 2,
+        "Description": "Nullifies minor ground tremors and reduces the effects of major ground tremors."
+      },
+      {
+        "Level": 3,
+        "Description": "Nullifies minor and major ground tremors."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-012",
+    "Name": "Dungmaster",
+    "IconColor": "DarkBeige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Makes slinger dung pods more effective at making monsters run away."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-013",
+    "Name": "Effluvial Expert",
+    "IconColor": "DarkBeige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Nullifies damage from effluvia and reduces damage from acids."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-014",
+    "Name": "Heat Guard",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Nullifies heat damage."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-015",
+    "Name": "Attack Boost",
+    "IconColor": "Red",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Attack +3"
+      },
+      {
+        "Level": 2,
+        "Description": "Attack +6"
+      },
+      {
+        "Level": 3,
+        "Description": "Attack +9"
+      },
+      {
+        "Level": 4,
+        "Description": "Attack +12 Affinity +5%"
+      },
+      {
+        "Level": 5,
+        "Description": "Attack +15 Affinity +5%"
+      },
+      {
+        "Level": 6,
+        "Description": "Attack +18 Affinity +5%"
+      },
+      {
+        "Level": 7,
+        "Description": "Attack +21 Affinity +5%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-016",
+    "Name": "Defense Boost",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Defense +5"
+      },
+      {
+        "Level": 2,
+        "Description": "Defense +10"
+      },
+      {
+        "Level": 3,
+        "Description": "Defense +5% Bonus: +10"
+      },
+      {
+        "Level": 4,
+        "Description": "Defense +5% Bonus: +20 All Elemental Resistances +3"
+      },
+      {
+        "Level": 5,
+        "Description": "Defense +8% Bonus: +20 All Elemental Resistances +3"
+      },
+      {
+        "Level": 6,
+        "Description": "Defense +8% Bonus: +35 All Elemental Resistances +5"
+      },
+      {
+        "Level": 7,
+        "Description": "Defense +10% Bonus: +35 All Elemental Resistances +5"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-017",
+    "Name": "Health Boost",
+    "IconColor": "Green",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Health +15"
+      },
+      {
+        "Level": 2,
+        "Description": "Health +30"
+      },
+      {
+        "Level": 3,
+        "Description": "Health +50"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-018",
+    "Name": "Recovery Up",
+    "IconColor": "Green",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Recovery +10%"
+      },
+      {
+        "Level": 2,
+        "Description": "Recovery +20%"
+      },
+      {
+        "Level": 3,
+        "Description": "Recovery +30%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-019",
+    "Name": "Recovery Speed",
+    "IconColor": "Green",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Doubles the speed at which you heal recoverable damage."
+      },
+      {
+        "Level": 2,
+        "Description": "Triples the speed at which you heal recoverable damage."
+      },
+      {
+        "Level": 3,
+        "Description": "Quadruples the speed at which you heal recoverable damage."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-020",
+    "Name": "Fire Resistance",
+    "IconColor": "Red",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Fire resistance +6"
+      },
+      {
+        "Level": 2,
+        "Description": "Fire resistance +12"
+      },
+      {
+        "Level": 3,
+        "Description": "Fire resistance +20 Defense +10"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-021",
+    "Name": "Water Resistance",
+    "IconColor": "Blue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Water resistance +6"
+      },
+      {
+        "Level": 2,
+        "Description": "Water resistance +12"
+      },
+      {
+        "Level": 3,
+        "Description": "Water resistance +20 Defense +10"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-022",
+    "Name": "Ice Resistance",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Ice resistance +6"
+      },
+      {
+        "Level": 2,
+        "Description": "Ice resistance +12"
+      },
+      {
+        "Level": 3,
+        "Description": "Ice resistance +20 Defense +10"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-023",
+    "Name": "Thunder Resistance",
+    "IconColor": "Gold",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Thunder resistance +6"
+      },
+      {
+        "Level": 2,
+        "Description": "Thunder resistance +12"
+      },
+      {
+        "Level": 3,
+        "Description": "Thunder resistance +20 Defense +10"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-024",
+    "Name": "Dragon Resistance",
+    "IconColor": "DarkRed",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Dragon resistance +6"
+      },
+      {
+        "Level": 2,
+        "Description": "Dragon resistance +12"
+      },
+      {
+        "Level": 3,
+        "Description": "Dragon resistance +20 Defense +10"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-025",
+    "Name": "Blight Resistance",
+    "IconColor": "DarkBlue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces the duration of all elemental blights by 50%."
+      },
+      {
+        "Level": 2,
+        "Description": "Reduces the duration of all elemental blights by 75%."
+      },
+      {
+        "Level": 3,
+        "Description": "Nullifies all elemental blights."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-026",
+    "Name": "Fire Attack",
+    "IconColor": "Red",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Fire attack +30"
+      },
+      {
+        "Level": 2,
+        "Description": "Fire attack +60"
+      },
+      {
+        "Level": 3,
+        "Description": "Fire attack +100"
+      },
+      {
+        "Level": 4,
+        "Description": "Fire attack +5% Bonus: +100"
+      },
+      {
+        "Level": 5,
+        "Description": "Fire attack +10% Bonus: +100"
+      },
+      {
+        "Level": 6,
+        "Description": "Fire attack +20% Bonus: +100"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-027",
+    "Name": "Water Attack",
+    "IconColor": "Blue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Water attack +30"
+      },
+      {
+        "Level": 2,
+        "Description": "Water attack +60"
+      },
+      {
+        "Level": 3,
+        "Description": "Water attack +100"
+      },
+      {
+        "Level": 4,
+        "Description": "Water attack +5% Bonus: +100"
+      },
+      {
+        "Level": 5,
+        "Description": "Water attack +10% Bonus: +100"
+      },
+      {
+        "Level": 6,
+        "Description": "Water attack +20% Bonus: +100"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-028",
+    "Name": "Ice Attack",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Ice attack +30"
+      },
+      {
+        "Level": 2,
+        "Description": "Ice attack +60"
+      },
+      {
+        "Level": 3,
+        "Description": "Ice attack +100"
+      },
+      {
+        "Level": 4,
+        "Description": "Ice attack +5% Bonus: +100"
+      },
+      {
+        "Level": 5,
+        "Description": "Ice attack +10% Bonus: +100"
+      },
+      {
+        "Level": 6,
+        "Description": "Ice attack +20% Bonus: +100"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-029",
+    "Name": "Thunder Attack",
+    "IconColor": "Gold",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Thunder attack +30"
+      },
+      {
+        "Level": 2,
+        "Description": "Thunder attack +60"
+      },
+      {
+        "Level": 3,
+        "Description": "Thunder attack +100"
+      },
+      {
+        "Level": 4,
+        "Description": "Thunder attack +5% Bonus: +100"
+      },
+      {
+        "Level": 5,
+        "Description": "Thunder attack +10% Bonus: +100"
+      },
+      {
+        "Level": 6,
+        "Description": "Thunder attack +20% Bonus: +100"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-030",
+    "Name": "Dragon Attack",
+    "IconColor": "DarkRed",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Dragon attack +30"
+      },
+      {
+        "Level": 2,
+        "Description": "Dragon attack +60"
+      },
+      {
+        "Level": 3,
+        "Description": "Dragon attack +100"
+      },
+      {
+        "Level": 4,
+        "Description": "Dragon attack +5% Bonus: +100"
+      },
+      {
+        "Level": 5,
+        "Description": "Dragon attack +10% Bonus: +100"
+      },
+      {
+        "Level": 6,
+        "Description": "Dragon attack +20% Bonus: +100"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-031",
+    "Name": "Poison Attack",
+    "IconColor": "Violet",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Poison buildup +5% Bonus: +10"
+      },
+      {
+        "Level": 2,
+        "Description": "Poison buildup +10% Bonus: +10"
+      },
+      {
+        "Level": 3,
+        "Description": "Poison buildup +20% Bonus: +10"
+      },
+      {
+        "Level": 4,
+        "Description": "Poison buildup +30% Bonus: +10"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-032",
+    "Name": "Paralysis Attack",
+    "IconColor": "Yellow",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Paralysis buildup +5% Bonus: +10"
+      },
+      {
+        "Level": 2,
+        "Description": "Paralysis buildup +10% Bonus: +10"
+      },
+      {
+        "Level": 3,
+        "Description": "Paralysis buildup +20% Bonus: +10"
+      },
+      {
+        "Level": 4,
+        "Description": "Paralysis buildup +30% Bonus: +10"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-033",
+    "Name": "Sleep Attack",
+    "IconColor": "Cyan",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Sleep buildup +5% Bonus: +10"
+      },
+      {
+        "Level": 2,
+        "Description": "Sleep buildup +10% Bonus: +10"
+      },
+      {
+        "Level": 3,
+        "Description": "Sleep buildup +20% Bonus: +10"
+      },
+      {
+        "Level": 4,
+        "Description": "Sleep buildup +30% Bonus: +10"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-034",
+    "Name": "Blast Attack",
+    "IconColor": "Orange",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Blast buildup +5% Bonus: +10"
+      },
+      {
+        "Level": 2,
+        "Description": "Blast buildup +10% Bonus: +10"
+      },
+      {
+        "Level": 3,
+        "Description": "Blast buildup +20% Bonus: +10"
+      },
+      {
+        "Level": 4,
+        "Description": "Blast buildup +30% Bonus: +10"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-035",
+    "Name": "Normal Shots",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases the power of normal ammo and normal arrows."
+      },
+      {
+        "Level": 2,
+        "Description": "Greatly increases the power of normal ammo and normal arrows."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-036",
+    "Name": "Piercing Shots",
+    "IconColor": "Blue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases the power of piercing ammo and Dragon Piercer."
+      },
+      {
+        "Level": 2,
+        "Description": "Greatly increases the power of piercing ammo and Dragon Piercer."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-037",
+    "Name": "Spread/Power Shots",
+    "IconColor": "DarkGreen",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases the power of spread ammo, power shot arrows, and Thousand Dragons."
+      },
+      {
+        "Level": 2,
+        "Description": "Greatly increases the power of spread ammo, power shot arrows, and Thousand Dragons."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-038",
+    "Name": "Free Elem/Ammo Up",
+    "IconColor": "Cyan",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Draws out 33% of hidden element and expands clip size for some ammo."
+      },
+      {
+        "Level": 2,
+        "Description": "Draws out 66% of hidden element and expands clip size for many ammo."
+      },
+      {
+        "Level": 3,
+        "Description": "Draws out 100% of hidden element and expands clip size for most ammo."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-039",
+    "Name": "Critical Eye",
+    "IconColor": "DarkBlue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Affinity +5%"
+      },
+      {
+        "Level": 2,
+        "Description": "Affinity +10%"
+      },
+      {
+        "Level": 3,
+        "Description": "Affinity +15%"
+      },
+      {
+        "Level": 4,
+        "Description": "Affinity +20%"
+      },
+      {
+        "Level": 5,
+        "Description": "Affinity +25%"
+      },
+      {
+        "Level": 6,
+        "Description": "Affinity +30%"
+      },
+      {
+        "Level": 7,
+        "Description": "Affinity +40%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-040",
+    "Name": "Critical Boost",
+    "IconColor": "DarkBlue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases damage dealt by critical hits to 30%."
+      },
+      {
+        "Level": 2,
+        "Description": "Increases damage dealt by critical hits to 35%."
+      },
+      {
+        "Level": 3,
+        "Description": "Increases damage dealt by critical hits to 40%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-041",
+    "Name": "Weakness Exploit",
+    "IconColor": "DarkBlue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+      },
+      {
+        "Level": 2,
+        "Description": "Attacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts."
+      },
+      {
+        "Level": 3,
+        "Description": "Attacks that hit weak spots have 30% increased affinity, with an extra 20% on wounded parts."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-042",
+    "Name": "Focus",
+    "IconColor": "LightBeige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases gauge fill rate by 5% and reduces charge times by 5%."
+      },
+      {
+        "Level": 2,
+        "Description": "Increases gauge fill rate by 10% and reduces charge times by 10%."
+      },
+      {
+        "Level": 3,
+        "Description": "Increases gauge fill rate by 20% and reduces charge times by 15%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-043",
+    "Name": "Power Prolonger",
+    "IconColor": "LightBeige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Slightly increases the duration weapons are powered up."
+      },
+      {
+        "Level": 2,
+        "Description": "Increases the duration weapons are powered up."
+      },
+      {
+        "Level": 3,
+        "Description": "Greatly increases the duration weapons are powered up."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-044",
+    "Name": "Handicraft",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Weapon sharpness +10"
+      },
+      {
+        "Level": 2,
+        "Description": "Weapon sharpness +20"
+      },
+      {
+        "Level": 3,
+        "Description": "Weapon sharpness +30"
+      },
+      {
+        "Level": 4,
+        "Description": "Weapon sharpness +40"
+      },
+      {
+        "Level": 5,
+        "Description": "Weapon sharpness +50"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-045",
+    "Name": "Critical Draw",
+    "IconColor": "DarkBlue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Draw attack affinity +30%"
+      },
+      {
+        "Level": 2,
+        "Description": "Draw attack affinity +60%"
+      },
+      {
+        "Level": 3,
+        "Description": "Draw attack affinity +100%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-046",
+    "Name": "Partbreaker",
+    "IconColor": "Gray",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Part damage +10%"
+      },
+      {
+        "Level": 2,
+        "Description": "Part damage +20%"
+      },
+      {
+        "Level": 3,
+        "Description": "Part damage +30%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-047",
+    "Name": "Slugger",
+    "IconColor": "Gold",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Stun power +20%"
+      },
+      {
+        "Level": 2,
+        "Description": "Stun power +30%"
+      },
+      {
+        "Level": 3,
+        "Description": "Stun power +40%"
+      },
+      {
+        "Level": 4,
+        "Description": "Stun power +50%"
+      },
+      {
+        "Level": 5,
+        "Description": "Stun power +60%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-048",
+    "Name": "Stamina Thief",
+    "IconColor": "Cyan",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Exhaust power +20%"
+      },
+      {
+        "Level": 2,
+        "Description": "Exhaust power +30%"
+      },
+      {
+        "Level": 3,
+        "Description": "Exhaust power +40%"
+      },
+      {
+        "Level": 4,
+        "Description": "Exhaust power +50%"
+      },
+      {
+        "Level": 5,
+        "Description": "Exhaust power +60%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-049",
+    "Name": "Master Mounter",
+    "IconColor": "Blue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Makes it easier to mount monsters and down mounted monsters."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-050",
+    "Name": "Airborne",
+    "IconColor": "Blue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Jumping attack power +30%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-051",
+    "Name": "Latent Power",
+    "IconColor": "Red",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While active, increases affinity by 10% and reduces stamina depletion by 30%."
+      },
+      {
+        "Level": 2,
+        "Description": "While active, increases affinity by 20% and reduces stamina depletion by 30%."
+      },
+      {
+        "Level": 3,
+        "Description": "While active, increases affinity by 30% and reduces stamina depletion by 50%."
+      },
+      {
+        "Level": 4,
+        "Description": "While active, increases affinity by 40% and reduces stamina depletion by 50%."
+      },
+      {
+        "Level": 5,
+        "Description": "While active, increases affinity by 50% and reduces stamina depletion by 50%."
+      },
+      {
+        "Level": 6,
+        "Description": "While active, increases affinity by 50%, reduces stamina depletion by 50%. Triggers easier."
+      },
+      {
+        "Level": 7,
+        "Description": "While active, increases affinity by 60%, reduces stamina depletion by 50%. Triggers easier."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-052",
+    "Name": "Agitator",
+    "IconColor": "Red",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While active, grants attack +4 and increases affinity by 5%."
+      },
+      {
+        "Level": 2,
+        "Description": "While active, grants attack +8 and increases affinity by 5%."
+      },
+      {
+        "Level": 3,
+        "Description": "While active, grants attack +12 and increases affinity by 7%."
+      },
+      {
+        "Level": 4,
+        "Description": "While active, grants attack +16 and increases affinity by 7%."
+      },
+      {
+        "Level": 5,
+        "Description": "While active, grants attack +20 and increases affinity by 10%."
+      },
+      {
+        "Level": 6,
+        "Description": "While active, grants attack +24 and increases affinity by 15%."
+      },
+      {
+        "Level": 7,
+        "Description": "While active, grants attack +28 and increases affinity by 20%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-053",
+    "Name": "Peak Performance",
+    "IconColor": "Red",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While active, grants attack +5."
+      },
+      {
+        "Level": 2,
+        "Description": "While active, grants attack +10."
+      },
+      {
+        "Level": 3,
+        "Description": "While active, grants attack +20."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-054",
+    "Name": "Heroics",
+    "IconColor": "Red",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While active, increases defense by 50 points."
+      },
+      {
+        "Level": 2,
+        "Description": "While active, increases attack power by 5% and increases defense by 50 points."
+      },
+      {
+        "Level": 3,
+        "Description": "While active, increases attack power by 5% and increases defense by 100 points."
+      },
+      {
+        "Level": 4,
+        "Description": "While active, increases attack power by 10% and increases defense by 100 points."
+      },
+      {
+        "Level": 5,
+        "Description": "While active, increases attack power by 15% and increases defense by 100 points."
+      },
+      {
+        "Level": 6,
+        "Description": "While active, increases attack power by 25% and increases defense by 150 points."
+      },
+      {
+        "Level": 7,
+        "Description": "While active, increases attack power by 40% and increases defense by 150 points."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-055",
+    "Name": "Fortify",
+    "IconColor": "DarkRed",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases attack by 10% and defense by 15% with each use."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-056",
+    "Name": "Resentment",
+    "IconColor": "DarkRed",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While active, grants attack +5."
+      },
+      {
+        "Level": 2,
+        "Description": "While active, grants attack +10."
+      },
+      {
+        "Level": 3,
+        "Description": "While active, grants attack +15."
+      },
+      {
+        "Level": 4,
+        "Description": "While active, grants attack +20."
+      },
+      {
+        "Level": 5,
+        "Description": "While active, grants attack +25."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-057",
+    "Name": "Resuscitate",
+    "IconColor": "Cyan",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While active, greatly improves evasion invulnerability time and reduces stamina depletion."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-058",
+    "Name": "Horn Maestro",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Extends melody effect duration and increases health recovery."
+      },
+      {
+        "Level": 2,
+        "Description": "Greatly increases the effect duration of hunting horn melodies."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-059",
+    "Name": "Capacity Boost",
+    "IconColor": "Gray",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Loading capacity +1"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-060",
+    "Name": "Special Ammo Boost",
+    "IconColor": "Gray",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases the power of bowgun special ammo, Dragon Piercer, and Thousand Dragons by 10%."
+      },
+      {
+        "Level": 2,
+        "Description": "Increases the power of bowgun special ammo, Dragon Piercer, and Thousand Dragons by 20%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-061",
+    "Name": "Artillery",
+    "IconColor": "Gray",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%."
+      },
+      {
+        "Level": 2,
+        "Description": "Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%."
+      },
+      {
+        "Level": 3,
+        "Description": "Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%."
+      },
+      {
+        "Level": 4,
+        "Description": "Increases power of each attack by 40% and reduces Wyvern's Fire cooldown by 60%."
+      },
+      {
+        "Level": 5,
+        "Description": "Increases power of each attack by 50% and reduces Wyvern's Fire cooldown by 70%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-062",
+    "Name": "Heavy Artillery",
+    "IconColor": "Gray",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Firepower +50%"
+      },
+      {
+        "Level": 2,
+        "Description": "Firepower +100%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-063",
+    "Name": "Marathon Runner",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces continuous stamina depletion by 15%."
+      },
+      {
+        "Level": 2,
+        "Description": "Reduces continuous stamina depletion by 30%."
+      },
+      {
+        "Level": 3,
+        "Description": "Reduces continuous stamina depletion by 50%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-064",
+    "Name": "Constitution",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces fixed stamina depletion by 10%."
+      },
+      {
+        "Level": 2,
+        "Description": "Reduces fixed stamina depletion by 20%."
+      },
+      {
+        "Level": 3,
+        "Description": "Reduces fixed stamina depletion by 30%."
+      },
+      {
+        "Level": 4,
+        "Description": "Reduces fixed stamina depletion by 40%."
+      },
+      {
+        "Level": 5,
+        "Description": "Reduces fixed stamina depletion by 50%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-065",
+    "Name": "Leap of Faith",
+    "IconColor": "Cyan",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Enables Leap of Faith."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-066",
+    "Name": "Stamina Surge",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Stamina recovery speed +10%"
+      },
+      {
+        "Level": 2,
+        "Description": "Stamina recovery speed +20%"
+      },
+      {
+        "Level": 3,
+        "Description": "Stamina recovery speed +30%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-067",
+    "Name": "Hunger Resistance",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Extends the time until your stamina cap decreases by 50%."
+      },
+      {
+        "Level": 2,
+        "Description": "Extends the time until your stamina cap decreases by 100%."
+      },
+      {
+        "Level": 3,
+        "Description": "Prevents your stamina cap from decreasing."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-068",
+    "Name": "Evade Window",
+    "IconColor": "Cyan",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Very slightly increases invulnerability window."
+      },
+      {
+        "Level": 2,
+        "Description": "Slightly increases invulnerability window."
+      },
+      {
+        "Level": 3,
+        "Description": "Increases invulnerability window."
+      },
+      {
+        "Level": 4,
+        "Description": "Greatly increases invulnerability window."
+      },
+      {
+        "Level": 5,
+        "Description": "Massively increases invulnerability window."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-069",
+    "Name": "Evade Extender",
+    "IconColor": "Cyan",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Slightly extends evasion distance."
+      },
+      {
+        "Level": 2,
+        "Description": "Extends evasion distance."
+      },
+      {
+        "Level": 3,
+        "Description": "Greatly extends evasion distance."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-070",
+    "Name": "Guard",
+    "IconColor": "Gray",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Very slightly decreases the impact of attacks."
+      },
+      {
+        "Level": 2,
+        "Description": "Slightly decreases the impact of attacks and reduces stamina depletion by 15%."
+      },
+      {
+        "Level": 3,
+        "Description": "Greatly decreases the impact of attacks and reduces stamina depletion by 15%."
+      },
+      {
+        "Level": 4,
+        "Description": "Greatly decreases the impact of attacks and reduces stamina depletion by 30%."
+      },
+      {
+        "Level": 5,
+        "Description": "Massively decreases the impact of attacks and reduces stamina depletion by 50%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-071",
+    "Name": "Quick Sheath",
+    "IconColor": "LightBeige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Slightly increases sheathing speed."
+      },
+      {
+        "Level": 2,
+        "Description": "Moderately increases sheathing speed."
+      },
+      {
+        "Level": 3,
+        "Description": "Greatly increases sheathing speed."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-072",
+    "Name": "Wide-Range",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Items affect nearby allies with 33% of their efficacy."
+      },
+      {
+        "Level": 2,
+        "Description": "Items affect nearby allies in a wider radius with 33% of their efficacy."
+      },
+      {
+        "Level": 3,
+        "Description": "Items affect nearby allies in a wider radius at 66% of their efficacy."
+      },
+      {
+        "Level": 4,
+        "Description": "Items affect nearby allies in a much wider radius with 66% of their efficacy."
+      },
+      {
+        "Level": 5,
+        "Description": "Items affect nearby allies in a much wider radius with full efficacy."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-073",
+    "Name": "Item Prolonger",
+    "IconColor": "LightBeige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Item effect duration +10%"
+      },
+      {
+        "Level": 2,
+        "Description": "Item effect duration +25%"
+      },
+      {
+        "Level": 3,
+        "Description": "Item effect duration +50%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-074",
+    "Name": "Free Meal",
+    "IconColor": "LightBeige",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Activates 25% of the time."
+      },
+      {
+        "Level": 2,
+        "Description": "Activates 50% of the time."
+      },
+      {
+        "Level": 3,
+        "Description": "Activates 75% of the time."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-075",
+    "Name": "Speed Eating",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Slightly increases item use speed."
+      },
+      {
+        "Level": 2,
+        "Description": "Moderately increases item use speed."
+      },
+      {
+        "Level": 3,
+        "Description": "Greatly increases item use speed."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-076",
+    "Name": "Speed Sharpening",
+    "IconColor": "Gold",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Removes one cycle from the sharpening process."
+      },
+      {
+        "Level": 2,
+        "Description": "Removes two cycles from the sharpening process."
+      },
+      {
+        "Level": 3,
+        "Description": "Removes three cycles from the sharpening process."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-077",
+    "Name": "Bombardier",
+    "IconColor": "Orange",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Explosive power +10%"
+      },
+      {
+        "Level": 2,
+        "Description": "Explosive power +20%"
+      },
+      {
+        "Level": 3,
+        "Description": "Explosive power +30%"
+      },
+      {
+        "Level": 4,
+        "Description": "Explosive power +40%"
+      },
+      {
+        "Level": 5,
+        "Description": "Explosive power +50%"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-078",
+    "Name": "Mushroomancer",
+    "IconColor": "Violet",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Lets you digest blue mushrooms and toadstools."
+      },
+      {
+        "Level": 2,
+        "Description": "Additionally lets you digest nitroshrooms and parashrooms."
+      },
+      {
+        "Level": 3,
+        "Description": "Additionally lets you digest mandragoras, devil's blight, and exciteshrooms."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-079",
+    "Name": "Master Fisher",
+    "IconColor": "Blue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases the time window for reeling in fish, and makes it easier to catch large fish."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-080",
+    "Name": "Pro Transporter",
+    "IconColor": "LightBeige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases movement speed while transporting and reduces downtime on landings."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-081",
+    "Name": "Master Gatherer",
+    "IconColor": "Lime",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Speeds up gathering and prevents knockbacks while gathering."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-082",
+    "Name": "Honey Hunter",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "One extra honey per gather."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-083",
+    "Name": "Carving Pro",
+    "IconColor": "Gray",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Prevents knockback while carving."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-084",
+    "Name": "Divine Blessing",
+    "IconColor": "Blue",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While active, reduces damage taken by 15%."
+      },
+      {
+        "Level": 2,
+        "Description": "While active, reduces damage taken by 30%."
+      },
+      {
+        "Level": 3,
+        "Description": "While active, reduces damage taken by 50%."
+      },
+      {
+        "Level": 4,
+        "Description": "While active, reduces damage taken by 60%."
+      },
+      {
+        "Level": 5,
+        "Description": "While active, reduces damage taken by 60%. Skill becomes easier to activate as well."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-085",
+    "Name": "Palico Rally",
+    "IconColor": "LightBeige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases Palico attack power and defense by 5%."
+      },
+      {
+        "Level": 2,
+        "Description": "Increases Palico attack power and defense by 10%."
+      },
+      {
+        "Level": 3,
+        "Description": "Increases Palico attack power and defense by 15%."
+      },
+      {
+        "Level": 4,
+        "Description": "Increases Palico attack power and defense by 20%."
+      },
+      {
+        "Level": 5,
+        "Description": "Increases Palico attack power and defense by 25%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-086",
+    "Name": "Botanist",
+    "IconColor": "Lime",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "One extra consumable herb item per gather."
+      },
+      {
+        "Level": 2,
+        "Description": "One extra consumable herb, fruit, nut, or seed item per gather."
+      },
+      {
+        "Level": 3,
+        "Description": "One extra consumable herb, fruit, nut, seed, or insect item per gather."
+      },
+      {
+        "Level": 4,
+        "Description": "One extra consumable herb, fruit, nut, seed, insect, or mushroom item per gather."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-087",
+    "Name": "Geologist",
+    "IconColor": "LightBeige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Allows you to gather one extra time from bonepiles."
+      },
+      {
+        "Level": 2,
+        "Description": "Allows you to gather one extra time from bonepiles and special item gathering points."
+      },
+      {
+        "Level": 3,
+        "Description": "Allows you to gather one extra time from bonepiles, gathering points, and mining outcrops."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-088",
+    "Name": "Maximum Might",
+    "IconColor": "Red",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While active, increases affinity by 10%."
+      },
+      {
+        "Level": 2,
+        "Description": "While active, increases affinity by 20%."
+      },
+      {
+        "Level": 3,
+        "Description": "While active, increases affinity by 30%."
+      },
+      {
+        "Level": 4,
+        "Description": "While active, increases affinity by 40%."
+      },
+      {
+        "Level": 5,
+        "Description": "Increases affinity by 40% as soon as the stamina gauge is full."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-089",
+    "Name": "Slinger Capacity",
+    "IconColor": "Lime",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases the loading capacity for slinger ammo collected from the ground or plants."
+      },
+      {
+        "Level": 2,
+        "Description": "In addition, increases the loading capacity for some slinger ammo dropped by monsters."
+      },
+      {
+        "Level": 3,
+        "Description": "In addition, increases the loading capacity for all slinger ammo dropped by monsters."
+      },
+      {
+        "Level": 4,
+        "Description": "Increases the loading capacity for slinger ammo collected from the ground or plants even more."
+      },
+      {
+        "Level": 5,
+        "Description": "Increases the loading capacity for all slinger ammo."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-090",
+    "Name": "Stealth",
+    "IconColor": "Gray",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Makes it slightly easier for monsters to lose sight of you."
+      },
+      {
+        "Level": 2,
+        "Description": "Makes it moderately easier for monsters to lose sight of you."
+      },
+      {
+        "Level": 3,
+        "Description": "Makes it much easier for monsters to lose sight of you."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-091",
+    "Name": "Flinch Free",
+    "IconColor": "Gray",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Prevents knockbacks. Increases some Kinsect extract effects."
+      },
+      {
+        "Level": 2,
+        "Description": "Prevents knockbacks. Tripping is reduced to a knockback. Increases some Kinsect extract effects."
+      },
+      {
+        "Level": 3,
+        "Description": "Prevents knockbacks and tripping. Increases some Kinsect extract effects."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-092",
+    "Name": "Scoutfly Range Up",
+    "IconColor": "Lime",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Expands your scoutflies' detection range."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-093",
+    "Name": "Speed Crawler",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases movement speed while crouching."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-094",
+    "Name": "Jump Master",
+    "IconColor": "Blue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Negates knockback during jumps."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-095",
+    "Name": "Survival Expert",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Interactables restore an additional 50 health."
+      },
+      {
+        "Level": 2,
+        "Description": "Interactables restore an additional 80 health."
+      },
+      {
+        "Level": 3,
+        "Description": "Interactables restore an additional 100 health."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-096",
+    "Name": "Aquatic/Polar Mobility",
+    "IconColor": "Blue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Prevents lowered movement speed."
+      },
+      {
+        "Level": 2,
+        "Description": "Increases your evade window and prevents lowered movement speed."
+      },
+      {
+        "Level": 3,
+        "Description": "Greatly increases evade window and prevents lowered movement speed."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-097",
+    "Name": "Cliffhanger",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces stamina depletion while climbing by 50%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-098",
+    "Name": "Blindsider",
+    "IconColor": "Gold",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases the range of Flash Pods."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-099",
+    "Name": "Scholar",
+    "IconColor": "Lime",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Speeds up progress on research levels and special investigations."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-100",
+    "Name": "Entomologist",
+    "IconColor": "Green",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases the chances of a corpse being left behind."
+      },
+      {
+        "Level": 2,
+        "Description": "Greatly increases the chances of a corpse being left behind."
+      },
+      {
+        "Level": 3,
+        "Description": "Makes it so corpses will always be left behind."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-101",
+    "Name": "Effluvia Resistance",
+    "IconColor": "DarkBeige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Reduces effluvial buildup."
+      },
+      {
+        "Level": 2,
+        "Description": "Greatly reduces effluvial buildup."
+      },
+      {
+        "Level": 3,
+        "Description": "Prevents effluvial buildup."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-102",
+    "Name": "Scenthound",
+    "IconColor": "Beige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases gauge fill rate by 50%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-103",
+    "Name": "Forager's Luck",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases the likelihood of rare gathering points respawning."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-104",
+    "Name": "Detector",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Marks rare sites on the wildlife map."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-105",
+    "Name": "Tool Specialist",
+    "IconColor": "LightBeige",
+    "Secret": 2,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Shortens time until reuse by 10%."
+      },
+      {
+        "Level": 2,
+        "Description": "Shortens time until reuse by 20%."
+      },
+      {
+        "Level": 3,
+        "Description": "Shortens time until reuse by 30%."
+      },
+      {
+        "Level": 4,
+        "Description": "Shortens time until reuse by 40%."
+      },
+      {
+        "Level": 5,
+        "Description": "Shortens time until reuse by 50%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-106",
+    "Name": "Affinity Sliding",
+    "IconColor": "Red",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases affinity by 30% for a short time after sliding."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-107",
+    "Name": "Intimidator",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Discourages monsters from engaging you even if you've been spotted."
+      },
+      {
+        "Level": 2,
+        "Description": "Highly discourages monsters from engaging you even if you've been spotted."
+      },
+      {
+        "Level": 3,
+        "Description": "Prevents monsters from engaging you even if you've been spotted."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-108",
+    "Name": "Hasten Recovery",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Regenerates your health as you continually attack a monster. Recovery varies by weapon."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-109",
+    "Name": "Super Recovery",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Allows recovery to exceed the red portion of the health gauge."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-110",
+    "Name": "Poison Duration Up",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Extends the duration of your poison's effect on monsters."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-111",
+    "Name": "Adrenaline",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Temporarily reduces stamina depletion when health is at 40% or lower."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-112",
+    "Name": "Stamina Cap Up",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases stamina cap."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-113",
+    "Name": "Critical Element",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-114",
+    "Name": "Mind's Eye/Ballistics",
+    "IconColor": "Red",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-115",
+    "Name": "Bludgeoner",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-116",
+    "Name": "Non-elemental Boost",
+    "IconColor": "DarkBeige",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Powers up non-elemental weapons you have equipped."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-117",
+    "Name": "Capture Master",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "High chance of increased capture rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-118",
+    "Name": "Guard Up",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Allows you to guard against ordinarily unblockable attacks."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-119",
+    "Name": "Guts",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Above a certain health threshold, you withstand an attack that would normally cart you (once only)."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-120",
+    "Name": "Master's Touch",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Prevents your weapon from losing sharpness during critical hits."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-121",
+    "Name": "Nullify Wind Pressure",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Negates all wind pressure."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-122",
+    "Name": "Razor Sharp/Spare Shot",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-123",
+    "Name": "Critical Status",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-124",
+    "Name": "Great Luck",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "High chance of increased quest rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-125",
+    "Name": "Carving Master",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Lets you carve one additional time. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-126",
+    "Name": "Good Luck",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Good chance of increased quest rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-127",
+    "Name": "Bow Charge Plus",
+    "IconColor": "Blue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases max bow charge level by one."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-128",
+    "Name": "Punishing Draw",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Adds a stun effect to draw attacks and slightly increases attack power."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-129",
+    "Name": "Protective Polish",
+    "IconColor": "DarkRed",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Weapon sharpness does not decrease for a set time after sharpening."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-130",
+    "Name": "BBQ Master",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Makes it easier to cook well-done steaks."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-131",
+    "Name": "Blast Functionality",
+    "IconColor": "Orange",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Lets you use blast coating."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-132",
+    "Name": "Elderseal Boost",
+    "IconColor": "DarkRed",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Boosts Elderseal one level."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-133",
+    "Name": "Para Functionality",
+    "IconColor": "Yellow",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Lets you use paralysis coating."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-134",
+    "Name": "Poison Functionality",
+    "IconColor": "Violet",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Lets you use poison coating."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-135",
+    "Name": "Sleep Functionality",
+    "IconColor": "Cyan",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Lets you use sleep coating."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-136",
+    "Name": "Elemental Airborne",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Elemental damage increased for jumping attacks."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-137",
+    "Name": "True Razor Sharp/Spare Shot",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Greatly reduces sharpness loss. Bows and bowguns have a chance not to expend coatings or ammo."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-138",
+    "Name": "Offensive Guard",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While active, increases attack power by 5%."
+      },
+      {
+        "Level": 2,
+        "Description": "While active, increases attack power by 10%."
+      },
+      {
+        "Level": 3,
+        "Description": "While active, increases attack power by 15%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-139",
+    "Name": "Coalescence",
+    "IconColor": "Violet",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While active, grants attack +12, element attack power +30, and status buildup +5%."
+      },
+      {
+        "Level": 2,
+        "Description": "While active, grants attack +15, element attack power +60, and status buildup +10%."
+      },
+      {
+        "Level": 3,
+        "Description": "While active, grants attack +18, element attack power +90, and status buildup +15%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-140",
+    "Name": "Frostcraft",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "An aura of frost builds when your weapon is sheathed, raising attack. Wanes each melee hit or shot fired."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-141",
+    "Name": "Element Acceleration",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Continually attacking a monster activates Free Element/Ammo Up Lv2 and increases elemental damage."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-142",
+    "Name": "True Element Acceleration",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Continually attacking a monster activates Free Element/Ammo Up Lv3 and increases elemental damage."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-143",
+    "Name": "Gaia's Veil",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While wearing a mantle, gain Windproof Lv3, Earplugs Lv3, Tremor Res Lv3, and Flinch Free."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-144",
+    "Name": "True Gaia's Veil",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "While wearing a mantle, gain Tremor Resistance Lv3, Earplugs Lv5, max Windproof, and Flinch Free."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-145",
+    "Name": "Dragonvein Awakening",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Elem., abnormal status, & affinity up with weapon drawn. Take damage when attacking, but can be recovered by continually attacking."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-146",
+    "Name": "True Dragonvein Awakening",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Enhances attacks even more with weapon drawn. Take damage when attacking, but can be recovered by continually attacking."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-147",
+    "Name": "Free Meal Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-074",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Free Meal skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-148",
+    "Name": "Maximum Might Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-088",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Maximum Might skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-149",
+    "Name": "Bombardier Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-077",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Bombardier skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-150",
+    "Name": "Slugger Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-047",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Slugger skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-151",
+    "Name": "Agitator Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-052",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Agitator skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-152",
+    "Name": "Artillery Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-061",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Artillery skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-153",
+    "Name": "Stamina Thief Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-048",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Stamina Thief skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-154",
+    "Name": "Tool Specialist Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-105",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Tool Specialist skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-155",
+    "Name": "Latent Power Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-051",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Latent Power skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-156",
+    "Name": "Divine Blessing Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-084",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Divine Blessing skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-157",
+    "Name": "Slinger Ammo Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-089",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Slinger Capacity skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-158",
+    "Name": "Heroics Secret",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "skill-054",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Raises the maximum level of the Heroics skill."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-159",
+    "Name": "True Critical Status",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Greatly increases status effect damage (paralysis, poison, sleep, blast) when landing critical hits."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-160",
+    "Name": "True Critical Element",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Greatly increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-161",
+    "Name": "Joy's Gift",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases odds of getting special Holiday Joy rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-162",
+    "Name": "Joy's Gratitude",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Greatly increases odds of getting special Holiday Joy rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-163",
+    "Name": "Gratitude's Gift",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases odds of getting special Grand Appreciation rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-164",
+    "Name": "Gratitude's Blessing",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Greatly increases odds of getting special Grand Appreciation rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-165",
+    "Name": "Full Bloom's Gift",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases odds of getting special Full Bloom rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-166",
+    "Name": "Full Bloom Gratitude",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Greatly increases odds of getting special Full Bloom rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-167",
+    "Name": "Element Conversion",
+    "IconColor": "Violet",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Equipped weapon's elemental power increases as your armor's elemental resistance increases."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-168",
+    "Name": "All Elemental Resistance",
+    "IconColor": "Violet",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases all elemental resistances +20%."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-169",
+    "Name": "Clutch Claw Boost",
+    "IconColor": "Red",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Clutch claw weapon attacks wound monsters easier, and have a better chance of dropping slinger ammo."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-170",
+    "Name": "Inheritance",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Removes the skill level cap for the skill secrets."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-171",
+    "Name": "Transcendance",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Grants True Razor Sharp/Spare Shot. Health/Stamina +100 at the start of a quest or after fainting. (Effect doesn't stack.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-172",
+    "Name": "Fun Fright's Gift",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases odds of getting special Fun Fright rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-173",
+    "Name": "Fun Fright's Gratitude",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Greatly increases odds of getting special Fun Fright rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-174",
+    "Name": "Sizzling Gift",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases odds of getting special Sizzling Spice rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-175",
+    "Name": "Sizzling Gratitude",
+    "IconColor": "",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Greatly increases odds of getting special Sizzling Spice rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-176",
+    "Name": "Coldproof",
+    "IconColor": "White",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Nullifies the effects of cold weather."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-177",
+    "Name": "Provoker",
+    "IconColor": "Orange",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Increases the attention drawn when attacking a monster."
+      }
+    ]
+  },
+  {
+    "SkillId": "skill-178",
+    "Name": "Safe Landing",
+    "IconColor": "Blue",
+    "Secret": 0,
+    "UnlocksId": "",
+    "Levels": [
+      {
+        "Level": 1,
+        "Description": "Allows you to quickly recover from heavy attacks that blow you back when you have your weapon unsheathed."
+      }
+    ]
+  }
+]

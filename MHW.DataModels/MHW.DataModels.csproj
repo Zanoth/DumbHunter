@@ -1,0 +1,57 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Decorations\DecorationConfiguration.json" />
+    <None Remove="Gear\Armors\ArmorConfiguration.json" />
+    <None Remove="Gear\Charms\CharmConfiguration.json" />
+    <None Remove="Gear\CraftingRecipes\CharmRecipes.json" />
+    <None Remove="Gear\CraftingRecipes\GearRecipeConfiguration.json" />
+    <None Remove="Gear\Weapons\WeaponConfiguration.json" />
+    <None Remove="Items\ItemConfiguration.json" />
+    <None Remove="Locations\LocationConfiguration.json" />
+    <None Remove="Monsters\Monster rewards - to be merged.json" />
+    <None Remove="Monsters\MonsterConfiguration.json" />
+    <None Remove="Quests\QuestConfiguration.json" />
+    <None Remove="Skills\SkillConfiguration.json" />
+    <None Remove="Skills\SkillConfiguration2.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Decorations\DecorationConfiguration.json" />
+    <EmbeddedResource Include="Gear\Armors\ArmorConfiguration.json" />
+    <EmbeddedResource Include="Gear\Charms\CharmConfiguration.json" />
+    <EmbeddedResource Include="Gear\CraftingRecipes\GearRecipeConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\WeaponConfiguration.json" />
+    <EmbeddedResource Include="Items\ItemConfiguration.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Locations\LocationConfiguration.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monsters\MonsterConfiguration.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quests\QuestConfiguration.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Skills\SkillConfiguration.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Serialization.Abstraction\Serialization.Abstraction.csproj" />
+    <ProjectReference Include="..\SharedDataModels.Abstractions\SharedDataModels.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>
