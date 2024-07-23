@@ -5,6 +5,20 @@ namespace Serialization.Abstraction.UnitTests;
 public class JsonSerializorFixture
 {
   [Fact]
+  public void Constructor_GivenInvalidJsonConverters_ShouldThrowInvalidOperationException()
+  {
+    // Arrange
+    var invalidConverters = new List<IJsonConverter> { new InvalidJsonConverter() };
+
+    // Act
+    Action act = () => new JsonSerializor(invalidConverters);
+
+    // Assert
+    act.Should().Throw<InvalidOperationException>()
+      .WithMessage("Cannot convert IJsonConverter to JsonConverter.");
+  }
+
+  [Fact]
   public void Serialize_GivenObject_ShouldReturnJsonString()
   {
     // Arrange
@@ -42,6 +56,11 @@ public class JsonSerializorFixture
   {
     public string Name { get; set; }
     public int Value { get; set; }
+  }
+
+  private class InvalidJsonConverter : IJsonConverter
+  {
+    // Implementation not necessary for this test
   }
   #endregion
 }

@@ -1,11 +1,17 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Serialization.Abstraction.Converters;
-using System.Reflection;
 
 namespace Serialization.Abstraction;
 
 public class SerilizationContext : ContextBase, IServiceRegistrar
 {
+  private readonly ITypeFinder _typeFinder;
+
+  public SerilizationContext(ITypeFinder typeFinder)
+  {
+    _typeFinder = typeFinder;
+  }
+
   public void RegisterServices(IServiceCollection services)
   {
     services.AddScoped<ISerializor, JsonSerializor>();
@@ -15,9 +21,7 @@ public class SerilizationContext : ContextBase, IServiceRegistrar
 
   private void AutoRegisterServices(IServiceCollection services, Type serviceType)
   {
-    var assembly = Assembly.GetExecutingAssembly();
-    var implementingTypes = assembly.GetTypes()
-      .Where(type => serviceType.IsAssignableFrom(type) && !type.IsInterface && !type.IsAbstract);
+    var implementingTypes = _typeFinder.GetImplementingTypes(serviceType);
 
     foreach (var implementingType in implementingTypes)
       RegisterService(services, serviceType, implementingType);

@@ -69,9 +69,36 @@ public class WeaponTestBuilder
   private int _affinity = 10;
   private int _defense = 20;
   private bool _elementHidden = false;
-  private List<ElementStat> _elementalStats = new() { new ElementStat(ElementType.Fire, 30) };
   private Elderseal _elderseal = Elderseal.Low;
-  private List<DecoSlot> _decoSlots = new() { new DecoSlot(1, DecorationId.New("decoration-456")) };
+
+
+  private List<ElementStat> _elementalStats = new() 
+  { 
+    new ElementStat(ElementType.Fire, 30) 
+  };
+
+  private List<GearSkill> _gearSkills = new() 
+  { 
+    new GearSkill
+    (
+      new Skill(SkillId.New("skill-123"),
+        "Dummy Skill",
+        Color.Red,
+        0,
+        SkillId.New("skill-321"),
+        new List<SkillLevel>
+        {
+          new SkillLevel(0, "level 0"),
+          new SkillLevel(1, "level 1")
+        }),
+      1) 
+  };
+
+  private List<DecoSlot> _decoSlots = new() 
+  { 
+    new DecoSlot(1, DecorationId.New("decoration-456")) 
+  };
+
   private IWeaponMechanic _weaponMechanic = new ShellingMechanics(ShellingType.Normal, 1);
   private Sharpness _sharpness = new(false,
     new List<SharpnessSection>
@@ -179,7 +206,7 @@ public class WeaponTestBuilder
         _elementalStats,
         _elderseal,
         _decoSlots,
-        null,   //TODO: Fix this - left out for now for simplicity
+        _gearSkills,
         _weaponMechanic,
         _sharpness
     );
@@ -205,6 +232,12 @@ public class WeaponTestBuilder
             ""Value"": {section.Value}
           }}"));
 
+    var skillsJson = string.Join(", ", _gearSkills.Select(gearSkill => $@"
+          {{
+            ""SkillId"": ""{gearSkill.Skill.SkillId.Id}"",
+            ""SkillLevel"": {gearSkill.SkillLevel}
+          }}"));
+
     var kinsectBonus = "";
     var phialType = "";
     var phialPower = 0;
@@ -212,37 +245,38 @@ public class WeaponTestBuilder
     var shellingLevel = 0;
     var ammoConfig = "";
 
+    var weaponMechanicStr = "";
+
     if (_weaponMechanic is ShellingMechanics gunlanceStats)
     {
-      shellingType = gunlanceStats.ShellingType.ToString();
-      shellingLevel = gunlanceStats.ShellingLevel;
+      weaponMechanicStr =  $@"
+      {{
+        ""{nameof(ShellingMechanics.ShellingType)}"": ""{gunlanceStats.ShellingType.ToString()}"",
+        ""{nameof(ShellingMechanics.ShellingLevel)}"": {gunlanceStats.ShellingLevel}
+      }}";
     }
     else if (_weaponMechanic is PhialMechanics chargeBladeStats)
     {
-      phialType = chargeBladeStats.PhialType.ToString();
-      phialPower = chargeBladeStats.PhialPower;
+      weaponMechanicStr =  $@"
+      {{
+        ""{nameof(PhialMechanics.PhialType)}"": ""{chargeBladeStats.PhialType.ToString()}"",
+        ""{nameof(PhialMechanics.PhialPower)}"": {chargeBladeStats.PhialPower}
+      }}";
     }
-    //TODO: Add other weapon types
-    //else if (_weaponMechanicStats is InsectGlaiveMechanicStats insectGlaiveStats)
-    //{
-    //  kinsectBonus = insectGlaiveStats.KinsectBonus;
-    //}
-    //else if (_weaponMechanicStats is BowMechanicStats bowStats)
+    else if (_weaponMechanic is KinsectMechanics kinsectMechanics)
+    {
+      weaponMechanicStr =  $@"
+      {{
+        ""{nameof(KinsectMechanics.KinsectBonusType)}"": ""{kinsectMechanics.KinsectBonusType.ToString()}""
+      }}";
+    }
+    //TODO: Add ammo config
+    //else if (_weaponMechanicStats is AmmoMechanics)
     //{
     //  ammoConfig = bowStats.AmmoConfig;
     //}
 
-    //TODO: weaponMechanicStats removed from json for now
-    //""WeaponMechanicStats"": {{
-    //  ""KinsectBonus"": ""{kinsectBonus}"",
-    //  ""Phial"": ""{phialType}"",
-    //  ""PhialPower"": {phialPower},
-    //  ""Shelling"": ""{shellingType}"",
-    //  ""ShellingLevel"": {shellingLevel},
-    //  ""AmmoConfig"": ""{ammoConfig}""
-    //}},
 
-    //TODO: Add skill
     var json = $@"
       {{
         ""{nameof(Weapon.WeaponId)}"": ""{_weaponId.Id}"",
@@ -259,6 +293,8 @@ public class WeaponTestBuilder
         ""{nameof(Weapon.Sharpness)}"": {{
           ""{nameof(Sharpness.IsMaxed)}"": {_sharpness.IsMaxed.ToString().ToLower()},
           ""{nameof(Sharpness.Sections)}"": [{sharpnessSectionsJson}]
+        ""{nameof(Weapon.WeaponMechanics)}"": {weaponMechanicStr}
+        ""{nameof(Weapon.Skills)}"": [{skillsJson}]
         }}
       }}";
 
