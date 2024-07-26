@@ -5,5 +5,5 @@
 public class AmmoMechanics : IWeaponMechanic
 {
   public string AmmoConfigId { get; init; }
-  public string TEMP_ToString() => AmmoConfigId;
+  public string TEMP_ToString() => "Ammo config - not yet implemented"; /*AmmoConfigId;*/
 }

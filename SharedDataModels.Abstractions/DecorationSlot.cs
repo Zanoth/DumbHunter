@@ -2,4 +2,4 @@
 
 namespace SharedDataModels.Abstractions;
 
-public record DecoSlot(int SlotLevel, DecorationId AssignedDecorationId);
+public record DecorationSlot(int SlotLevel, DecorationId AssignedDecorationId);

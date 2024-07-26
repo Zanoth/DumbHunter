@@ -1,6 +1,6 @@
-﻿using System.Text.Json;
+﻿using SharedDataModels.Abstractions.Gear.Weapons.WeaponMechanics;
+using System.Text.Json;
 using System.Text.Json.Serialization;
-using SharedDataModels.Abstractions.Gear.Weapons.WeaponMechanics;
 
 namespace Serialization.Abstraction.Converters;
 
@@ -49,9 +49,9 @@ public class WeaponJsonConverter : JsonConverter<Weapon>, IJsonConverter
     return weapon;
   }
 
-  private static IWeaponMechanic? ReadWeaponMechanic(WeaponType weaponType, JsonElement root)
+  private static IWeaponMechanic ReadWeaponMechanic(WeaponType weaponType, JsonElement root)
   {
-    IWeaponMechanic? weaponMechanicStats = weaponType switch
+    IWeaponMechanic weaponMechanicStats = weaponType switch
     {
       WeaponType.Gunlance => JsonSerializer.Deserialize<ShellingMechanics>(root
         .GetProperty(nameof(Weapon.WeaponMechanics))
@@ -59,33 +59,30 @@ public class WeaponJsonConverter : JsonConverter<Weapon>, IJsonConverter
 
       WeaponType.SwitchAxe or WeaponType.ChargeBlade => JsonSerializer.Deserialize<PhialMechanics>(
         root.GetProperty(nameof(Weapon.WeaponMechanics))
-        .GetRawText()),
+          .GetRawText()),
 
       WeaponType.InsectGlaive => JsonSerializer.Deserialize<KinsectMechanics>(
         root.GetProperty(nameof(Weapon.WeaponMechanics))
-        .GetRawText()),
-        
-      WeaponType.Bow or
-      WeaponType.LightBowgun or 
-      WeaponType.HeavyBowgun => JsonSerializer.Deserialize<AmmoMechanics>(
-               root.GetProperty(nameof(Weapon.WeaponMechanics))
-                      .GetRawText()),
-
-      WeaponType.DualBlades or 
-      WeaponType.LongSword or 
-      WeaponType.GreatSword or 
-      WeaponType.Hammer or 
-      WeaponType.HuntingHorn or 
-      WeaponType.Lance or 
-      WeaponType.SwordAndShield or 
-      WeaponType.ChargeBlade or 
-      WeaponType.SwitchAxe => JsonSerializer.Deserialize<NonMechanic>(
-        root.GetProperty(nameof(Weapon.WeaponMechanics))
           .GetRawText()),
 
-      _ => JsonSerializer.Deserialize<NotYetImplementedMechanic>(root.GetProperty(nameof(Weapon.WeaponMechanics))
-        .GetRawText())
-    };
+      WeaponType.Bow or
+        WeaponType.LightBowgun or
+        WeaponType.HeavyBowgun => JsonSerializer.Deserialize<AmmoMechanics>(
+          root.GetProperty(nameof(Weapon.WeaponMechanics))
+            .GetRawText()),
+
+      WeaponType.DualBlades or
+        WeaponType.LongSword or
+        WeaponType.GreatSword or
+        WeaponType.Hammer or
+        WeaponType.HuntingHorn or
+        WeaponType.Lance or
+        WeaponType.SwordAndShield or
+        WeaponType.ChargeBlade or
+        WeaponType.SwitchAxe => new NonMechanic(),
+
+      _ => (IWeaponMechanic) new NotYetImplementedMechanic()
+    } ?? new NonMechanic();
     return weaponMechanicStats;
   }
 
@@ -110,18 +107,18 @@ public class WeaponJsonConverter : JsonConverter<Weapon>, IJsonConverter
     return elementalStats;
   }
 
-  private static List<DecoSlot> ReadDecorationSlots(JsonElement root)
+  private static List<DecorationSlot> ReadDecorationSlots(JsonElement root)
   {
-    var decoSlots = new List<DecoSlot>();
+    var decoSlots = new List<DecorationSlot>();
     var decoSlotArray = root.GetProperty(nameof(Weapon.DecoSlots)).EnumerateArray();
     while (decoSlotArray.MoveNext())
     {
       var decoSlotJson = decoSlotArray.Current;
 
-      var slotLevel = decoSlotJson.GetProperty(nameof(DecoSlot.SlotLevel)).GetInt32();
-      var assignedDecorationId = decoSlotJson.GetProperty(nameof(DecoSlot.AssignedDecorationId)).GetString();
+      var slotLevel = decoSlotJson.GetProperty(nameof(DecorationSlot.SlotLevel)).GetInt32();
+      var assignedDecorationId = decoSlotJson.GetProperty(nameof(DecorationSlot.AssignedDecorationId)).GetString();
 
-      var decoSlot = new DecoSlot(slotLevel, DecorationId.New(assignedDecorationId));
+      var decoSlot = new DecorationSlot(slotLevel, DecorationId.New(assignedDecorationId));
       decoSlots.Add(decoSlot);
     }
 
@@ -140,15 +137,15 @@ public class WeaponJsonConverter : JsonConverter<Weapon>, IJsonConverter
     writer.WriteNumber(nameof(Weapon.Affinity), weapon.Affinity);
     writer.WriteNumber(nameof(Weapon.Defense), weapon.Defense);
     writer.WriteBoolean(nameof(Weapon.ElementHidden), weapon.ElementHidden);
-    
+
     WriteElementalStats(writer, weapon);
-    
+
     writer.WriteString(nameof(Weapon.Elderseal), weapon.Elderseal.ToString());
-    
+
     writer.WritePropertyName(nameof(Weapon.DecoSlots));
     writer.WriteRawValue(JsonSerializer.Serialize(weapon.DecoSlots, options));
     //writer.WriteString(nameof(Weapon.Skill), value.Skill.SkillId); //TODO: Add Skill back in
-    
+
     //writer.WritePropertyName(nameof(Weapon.WeaponMechanicStats));
     //writer.WriteRawValue(JsonSerializer.Serialize(weapon.WeaponMechanicStats, options));
 
@@ -164,7 +161,7 @@ public class WeaponJsonConverter : JsonConverter<Weapon>, IJsonConverter
     foreach (var elementStat in weapon.ElementalStats)
     {
       writer.WriteStartObject();
-      
+
       writer.WriteString(nameof(ElementStat.ElementType), elementStat.ElementType.ToString());
       writer.WriteNumber(nameof(ElementStat.ElementAttack), elementStat.ElementAttack);
 

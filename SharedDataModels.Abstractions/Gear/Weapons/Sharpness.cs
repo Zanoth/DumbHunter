@@ -5,7 +5,6 @@ public class Sharpness
   private List<SharpnessSection> _sections = new List<SharpnessSection>();
   private readonly bool _isMaxed;
 
-  //public Sharpness() { }
   public Sharpness(bool isMaxed, IEnumerable<SharpnessSection> sections)
   {
     _isMaxed = isMaxed;

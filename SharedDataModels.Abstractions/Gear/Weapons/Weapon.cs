@@ -15,7 +15,7 @@ public class Weapon
     bool elementHidden,
     IEnumerable<ElementStat> elementalStats,
     Elderseal elderseal,
-    IEnumerable<DecoSlot> decoSlots,
+    IEnumerable<DecorationSlot> decoSlots,
     IEnumerable<GearSkill> skills,
     IWeaponMechanic? weaponMechanics,
     Sharpness? sharpness)
@@ -56,11 +56,11 @@ public class Weapon
 
   public Elderseal Elderseal { get; }
 
-  public IEnumerable<DecoSlot> DecoSlots { get; }
+  public IEnumerable<DecorationSlot> DecoSlots { get; }
 
   public IEnumerable<GearSkill> Skills { get; }
 
-  public IWeaponMechanic? WeaponMechanics { get; }
+  public IWeaponMechanic WeaponMechanics { get; }
 
-  public Sharpness? Sharpness { get; }
+  public Sharpness Sharpness { get; }
 }

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -13,14 +9,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MhW.Wpf.Views
+namespace MHW.Wpf
 {
   /// <summary>
-  /// Interaction logic for GearManagementView.xaml
+  /// Interaction logic for MainWindow.xaml
   /// </summary>
-  public partial class GearManagementView : UserControl
+  public partial class MainWindow : Window
   {
-    public GearManagementView()
+    public MainWindow()
     {
       InitializeComponent();
     }

@@ -42,15 +42,15 @@ public class QuestJsonConverter : JsonConverter<Quest>, IJsonConverter
 
 
   // TODO: This method is repeated in #QuestObjectiveJsonConverter.cs, move it to a shared location
-  private static List<QuestEntityTracker> GetTargetMonsters(JsonElement.ArrayEnumerator monsterJsonArray)
+  private static List<EntityTracker> GetTargetMonsters(JsonElement.ArrayEnumerator monsterJsonArray)
   {
-    var targetMonsters = new List<QuestEntityTracker>();
+    var targetMonsters = new List<EntityTracker>();
     foreach (var monsterJson in monsterJsonArray)
     {
       var monsterId = MonsterId.New(monsterJson.GetProperty(nameof(Monster.MonsterId)).GetString());
       var count = monsterJson.GetProperty("Quantity").GetInt32();
 
-      targetMonsters.Add(new QuestEntityTracker(monsterId, count));
+      targetMonsters.Add(new EntityTracker(monsterId, count));
     }
 
     return targetMonsters;

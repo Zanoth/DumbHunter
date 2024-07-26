@@ -94,9 +94,9 @@ public class WeaponTestBuilder
       1) 
   };
 
-  private List<DecoSlot> _decoSlots = new() 
+  private List<DecorationSlot> _decoSlots = new() 
   { 
-    new DecoSlot(1, DecorationId.New("decoration-456")) 
+    new DecorationSlot(1, DecorationId.New("decoration-456")) 
   };
 
   private IWeaponMechanic _weaponMechanic = new ShellingMechanics(ShellingType.Normal, 1);
@@ -174,7 +174,7 @@ public class WeaponTestBuilder
     return this;
   }
 
-  public WeaponTestBuilder WithDecoSlots(List<DecoSlot> decoSlots)
+  public WeaponTestBuilder WithDecoSlots(List<DecorationSlot> decoSlots)
   {
     _decoSlots = decoSlots;
     return this;

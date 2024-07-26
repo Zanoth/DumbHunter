@@ -17,7 +17,7 @@ public class ArmorJsonConverter : JsonConverter<Armor>, IJsonConverter
     var defenseStats = JsonSerializer.Deserialize<DefenseStats>(root.GetProperty(nameof(Armor.DefenseStats)).GetRawText());
 
     var skills = new List<GearSkill>();
-    var decoSlots = new List<DecoSlot>();
+    var decoSlots = new List<DecorationSlot>();
 
     var skillsArray = root.GetProperty(nameof(Armor.Skills)).EnumerateArray();
     while (skillsArray.MoveNext())
@@ -31,10 +31,10 @@ public class ArmorJsonConverter : JsonConverter<Armor>, IJsonConverter
     {
       var decoSlotJson = decoSlotArray.Current;
 
-      var slotLevel = decoSlotJson.GetProperty(nameof(DecoSlot.SlotLevel)).GetInt32();
-      var assignedDecorationId = decoSlotJson.GetProperty(nameof(DecoSlot.AssignedDecorationId)).GetString();
+      var slotLevel = decoSlotJson.GetProperty(nameof(DecorationSlot.SlotLevel)).GetInt32();
+      var assignedDecorationId = decoSlotJson.GetProperty(nameof(DecorationSlot.AssignedDecorationId)).GetString();
 
-      var decoSlot = new DecoSlot(slotLevel, DecorationId.New(assignedDecorationId));
+      var decoSlot = new DecorationSlot(slotLevel, DecorationId.New(assignedDecorationId));
       decoSlots.Add(decoSlot);
     }
 

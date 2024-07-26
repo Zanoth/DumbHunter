@@ -2,12 +2,12 @@
 
 public class QuestObjective
 {
-    public QuestObjective(QuestType type, List<QuestEntityTracker> requirements)
+    public QuestObjective(QuestType type, List<EntityTracker> requirements)
     {
         QuestType = type;
         Requirements = requirements;
     }
 
     public QuestType QuestType { get; init; }
-    public List<QuestEntityTracker> Requirements { get; init; } = new();
+    public List<EntityTracker> Requirements { get; init; } = new();
 }

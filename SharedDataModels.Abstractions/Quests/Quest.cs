@@ -9,6 +9,6 @@ public record Quest(
   QuestRank Rank,
   int Stars,
   LocationId LocationId,
-  List<QuestEntityTracker> Monsters,
+  List<EntityTracker> Monsters,
   List<QuestObjective> Objectives,
   QuestRewards Rewards);

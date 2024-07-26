@@ -13,6 +13,7 @@
     <None Remove="Gear\CraftingRecipes\CharmRecipes.json" />
     <None Remove="Gear\CraftingRecipes\GearRecipeConfiguration.json" />
     <None Remove="Gear\Weapons\WeaponConfiguration.json" />
+    <None Remove="Inventory\InventoryConfiguration.json" />
     <None Remove="Items\ItemConfiguration.json" />
     <None Remove="Locations\LocationConfiguration.json" />
     <None Remove="Monsters\Monster rewards - to be merged.json" />
@@ -20,6 +21,7 @@
     <None Remove="Quests\QuestConfiguration.json" />
     <None Remove="Skills\SkillConfiguration.json" />
     <None Remove="Skills\SkillConfiguration2.json" />
+    <None Remove="Wishlist\WishlistConfiguration.json" />
   </ItemGroup>
 
   <ItemGroup>
@@ -28,6 +30,12 @@
     <EmbeddedResource Include="Gear\Charms\CharmConfiguration.json" />
     <EmbeddedResource Include="Gear\CraftingRecipes\GearRecipeConfiguration.json" />
     <EmbeddedResource Include="Gear\Weapons\WeaponConfiguration.json" />
+    <EmbeddedResource Include="Inventory\InventoryConfiguration.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wishlist\WishlistConfiguration.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
     <EmbeddedResource Include="Items\ItemConfiguration.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>

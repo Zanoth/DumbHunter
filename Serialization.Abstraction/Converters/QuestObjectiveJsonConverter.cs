@@ -13,11 +13,11 @@ public class QuestObjectiveJsonConverter : JsonConverter<QuestObjective>, IJsonC
 
     var type = Enum.Parse<QuestType>(root.GetProperty(nameof(QuestObjective.QuestType)).ToString());
     var requirementsJson = root.GetProperty(nameof(QuestObjective.Requirements)).EnumerateArray();
-    var questRequirements = new List<QuestEntityTracker>();
+    var questRequirements = new List<EntityTracker>();
     foreach (var requirementJson in requirementsJson)
     {
 
-      IStrongId<string> id = type switch
+      IStrongId id = type switch
       {
         QuestType.Assignment or QuestType.Hunt or QuestType.Capture =>
           MonsterId.New(requirementJson.GetProperty(nameof(Monster.MonsterId)).GetString()),
@@ -30,7 +30,7 @@ public class QuestObjectiveJsonConverter : JsonConverter<QuestObjective>, IJsonC
 
 
       var requiredCount = requirementJson.GetProperty("Quantity").GetInt32();
-      var requirement = new QuestEntityTracker(id, requiredCount);
+      var requirement = new EntityTracker(id, requiredCount);
       questRequirements.Add(requirement);
     }
 

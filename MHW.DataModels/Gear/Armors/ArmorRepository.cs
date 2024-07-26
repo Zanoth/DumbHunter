@@ -1,6 +1,4 @@
 ﻿using Serialization.Abstraction;
-using System.Reflection;
-using SharedDataModels.Abstractions;
 
 namespace MHW.DataModels.Gear.Armors;
 

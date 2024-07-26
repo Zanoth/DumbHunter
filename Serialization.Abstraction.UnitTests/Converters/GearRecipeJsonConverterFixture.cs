@@ -108,8 +108,8 @@ public class GearRecipeJsonConverterFixture
   private class GearRecipeTestBuilder
   {
     private GearRecipeId _recipeId = GearRecipeId.New("recipe-03");
-    private IGearId<string> _associatedGearId = ArmorId.New("armor-0123");
-    private IGearId<string> _idOfPrevious = ArmorId.Empty();
+    private IGearId _associatedGearId = ArmorId.New("armor-0123");
+    private IGearId _idOfPrevious = ArmorId.Empty();
     private CraftingType _craftingType = CraftingType.Create;
     private Dictionary<ItemId, int> _items = new Dictionary<ItemId, int>
     {
@@ -117,12 +117,12 @@ public class GearRecipeJsonConverterFixture
       { ItemId.New("item-0002"), 20 }
     };
 
-    public GearRecipeTestBuilder WithAssociatedGearId(IGearId<string> associatedGearId)
+    public GearRecipeTestBuilder WithAssociatedGearId(IGearId associatedGearId)
     {
       _associatedGearId = associatedGearId;
       return this;
     }
-    public GearRecipeTestBuilder WithUpgradeableRecipe(IGearId<string> idOfPrevious)
+    public GearRecipeTestBuilder WithUpgradeableRecipe(IGearId idOfPrevious)
     {
       if (idOfPrevious is ArmorId armorId)
         throw new ArgumentException("Armor cannot be upgraded");

@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\FoundationExtensions\FoundationExtensions.csproj" />
     <ProjectReference Include="..\MHW.DataModels\MHW.DataModels.csproj" />
     <ProjectReference Include="..\SharedDataModels.Abstractions\SharedDataModels.Abstractions.csproj" />
   </ItemGroup>
