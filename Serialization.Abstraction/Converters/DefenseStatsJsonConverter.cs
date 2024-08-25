@@ -30,7 +30,7 @@ public class DefenseStatsJsonConverter : JsonConverter<DefenseStats>, IJsonConve
           case nameof(DefenseStats.MaxDef):
             maxDef = reader.GetInt32();
             break;
-          case nameof(DefenseStats.ArgumentedMaxDef):
+          case nameof(DefenseStats.AugmentedMaxDef):
             argumentedMaxDef = reader.GetInt32();
             break;
           case nameof(DefenseStats.FireDef):
@@ -61,7 +61,7 @@ public class DefenseStatsJsonConverter : JsonConverter<DefenseStats>, IJsonConve
     writer.WriteStartObject();
     writer.WriteNumber(nameof(DefenseStats.BaseDef), value.BaseDef);
     writer.WriteNumber(nameof(DefenseStats.MaxDef), value.MaxDef);
-    writer.WriteNumber(nameof(DefenseStats.ArgumentedMaxDef), value.ArgumentedMaxDef);
+    writer.WriteNumber(nameof(DefenseStats.AugmentedMaxDef), value.AugmentedMaxDef);
     writer.WriteNumber(nameof(DefenseStats.FireDef), value.FireDef);
     writer.WriteNumber(nameof(DefenseStats.WaterDef), value.WaterDef);
     writer.WriteNumber(nameof(DefenseStats.ThunderDef), value.ThunderDef);

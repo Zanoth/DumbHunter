@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+	  <TargetFramework>net6.0-windows</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
@@ -12,10 +12,113 @@
     <None Remove="Gear\Charms\CharmConfiguration.json" />
     <None Remove="Gear\CraftingRecipes\CharmRecipes.json" />
     <None Remove="Gear\CraftingRecipes\GearRecipeConfiguration.json" />
+    <None Remove="Gear\Weapons\BowConfiguration.json" />
+    <None Remove="Gear\Weapons\ChargeBladeConfiguration.json" />
+    <None Remove="Gear\Weapons\DualBladesConfiguration.json" />
+    <None Remove="Gear\Weapons\GreatSwordConfiguration.json" />
+    <None Remove="Gear\Weapons\GunlanceConfiguration.json" />
+    <None Remove="Gear\Weapons\HammerConfiguration.json" />
+    <None Remove="Gear\Weapons\HeavyBowgunConfiguration.json" />
+    <None Remove="Gear\Weapons\HuntingHornConfiguration.json" />
+    <None Remove="Gear\Weapons\InsectGlaiveConfiguration.json" />
+    <None Remove="Gear\Weapons\LanceConfiguration.json" />
+    <None Remove="Gear\Weapons\LightBowgunConfiguration.json" />
+    <None Remove="Gear\Weapons\LongSwordConfiguration.json" />
+    <None Remove="Gear\Weapons\MelodyConfig.json" />
+    <None Remove="Gear\Weapons\SwitchAxeConfiguration.json" />
+    <None Remove="Gear\Weapons\SwordAndShieldConfiguration.json" />
     <None Remove="Gear\Weapons\WeaponConfiguration.json" />
     <None Remove="Inventory\InventoryConfiguration.json" />
     <None Remove="Items\ItemConfiguration.json" />
     <None Remove="Locations\LocationConfiguration.json" />
+    <None Remove="Monsters\Icons\1.png" />
+    <None Remove="Monsters\Icons\10.png" />
+    <None Remove="Monsters\Icons\100.png" />
+    <None Remove="Monsters\Icons\101.png" />
+    <None Remove="Monsters\Icons\102.png" />
+    <None Remove="Monsters\Icons\103.png" />
+    <None Remove="Monsters\Icons\104.png" />
+    <None Remove="Monsters\Icons\11.png" />
+    <None Remove="Monsters\Icons\111.png" />
+    <None Remove="Monsters\Icons\112.png" />
+    <None Remove="Monsters\Icons\113.png" />
+    <None Remove="Monsters\Icons\114.png" />
+    <None Remove="Monsters\Icons\115.png" />
+    <None Remove="Monsters\Icons\116.png" />
+    <None Remove="Monsters\Icons\117.png" />
+    <None Remove="Monsters\Icons\118.png" />
+    <None Remove="Monsters\Icons\119.png" />
+    <None Remove="Monsters\Icons\12.png" />
+    <None Remove="Monsters\Icons\120.png" />
+    <None Remove="Monsters\Icons\121.png" />
+    <None Remove="Monsters\Icons\122.png" />
+    <None Remove="Monsters\Icons\123.png" />
+    <None Remove="Monsters\Icons\124.png" />
+    <None Remove="Monsters\Icons\125.png" />
+    <None Remove="Monsters\Icons\126.png" />
+    <None Remove="Monsters\Icons\127.png" />
+    <None Remove="Monsters\Icons\128.png" />
+    <None Remove="Monsters\Icons\129.png" />
+    <None Remove="Monsters\Icons\13.png" />
+    <None Remove="Monsters\Icons\130.png" />
+    <None Remove="Monsters\Icons\131.png" />
+    <None Remove="Monsters\Icons\132.png" />
+    <None Remove="Monsters\Icons\133.png" />
+    <None Remove="Monsters\Icons\134.png" />
+    <None Remove="Monsters\Icons\135.png" />
+    <None Remove="Monsters\Icons\136.png" />
+    <None Remove="Monsters\Icons\137.png" />
+    <None Remove="Monsters\Icons\138.png" />
+    <None Remove="Monsters\Icons\139.png" />
+    <None Remove="Monsters\Icons\14.png" />
+    <None Remove="Monsters\Icons\140.png" />
+    <None Remove="Monsters\Icons\15.png" />
+    <None Remove="Monsters\Icons\16.png" />
+    <None Remove="Monsters\Icons\17.png" />
+    <None Remove="Monsters\Icons\18.png" />
+    <None Remove="Monsters\Icons\19.png" />
+    <None Remove="Monsters\Icons\2.png" />
+    <None Remove="Monsters\Icons\20.png" />
+    <None Remove="Monsters\Icons\21.png" />
+    <None Remove="Monsters\Icons\22.png" />
+    <None Remove="Monsters\Icons\23.png" />
+    <None Remove="Monsters\Icons\24.png" />
+    <None Remove="Monsters\Icons\25.png" />
+    <None Remove="Monsters\Icons\26.png" />
+    <None Remove="Monsters\Icons\27.png" />
+    <None Remove="Monsters\Icons\28.png" />
+    <None Remove="Monsters\Icons\29.png" />
+    <None Remove="Monsters\Icons\3.png" />
+    <None Remove="Monsters\Icons\30.png" />
+    <None Remove="Monsters\Icons\31.png" />
+    <None Remove="Monsters\Icons\32.png" />
+    <None Remove="Monsters\Icons\33.png" />
+    <None Remove="Monsters\Icons\34.png" />
+    <None Remove="Monsters\Icons\35.png" />
+    <None Remove="Monsters\Icons\36.png" />
+    <None Remove="Monsters\Icons\37.png" />
+    <None Remove="Monsters\Icons\38.png" />
+    <None Remove="Monsters\Icons\39.png" />
+    <None Remove="Monsters\Icons\4.png" />
+    <None Remove="Monsters\Icons\40.png" />
+    <None Remove="Monsters\Icons\41.png" />
+    <None Remove="Monsters\Icons\42.png" />
+    <None Remove="Monsters\Icons\43.png" />
+    <None Remove="Monsters\Icons\44.png" />
+    <None Remove="Monsters\Icons\45.png" />
+    <None Remove="Monsters\Icons\46.png" />
+    <None Remove="Monsters\Icons\47.png" />
+    <None Remove="Monsters\Icons\48.png" />
+    <None Remove="Monsters\Icons\49.png" />
+    <None Remove="Monsters\Icons\5.png" />
+    <None Remove="Monsters\Icons\50.png" />
+    <None Remove="Monsters\Icons\51.png" />
+    <None Remove="Monsters\Icons\52.png" />
+    <None Remove="Monsters\Icons\6.png" />
+    <None Remove="Monsters\Icons\7.png" />
+    <None Remove="Monsters\Icons\8.png" />
+    <None Remove="Monsters\Icons\9.png" />
+    <None Remove="Monsters\Icons\IconMissing.png" />
     <None Remove="Monsters\Monster rewards - to be merged.json" />
     <None Remove="Monsters\MonsterConfiguration.json" />
     <None Remove="Quests\QuestConfiguration.json" />
@@ -29,6 +132,21 @@
     <EmbeddedResource Include="Gear\Armors\ArmorConfiguration.json" />
     <EmbeddedResource Include="Gear\Charms\CharmConfiguration.json" />
     <EmbeddedResource Include="Gear\CraftingRecipes\GearRecipeConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\BowConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\ChargeBladeConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\DualBladesConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\GreatSwordConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\GunlanceConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\HammerConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\HeavyBowGunConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\HuntingHornConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\InsectGlaiveConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\LanceConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\LightBowGunConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\LongSwordConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\MelodyConfig.json" />
+    <EmbeddedResource Include="Gear\Weapons\SwitchAxeConfiguration.json" />
+    <EmbeddedResource Include="Gear\Weapons\SwordAndShieldConfiguration.json" />
     <EmbeddedResource Include="Gear\Weapons\WeaponConfiguration.json" />
     <EmbeddedResource Include="Inventory\InventoryConfiguration.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -55,11 +173,279 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
+    <PackageReference Include="Prism.DryIoc" Version="8.1.97" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Serialization.Abstraction\Serialization.Abstraction.csproj" />
     <ProjectReference Include="..\SharedDataModels.Abstractions\SharedDataModels.Abstractions.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Monsters\Icons\1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\10.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\100.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\101.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\102.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\103.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\104.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\11.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\111.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\112.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\113.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\114.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\115.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\116.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\117.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\118.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\119.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\12.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\120.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\121.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\122.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\123.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\124.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\125.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\126.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\127.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\128.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\129.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\13.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\130.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\131.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\132.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\133.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\134.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\135.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\136.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\137.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\138.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\139.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\14.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\140.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\15.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\16.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\17.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\18.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\19.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\20.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\21.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\22.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\23.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\24.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\25.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\26.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\27.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\28.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\29.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\3.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\30.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\31.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\32.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\33.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\34.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\35.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\36.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\37.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\38.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\39.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\4.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\40.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\41.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\42.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\43.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\44.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\45.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\46.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\47.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\48.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\49.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\5.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\50.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\51.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\52.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\6.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\7.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\8.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\9.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Monsters\Icons\IconMissing.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>

@@ -1,5 +1,7 @@
 ﻿using MHW.Console;
-using Microsoft.Extensions.DependencyInjection;
+using MHW.Wpf;
+using Prism.DryIoc;
+using Prism.Ioc;
 using Serialization.Abstraction;
 
 namespace MHW.Entry;
@@ -14,56 +16,55 @@ public static class MhwEntryPoint
     Console.WriteLine("------------------------------------------------------------");
 
     // Assuming we have retrieved the UI type from args
-    var uiType = "Console";
-    //var uiType = "Wpf";
+    //var uiType = "Console";
+    var uiType = "Wpf";
 
     Console.WriteLine($"UI type chosen: {uiType}");
 
-    var serviceCollection = new ServiceCollection();
+    var container = new DryIocContainerExtension();
 
 
     var typeFinder = new ReflectionTypeFinder();
 
-    var commonServices = new List<IServiceRegistrar>
+    var commonServices = new List<IServiceRegistrator>
     {
       new MhwDataContext(),
       new SerilizationContext(typeFinder)
     };
 
-    RegisterServices(serviceCollection, commonServices);
+    RegisterServices(container, commonServices);
 
     if (uiType == "Wpf")
-      LaunchWpf(args, serviceCollection);
+      LaunchWpf(args, container);
     else if (uiType == "Console")
-      LaunchConsole(args, serviceCollection);
+      LaunchConsole(args, container);
   }
 
-  private static void LaunchConsole(string[] args, IServiceCollection serviceCollection)
+  private static void LaunchConsole(string[] args, IContainerExtension container)
   {
-    RegisterServices(serviceCollection, new List<IServiceRegistrar>
+    RegisterServices(container, new List<IServiceRegistrator>
     {
       new MhwConsoleContext(),
     });
 
-    ConsoleProgram.ServiceCollection = serviceCollection;
+    ConsoleProgram.Container = container;
     ConsoleProgram.Main(args);
   }
 
-  private static void LaunchWpf(string[] args, IServiceCollection serviceCollection)
+  private static void LaunchWpf(string[] args, IContainerExtension container)
   {
-    throw new NotImplementedException();
-    //RegisterServices(serviceCollection, new List<IServiceRegistrar>
+    //RegisterServices(container, new List<IServiceRegistrator>
     //{
     //  new MhwWpfContext(),
     //});
 
-    //Wpf.App.ServiceCollection = serviceCollection;
-    //var worldWpfApp = new Wpf.App(); 
-    //worldWpfApp.Run();
+    App.SetContainer(container);
+    var worldWpfApp = new App();
+    worldWpfApp.Run();
   }
 
 
-  private static void RegisterServices(IServiceCollection services, List<IServiceRegistrar> assemblyServiceRegistrars)
+  private static void RegisterServices(IContainerRegistry services, List<IServiceRegistrator> assemblyServiceRegistrars)
   {
     foreach (var registrar in assemblyServiceRegistrars)
     {

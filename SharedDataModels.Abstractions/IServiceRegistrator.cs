@@ -1,8 +1,8 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Prism.Ioc;
 
 namespace SharedDataModels.Abstractions;
 
-public interface IServiceRegistrar
+public interface IServiceRegistrator
 {
-  void RegisterServices(IServiceCollection services);
+  void RegisterServices(IContainerRegistry container);
 }

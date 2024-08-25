@@ -5,13 +5,14 @@ namespace MHW.DataModels.Inventory;
 
 public class InventoryRepository : RepositoryBase<IStrongId, EntityTracker>
 {
+  private static readonly string ResourceName = $"{typeof(InventoryRepository).Namespace}.InventoryConfiguration.json";
+
   public InventoryRepository(ISerializor serializor)
   {
     Serializor = serializor;
-    Initialize();
+    Initialize(ResourceName);
   }
 
-  protected override string ResourceName { get; } = $"{typeof(InventoryRepository).Namespace}.InventoryConfiguration.json";
   protected override ISerializor Serializor { get; }
   protected override void AddEntitiesToDictionary(IDictionary<IStrongId, EntityTracker> entityDictionary, List<EntityTracker> entityList)
   {

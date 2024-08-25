@@ -3,7 +3,7 @@
 public record DefenseStats(
   int BaseDef,
   int MaxDef,
-  int ArgumentedMaxDef,
+  int AugmentedMaxDef,
   int FireDef,
   int WaterDef,
   int ThunderDef,

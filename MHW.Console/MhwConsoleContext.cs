@@ -1,10 +1,10 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Prism.Ioc;
 
 namespace MHW.Console;
 
-public class MhwConsoleContext : ContextBase, IServiceRegistrar
+public class MhwConsoleContext : IServiceRegistrator
 {
-  public void RegisterServices(IServiceCollection services)
+  public void RegisterServices(IContainerRegistry container)
   {
     return;
   }

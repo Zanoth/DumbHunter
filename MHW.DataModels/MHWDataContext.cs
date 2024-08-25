@@ -5,30 +5,29 @@ using MHW.DataModels.Items;
 using MHW.DataModels.Locations;
 using MHW.DataModels.Quests;
 using MHW.DataModels.Skills;
-using Microsoft.Extensions.DependencyInjection;
+using Prism.Ioc;
 using SharedDataModels.Abstractions;
 using SharedDataModels.Abstractions.Gear.Charms;
+using SharedDataModels.Abstractions.Gear.Weapons;
 using SharedDataModels.Abstractions.Locations;
 using SharedDataModels.Abstractions.Quests;
-using System;
 
 namespace MHW.DataModels;
 
-public class MhwDataContext : ContextBase, IServiceRegistrar
+public class MhwDataContext : IServiceRegistrator
 {
-  public void RegisterServices(IServiceCollection services)
+  public void RegisterServices(IContainerRegistry container)
   {
-    services.AddTransient<IRepositoryFactory<SkillId, Skill>, RepositoryFactory<SkillId, Skill>>();
-   
-    RegisterService(services, typeof(IRepository<ArmorId, Armor>), typeof(ArmorRepository));
-    RegisterService(services, typeof(IRepository<WeaponId, Weapon>), typeof(WeaponRepository));
-    RegisterService(services, typeof(IRepository<CharmId, Charm>), typeof(CharmRepository));
-    RegisterService(services, typeof(IRepository<SkillId, Skill>), typeof(SkillRepository));
-    RegisterService(services, typeof(IRepository<GearRecipeId, GearRecipe>), typeof(GearRecipeRepository));
-    RegisterService(services, typeof(IRepository<DecorationId, Decoration>), typeof(DecorationRepository));
-    RegisterService(services, typeof(IRepository<ItemId, Item>), typeof(ItemRepository));
-    RegisterService(services, typeof(IRepository<MonsterId, Monster>), typeof(MonsterRepository));
-    RegisterService(services, typeof(IRepository<QuestId, Quest>), typeof(QuestRepository));
-    RegisterService(services, typeof(IRepository<LocationId, Location>), typeof(LocationRepository));
+    container.RegisterSingleton(typeof(IRepositoryFactory<SkillId, Skill>), typeof(RepositoryFactory<SkillId, Skill>));
+    container.RegisterSingleton(typeof(IRepository<ArmorId, Armor>), typeof(ArmorRepository));
+    container.RegisterSingleton(typeof(IRepository<WeaponId, IWeapon>), typeof(WeaponRepository));
+    container.RegisterSingleton(typeof(IRepository<CharmId, Charm>), typeof(CharmRepository));
+    container.RegisterSingleton(typeof(IRepository<SkillId, Skill>), typeof(SkillRepository));
+    container.RegisterSingleton(typeof(IRepository<GearRecipeId, GearRecipe>), typeof(GearRecipeRepository));
+    container.RegisterSingleton(typeof(IRepository<DecorationId, Decoration>), typeof(DecorationRepository));
+    container.RegisterSingleton(typeof(IRepository<ItemId, Item>), typeof(ItemRepository));
+    container.RegisterSingleton(typeof(IRepository<MonsterId, Monster>), typeof(MonsterRepository));
+    container.RegisterSingleton(typeof(IRepository<QuestId, Quest>), typeof(QuestRepository));
+    container.RegisterSingleton(typeof(IRepository<LocationId, Location>), typeof(LocationRepository));
   }
 }

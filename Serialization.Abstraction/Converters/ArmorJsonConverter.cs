@@ -26,15 +26,14 @@ public class ArmorJsonConverter : JsonConverter<Armor>, IJsonConverter
       var gearSkill = JsonSerializer.Deserialize<GearSkill>(skillJson.GetRawText(), options);
       skills.Add(gearSkill);
     }
-    var decoSlotArray = root.GetProperty(nameof(Armor.DecoSlots)).EnumerateArray();
+    var decoSlotArray = root.GetProperty(nameof(Armor.DecorationSlots)).EnumerateArray();
     while (decoSlotArray.MoveNext())
     {
       var decoSlotJson = decoSlotArray.Current;
 
       var slotLevel = decoSlotJson.GetProperty(nameof(DecorationSlot.SlotLevel)).GetInt32();
-      var assignedDecorationId = decoSlotJson.GetProperty(nameof(DecorationSlot.AssignedDecorationId)).GetString();
 
-      var decoSlot = new DecorationSlot(slotLevel, DecorationId.New(assignedDecorationId));
+      var decoSlot = new DecorationSlot(slotLevel, DecorationId.Empty());
       decoSlots.Add(decoSlot);
     }
 
@@ -53,8 +52,8 @@ public class ArmorJsonConverter : JsonConverter<Armor>, IJsonConverter
     writer.WritePropertyName(nameof(Armor.Skills));
     JsonSerializer.Serialize(writer, value.Skills, options);
 
-    writer.WritePropertyName(nameof(Armor.DecoSlots));
-    JsonSerializer.Serialize(writer, value.DecoSlots, options);
+    writer.WritePropertyName(nameof(Armor.DecorationSlots));
+    JsonSerializer.Serialize(writer, value.DecorationSlots, options);
 
     writer.WritePropertyName(nameof(Armor.DefenseStats));
     JsonSerializer.Serialize(writer, value.DefenseStats, options);

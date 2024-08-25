@@ -1,14 +1,16 @@
 ﻿using FoundationExtensions;
+using Prism.Ioc;
 
 namespace MHW.Console;
 
 using Microsoft.Extensions.DependencyInjection;
+using Prism.DryIoc;
+using SharedDataModels.Abstractions.Gear.Weapons;
 using System;
 
 public static class ConsoleProgram
 {
-  public static IServiceCollection ServiceCollection = new ServiceCollection();
-  private static IServiceProvider? _serviceProvider;
+  public static IContainerExtension? Container;
 
   private static readonly Dictionary<int, (string, Func<Task>)> Functions = new Dictionary<int, (string, Func<Task>)>
   {
@@ -24,10 +26,10 @@ public static class ConsoleProgram
 
   public static void Main(string[] args)
   {
+    Container ??= new DryIocContainerExtension();
+
     OutputUtilities.CreateOutputSpace();
     Console.WriteLine("Hello, World!");
-
-    _serviceProvider = ServiceCollection.BuildServiceProvider();
 
     ChoseFunction();
   }
@@ -73,16 +75,16 @@ public static class ConsoleProgram
 
   private static async Task ViewWeapons()
   {
-    var weaponRepository = _serviceProvider.GetRequiredService<IRepository<WeaponId, Weapon>>();
-    var skillRepository = _serviceProvider.GetRequiredService<IRepository<SkillId, Skill>>();
+    var weaponRepository = Container.Resolve<IRepository<WeaponId, IWeapon>>();
+    var skillRepository = Container.Resolve<IRepository<SkillId, Skill>>();
     var weaponManager = new WeaponManager(weaponRepository, skillRepository);
     weaponManager.GreetUser();
 
   }
   private static async Task ViewArmors()
   {
-    var armorRepository = _serviceProvider.GetRequiredService<IRepository<ArmorId, Armor>>();
-    var skillRepository = _serviceProvider.GetRequiredService<IRepository<SkillId, Skill>>();
+    var armorRepository = Container.Resolve<IRepository<ArmorId, Armor>>();
+    var skillRepository = Container.Resolve<IRepository<SkillId, Skill>>();
 
     var armors = await armorRepository.GetAllAsync();
     foreach (var armor in armors)
@@ -105,8 +107,8 @@ public static class ConsoleProgram
   }
   private static async Task ViewCharms()
   {
-    var charmRepository = _serviceProvider.GetRequiredService<IRepository<CharmId, Charm>>();
-    var skillRepository = _serviceProvider.GetRequiredService<IRepository<SkillId, Skill>>();
+    var charmRepository = Container.Resolve<IRepository<CharmId, Charm>>();
+    var skillRepository = Container.Resolve<IRepository<SkillId, Skill>>();
 
     var charms = await charmRepository.GetAllAsync();
     foreach (var charm in charms)
@@ -129,11 +131,11 @@ public static class ConsoleProgram
   }
   private static async Task ViewRecipes()
   {
-    var recipeRepository = _serviceProvider.GetRequiredService<IRepository<GearRecipeId, GearRecipe>>();
-    var itemRepository = _serviceProvider.GetRequiredService<IRepository<ItemId, Item>>();
-    var charmRepository = _serviceProvider.GetRequiredService<IRepository<CharmId, Charm>>();
-    var armorRepository = _serviceProvider.GetRequiredService<IRepository<ArmorId, Armor>>();
-    var weaponRepository = _serviceProvider.GetRequiredService<IRepository<WeaponId, Weapon>>();
+    var recipeRepository = Container.Resolve<IRepository<GearRecipeId, GearRecipe>>();
+    var itemRepository = Container.Resolve<IRepository<ItemId, Item>>();
+    var charmRepository = Container.Resolve<IRepository<CharmId, Charm>>();
+    var armorRepository = Container.Resolve<IRepository<ArmorId, Armor>>();
+    var weaponRepository = Container.Resolve<IRepository<WeaponId, IWeapon>>();
 
     var recipes = await recipeRepository.GetAllAsync();
     foreach (var recipe in recipes)
@@ -174,8 +176,8 @@ public static class ConsoleProgram
   }
   private static async Task ViewMonsters()
   {
-    var monsterRepository = _serviceProvider.GetRequiredService<IRepository<MonsterId, Monster>>();
-    var itemRepository = _serviceProvider.GetRequiredService<IRepository<ItemId, Item>>();
+    var monsterRepository = Container.Resolve<IRepository<MonsterId, Monster>>();
+    var itemRepository = Container.Resolve<IRepository<ItemId, Item>>();
 
     var monsters = await monsterRepository.GetAllAsync();
     foreach (var monster in monsters)
@@ -192,8 +194,8 @@ public static class ConsoleProgram
   }
   private static async Task ViewQuests()
   {
-    var questRepository = _serviceProvider.GetRequiredService<IRepository<QuestId, Quest>>();
-    var monsterRepository = _serviceProvider.GetRequiredService<IRepository<MonsterId, Monster>>();
+    var questRepository = Container.Resolve<IRepository<QuestId, Quest>>();
+    var monsterRepository = Container.Resolve<IRepository<MonsterId, Monster>>();
 
     var quests = await questRepository.GetAllAsync();
     foreach (var quest in quests)
@@ -224,7 +226,7 @@ public static class ConsoleProgram
       Console.WriteLine($"-- Zenny: {quest.Rewards.Zenny}");
       foreach (var lootDetails in quest.Rewards.Items)
       {
-        var itemRepository = _serviceProvider.GetRequiredService<IRepository<ItemId, Item>>();
+        var itemRepository = Container.Resolve<IRepository<ItemId, Item>>();
         var item = await itemRepository.GetAsync(lootDetails.ItemId);
         Console.WriteLine($"-- item: {item.Name} - quantity: {lootDetails.Stack} - percentage: {lootDetails.Percentage}");
       }

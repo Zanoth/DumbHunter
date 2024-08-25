@@ -6,14 +6,13 @@ namespace MHW.DataModels;
 
 public abstract class RepositoryBase<Tid, T> : IRepository<Tid, T>
 {
-  protected abstract string ResourceName { get; }
   protected abstract ISerializor Serializor { get; }
   private readonly IDictionary<Tid, T> _entities = new Dictionary<Tid, T>();
 
-  protected void Initialize()
+  protected void Initialize(string resourceName)
   {
     var assembly = Assembly.GetExecutingAssembly();
-    var entities = Serializor.Deserialize<List<T>>(assembly, ResourceName);
+    var entities = Serializor.Deserialize<List<T>>(assembly, resourceName);
     AddEntitiesToDictionary(_entities, entities);
   }
 

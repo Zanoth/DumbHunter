@@ -1,0 +1,63 @@
+﻿<UserControl x:Class="MHW.Wpf.Views.MonsterListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:MHW.Wpf.Views"
+             xmlns:viewModels="clr-namespace:MHW.Wpf.ViewModels"
+             xmlns:monsters="clr-namespace:SharedDataModels.Abstractions.Monsters;assembly=SharedDataModels.Abstractions"
+             xmlns:converters="clr-namespace:MHW.Wpf.Converters"
+             mc:Ignorable="d"
+             d:DesignHeight="450"
+             d:DesignWidth="800"
+             d:DataContext="{d:DesignInstance viewModels:MonsterListViewModel}">
+  <ListView ItemsSource="{Binding Monsters}">
+    <ListView.ItemTemplate>
+      <DataTemplate DataType="{x:Type monsters:Monster}">
+        <Grid>
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+          </Grid.ColumnDefinitions>
+
+          <Image Grid.Column="0"
+                 Source="{Binding IconName, Converter={converters:PathToImageConverter}}"
+                 Width="100"
+                 Height="100" />
+
+          <StackPanel Grid.Column="1">
+            <TextBlock Text="{Binding Name}" />
+            <TextBlock Text="{Binding Ecology}" />
+            <TextBlock Text="{Binding Size}" />
+            <StackPanel DataContext="{Binding TrapInteractions}"
+                        Orientation="Horizontal">
+              <StackPanel.Resources>
+                <Style TargetType="TextBlock">
+                  <Setter Property="Margin"
+                          Value="2,0" />
+                </Style>
+              </StackPanel.Resources>
+              <TextBlock>
+                <Run Text="PitfallTrap: " />
+                <Run Text="{Binding PitfallTrap}" />
+              </TextBlock>
+              <TextBlock>
+                <Run Text="ShockTrap: " />
+                <Run Text="{Binding ShockTrap}" />
+              </TextBlock>
+              <TextBlock>
+                <Run Text="VineTrap: " />
+                <Run Text="{Binding VineTrap}" />
+              </TextBlock>
+              
+              <!--<ListView ItemsSource="{Binding Drops}"></ListView>-->
+              <!--<ListView ItemsSource="{Binding FormWeaknesses}"></ListView>-->
+            </StackPanel>
+          </StackPanel>
+        </Grid>
+        
+      </DataTemplate>
+
+    </ListView.ItemTemplate>
+  </ListView>
+</UserControl>

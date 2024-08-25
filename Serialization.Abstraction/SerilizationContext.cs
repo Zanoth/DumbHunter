@@ -1,9 +1,9 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Prism.Ioc;
 using Serialization.Abstraction.Converters;
 
 namespace Serialization.Abstraction;
 
-public class SerilizationContext : ContextBase, IServiceRegistrar
+public class SerilizationContext : IServiceRegistrator
 {
   private readonly ITypeFinder _typeFinder;
 
@@ -12,18 +12,18 @@ public class SerilizationContext : ContextBase, IServiceRegistrar
     _typeFinder = typeFinder;
   }
 
-  public void RegisterServices(IServiceCollection services)
+  public void RegisterServices(IContainerRegistry container)
   {
-    services.AddScoped<ISerializor, JsonSerializor>();
+    container.RegisterSingleton<ISerializor, JsonSerializor>();
 
-    AutoRegisterServices(services, typeof(IJsonConverter));
+    AutoRegisterServices(container, typeof(IJsonConverter));
   }
 
-  private void AutoRegisterServices(IServiceCollection services, Type serviceType)
+  private void AutoRegisterServices(IContainerRegistry container, Type serviceInterfaceType)
   {
-    var implementingTypes = _typeFinder.GetImplementingTypes(serviceType);
+    var implementingTypes = _typeFinder.GetImplementingTypes(serviceInterfaceType);
 
     foreach (var implementingType in implementingTypes)
-      RegisterService(services, serviceType, implementingType);
+      container.RegisterSingleton(serviceInterfaceType, implementingType);
   }
 }

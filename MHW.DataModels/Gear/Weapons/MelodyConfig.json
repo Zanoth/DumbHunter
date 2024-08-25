@@ -1,0 +1,1805 @@
+[
+    {
+        "ArmorId": 0,
+        "Name": "Self-improvement",
+        "base_duration": 180,
+        "base_extension": 90,
+        "m1_duration": 240,
+        "m1_extension": 120,
+        "m2_duration": 300,
+        "m2_extension": 150,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "W"
+                    },
+                    {
+                        "Note": "W"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 1,
+        "Name": "Attack Up (S)",
+        "base_duration": 120,
+        "base_extension": 60,
+        "m1_duration": 150,
+        "m1_extension": 90,
+        "m2_duration": 180,
+        "m2_extension": 120,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "W"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "R"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "Y"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "R"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 2,
+        "Name": "Attack Up (L)",
+        "base_duration": 90,
+        "base_extension": 30,
+        "m1_duration": 120,
+        "m1_extension": 60,
+        "m2_duration": 150,
+        "m2_extension": 90,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "R"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 3,
+        "Name": "Health Boost (S)",
+        "base_duration": 180,
+        "base_extension": 120,
+        "m1_duration": 240,
+        "m1_extension": 180,
+        "m2_duration": 300,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "W"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 4,
+        "Name": "Health Boost (L)",
+        "base_duration": 180,
+        "base_extension": 120,
+        "m1_duration": 240,
+        "m1_extension": 180,
+        "m2_duration": 300,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 5,
+        "Name": "Stamina Use Reduced (S)",
+        "base_duration": 90,
+        "base_extension": 30,
+        "m1_duration": 120,
+        "m1_extension": 60,
+        "m2_duration": 150,
+        "m2_extension": 90,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "W"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "B"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "W"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "B"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "W"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 6,
+        "Name": "Stamina Use Reduced (L)",
+        "base_duration": 120,
+        "base_extension": 60,
+        "m1_duration": 150,
+        "m1_extension": 90,
+        "m2_duration": 180,
+        "m2_extension": 120,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "B"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "G"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "O"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 7,
+        "Name": "Wind Pressure Negated",
+        "base_duration": 180,
+        "base_extension": 90,
+        "m1_duration": 240,
+        "m1_extension": 120,
+        "m2_duration": 300,
+        "m2_extension": 150,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "R"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "G"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 8,
+        "Name": "All Wind Pressure Negated",
+        "base_duration": 180,
+        "base_extension": 90,
+        "m1_duration": 240,
+        "m1_extension": 120,
+        "m2_duration": 300,
+        "m2_extension": 150,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "O"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 9,
+        "Name": "Defense Up (S)",
+        "base_duration": 120,
+        "base_extension": 60,
+        "m1_duration": 150,
+        "m1_extension": 90,
+        "m2_duration": 180,
+        "m2_extension": 120,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "W"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 10,
+        "Name": "Defense Up (L)",
+        "base_duration": 90,
+        "base_extension": 60,
+        "m1_duration": 120,
+        "m1_extension": 90,
+        "m2_duration": 150,
+        "m2_extension": 120,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 11,
+        "Name": "Tool Use Drain Reduced (S)",
+        "base_duration": 30,
+        "base_extension": 30,
+        "m1_duration": 60,
+        "m1_extension": 60,
+        "m2_duration": 90,
+        "m2_extension": 90,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "W"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 12,
+        "Name": "Tool Use Drain Reduced (L)",
+        "base_duration": 60,
+        "base_extension": 60,
+        "m1_duration": 90,
+        "m1_extension": 90,
+        "m2_duration": 120,
+        "m2_extension": 120,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 13,
+        "Name": "Health Rec. (S)",
+        "base_duration": "",
+        "base_extension": "",
+        "m1_duration": "",
+        "m1_extension": "",
+        "m2_duration": "",
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "W"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "W"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 14,
+        "Name": "Health Rec. (L)",
+        "base_duration": "",
+        "base_extension": "",
+        "m1_duration": "",
+        "m1_extension": "",
+        "m2_duration": "",
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 15,
+        "Name": "Health Rec. (S) + Antidote",
+        "base_duration": "",
+        "base_extension": "",
+        "m1_duration": "",
+        "m1_extension": "",
+        "m2_duration": "",
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "W"
+                    },
+                    {
+                        "Note": "B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 16,
+        "Name": "Health Rec. (M) + Antidote",
+        "base_duration": 0,
+        "base_extension": 0,
+        "m1_duration": 0,
+        "m1_extension": 0,
+        "m2_duration": 0,
+        "m2_extension": 0,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 18,
+        "Name": "Recovery Speed (S)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 150,
+        "m2_duration": 240,
+        "m2_extension": 180,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "W"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "Y"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 19,
+        "Name": "Recovery Speed (L)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 150,
+        "m2_duration": 240,
+        "m2_extension": 180,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 20,
+        "Name": "Earplugs (S)",
+        "base_duration": 180,
+        "base_extension": 120,
+        "m1_duration": 210,
+        "m1_extension": 150,
+        "m2_duration": 240,
+        "m2_extension": 180,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "W"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "W"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 21,
+        "Name": "Earplugs (L)",
+        "base_duration": 180,
+        "base_extension": 120,
+        "m1_duration": 210,
+        "m1_extension": 150,
+        "m2_duration": 240,
+        "m2_extension": 180,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 22,
+        "Name": "Divine Protection",
+        "base_duration": 120,
+        "base_extension": 90,
+        "m1_duration": 150,
+        "m1_extension": 120,
+        "m2_duration": 180,
+        "m2_extension": 150,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "Y"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 23,
+        "Name": "Scoutfly Power Up",
+        "base_duration": 180,
+        "base_extension": 180,
+        "m1_duration": 240,
+        "m1_extension": 240,
+        "m2_duration": 300,
+        "m2_extension": 300,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 24,
+        "Name": "Envir. Damage Negated",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 25,
+        "Name": "Stun Negated",
+        "base_duration": 180,
+        "base_extension": 120,
+        "m1_duration": 210,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 26,
+        "Name": "Paralysis Negated",
+        "base_duration": 180,
+        "base_extension": 120,
+        "m1_duration": 210,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "W"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 27,
+        "Name": "Tremors Negated",
+        "base_duration": 180,
+        "base_extension": 180,
+        "m1_duration": 210,
+        "m1_extension": 210,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "Y"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 28,
+        "Name": "Muck/Water/Deep Snow Res",
+        "base_duration": 180,
+        "base_extension": 180,
+        "m1_duration": 240,
+        "m1_extension": 240,
+        "m2_duration": 300,
+        "m2_extension": 300,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 29,
+        "Name": "Fire Res Boost (S)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "W"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 30,
+        "Name": "Fire Res Boost (L)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 31,
+        "Name": "Water Res Boost (S)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "W"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 32,
+        "Name": "Water Res Boost (L)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 33,
+        "Name": "Thunder Res Boost (S)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "W"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 34,
+        "Name": "Thunder Res Boost (L)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 35,
+        "Name": "Ice Res Boost (S)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "W"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 36,
+        "Name": "Ice Res Boost (L)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 37,
+        "Name": "Dragon Res Boost (S)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "W"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 38,
+        "Name": "Dragon Res Boost (L)",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 180,
+        "m1_extension": 180,
+        "m2_duration": 240,
+        "m2_extension": 240,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 39,
+        "Name": "Elemental Attack Boost",
+        "base_duration": 120,
+        "base_extension": 90,
+        "m1_duration": 150,
+        "m1_extension": 120,
+        "m2_duration": 180,
+        "m2_extension": 150,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "G"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "O"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 40,
+        "Name": "Blight Negated",
+        "base_duration": 120,
+        "base_extension": 120,
+        "m1_duration": 150,
+        "m1_extension": 150,
+        "m2_duration": 180,
+        "m2_extension": 180,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "O"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 41,
+        "Name": "Sonic Waves",
+        "base_duration": "",
+        "base_extension": "",
+        "m1_duration": "",
+        "m1_extension": "",
+        "m2_duration": "",
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "Y"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 42,
+        "Name": "All Melody Effects Extended",
+        "base_duration": "",
+        "base_extension": "",
+        "m1_duration": "",
+        "m1_extension": "",
+        "m2_duration": "",
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "O"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 43,
+        "Name": "Knockbacks Negated",
+        "base_duration": 45,
+        "base_extension": 30,
+        "m1_duration": 60,
+        "m1_extension": 45,
+        "m2_duration": 75,
+        "m2_extension": 60,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "R"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 44,
+        "Name": "Attack and Defense Up (S)",
+        "base_duration": "",
+        "base_extension": "",
+        "m1_duration": "",
+        "m1_extension": "",
+        "m2_duration": "",
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "B"
+                    }
+                ]
+            },
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "B"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "O"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 45,
+        "Name": "Blight Res Up",
+        "base_duration": 90,
+        "base_extension": 120,
+        "m1_duration": 120,
+        "m1_extension": 150,
+        "m2_duration": 150,
+        "m2_extension": 180,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 46,
+        "Name": "Affinity Up and Health Rec. (S)",
+        "base_duration": 120,
+        "base_extension": 60,
+        "m1_duration": 150,
+        "m1_extension": 90,
+        "m2_duration": 180,
+        "m2_extension": 120,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "O"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 47,
+        "Name": "All Ailments Negated",
+        "base_duration": 120,
+        "base_extension": 60,
+        "m1_duration": 150,
+        "m1_extension": 90,
+        "m2_duration": 180,
+        "m2_extension": 120,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "O"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 48,
+        "Name": "Earplugs (S) / Wind Pressure Negated",
+        "base_duration": "",
+        "base_extension": "",
+        "m1_duration": "",
+        "m1_extension": "",
+        "m2_duration": "",
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "P"
+                    },
+                    {
+                        "Note": "Y"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "Y"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 49,
+        "Name": "Abnormal Status Atk. Increased",
+        "base_duration": 90,
+        "base_extension": 60,
+        "m1_duration": 120,
+        "m1_extension": 90,
+        "m2_duration": 150,
+        "m2_extension": 120,
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "O"
+                    },
+                    {
+                        "Note": "P"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 50,
+        "Name": "Health Recovery (M)",
+        "base_duration": "",
+        "base_extension": "",
+        "m1_duration": "",
+        "m1_extension": "",
+        "m2_duration": "",
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "G"
+                    },
+                    {
+                        "Note": "W"
+                    },
+                    {
+                        "Note": "C"
+                    },
+                    {
+                        "Note": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 51,
+        "Name": "Impact Echo Wave",
+        "base_duration": "",
+        "base_extension": "",
+        "m1_duration": "",
+        "m1_extension": "",
+        "m2_duration": "",
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "E"
+                    },
+                    {
+                        "Note": "R"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 52,
+        "Name": "Echo Wave \"Dragon",
+        "base_duration": "",
+        "base_extension": "",
+        "m1_duration": "",
+        "m1_extension": "",
+        "m2_duration": "",
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "E"
+                    },
+                    {
+                        "Note": "O"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 53,
+        "Name": "Max Stamina Up + Recovery",
+        "base_duration": 180,
+        "base_extension": "",
+        "m1_duration": 240,
+        "m1_extension": "",
+        "m2_duration": 300,
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "E"
+                    },
+                    {
+                        "Note": "B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 54,
+        "Name": "Extended Health Recovery",
+        "base_duration": 60,
+        "base_extension": "",
+        "m1_duration": 90,
+        "m1_extension": "",
+        "m2_duration": 120,
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "E"
+                    },
+                    {
+                        "Note": "G"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 55,
+        "Name": "Speed Boost + Evade Window Up",
+        "base_duration": 90,
+        "base_extension": "",
+        "m1_duration": 180,
+        "m1_extension": "",
+        "m2_duration": 270,
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "E"
+                    },
+                    {
+                        "Note": "C"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ArmorId": 56,
+        "Name": "Elemental Effectiveness Up",
+        "base_duration": 180,
+        "base_extension": "",
+        "m1_duration": 240,
+        "m1_extension": "",
+        "m2_duration": 300,
+        "m2_extension": "",
+        "Melodies": [
+            {
+                "Melody": [
+                    {
+                        "Note": "E"
+                    },
+                    {
+                        "Note": "Y"
+                    }
+                ]
+            }
+        ]
+    }
+]

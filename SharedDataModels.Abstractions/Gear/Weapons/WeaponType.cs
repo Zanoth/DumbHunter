@@ -2,7 +2,6 @@
 
 public enum WeaponType
 {
-  Undefined,
   GreatSword,
   LongSword,
   SwordAndShield,
@@ -10,8 +9,8 @@ public enum WeaponType
   Hammer,
   Lance,
   Gunlance,
-  LightBowgun,
-  HeavyBowgun,
+  LightBowGun,
+  HeavyBowGun,
   Bow,
   SwitchAxe,
   ChargeBlade,

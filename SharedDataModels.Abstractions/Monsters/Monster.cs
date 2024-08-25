@@ -2,23 +2,24 @@
 
 public class Monster
 {
-  public Monster(MonsterId monsterId, string name, MonsterEcology ecology, MonsterSize size, TrapInteractions trapInteractions, IEnumerable<Drop> drops)
+  public Monster(MonsterId monsterId, string name, MonsterEcology ecology, MonsterSize size, string iconName, TrapInteractions trapInteractions, IEnumerable<Drop> drops, IEnumerable<FormWeakness> formWeaknesses)
   {
     MonsterId = monsterId;
     Name = name;
     Ecology = ecology;
     Size = size;
+    IconName = iconName;
     TrapInteractions = trapInteractions;
     Drops = drops;
+    FormWeaknesses = formWeaknesses;
   }
 
-
-  public MonsterId MonsterId { get; init; }
-  public string Name { get; init; }
-  public MonsterEcology Ecology { get; init; }
-  public MonsterSize Size { get; init; }
-  public TrapInteractions TrapInteractions { get; init; }
+  public MonsterId MonsterId { get; }
+  public string Name { get; }
+  public MonsterEcology Ecology { get; }
+  public MonsterSize Size { get; }
+  public string IconName { get; }
+  public TrapInteractions TrapInteractions { get; }
   public IEnumerable<Drop> Drops { get; }
-
-  //TODO: Missing Monster Weaknesses
+  public IEnumerable<FormWeakness> FormWeaknesses { get; }
 }

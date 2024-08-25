@@ -3,13 +3,14 @@
 namespace MHW.DataModels.Gear.CraftingRecipes;
 public class GearRecipeRepository : RepositoryBase<GearRecipeId, GearRecipe>
 {
+  private static readonly string ResourceName = $"{typeof(GearRecipeRepository).Namespace}.GearRecipeConfiguration.json";
+
   public GearRecipeRepository(ISerializor serializor)
   {
     Serializor = serializor;
-    Initialize();
+    Initialize(ResourceName);
   }
 
-  protected override string ResourceName { get; } = $"{typeof(GearRecipeRepository).Namespace}.GearRecipeConfiguration.json";
   protected override ISerializor Serializor { get; }
   protected override void AddEntitiesToDictionary(IDictionary<GearRecipeId, GearRecipe> entityDictionary, List<GearRecipe> entityList)
   {

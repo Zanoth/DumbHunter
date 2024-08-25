@@ -1,0 +1,1157 @@
+[
+  {
+    "KinsectId": "kinsect-001",
+    "Name": "Culldrone I",
+
+    "Rarity": 1,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 1,
+    "Speed": 1,
+    "Heal": 1
+  },
+  {
+    "KinsectId": "kinsect-002",
+    "Name": "Culldrone II",
+
+    "Rarity": 2,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 2,
+    "Speed": 2,
+    "Heal": 2
+  },
+  {
+    "KinsectId": "kinsect-003",
+    "Name": "Culldrone III",
+
+    "Rarity": 2,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 3,
+    "Speed": 3,
+    "Heal": 3
+  },
+  {
+    "KinsectId": "kinsect-004",
+    "Name": "Alucanid I",
+
+    "Rarity": 3,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 6,
+    "Speed": 3,
+    "Heal": 4
+  },
+  {
+    "KinsectId": "kinsect-005",
+    "Name": "Alucanid II",
+
+    "Rarity": 4,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 8,
+    "Speed": 4,
+    "Heal": 6
+  },
+  {
+    "KinsectId": "kinsect-006",
+    "Name": "Alucanid III",
+
+    "Rarity": 4,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 10,
+    "Speed": 5,
+    "Heal": 8
+  },
+  {
+    "KinsectId": "kinsect-007",
+    "Name": "Monarch Alucanid I",
+
+    "Rarity": 5,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 12,
+    "Speed": 6,
+    "Heal": 9
+  },
+  {
+    "KinsectId": "kinsect-008",
+    "Name": "Monarch Alucanid II",
+
+    "Rarity": 6,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 13,
+    "Speed": 6,
+    "Heal": 10
+  },
+  {
+    "KinsectId": "kinsect-009",
+    "Name": "Monarch Alucanid III",
+
+    "Rarity": 7,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 14,
+    "Speed": 7,
+    "Heal": 11
+  },
+  {
+    "KinsectId": "kinsect-010",
+    "Name": "Empresswing I",
+
+    "Rarity": 5,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 13,
+    "Speed": 5,
+    "Heal": 8
+  },
+  {
+    "KinsectId": "kinsect-011",
+    "Name": "Empresswing II",
+
+    "Rarity": 6,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 14,
+    "Speed": 5,
+    "Heal": 9
+  },
+  {
+    "KinsectId": "kinsect-012",
+    "Name": "Empresswing III",
+
+    "Rarity": 7,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 15,
+    "Speed": 5,
+    "Heal": 10
+  },
+  {
+    "KinsectId": "kinsect-013",
+    "Name": "Rigiprayne I",
+
+    "Rarity": 3,
+    "AttackType": "Sever",
+    "DustEffect": "Paralysis",
+    "Power": 3,
+    "Speed": 3,
+    "Heal": 8
+  },
+  {
+    "KinsectId": "kinsect-014",
+    "Name": "Rigiprayne II",
+
+    "Rarity": 4,
+    "AttackType": "Sever",
+    "DustEffect": "Paralysis",
+    "Power": 3,
+    "Speed": 4,
+    "Heal": 9
+  },
+  {
+    "KinsectId": "kinsect-015",
+    "Name": "Rigiprayne III",
+
+    "Rarity": 4,
+    "AttackType": "Sever",
+    "DustEffect": "Paralysis",
+    "Power": 4,
+    "Speed": 4,
+    "Heal": 11
+  },
+  {
+    "KinsectId": "kinsect-016",
+    "Name": "Cancadaman I",
+
+    "Rarity": 5,
+    "AttackType": "Sever",
+    "DustEffect": "Paralysis",
+    "Power": 4,
+    "Speed": 10,
+    "Heal": 13
+  },
+  {
+    "KinsectId": "kinsect-017",
+    "Name": "Cancadaman II",
+
+    "Rarity": 6,
+    "AttackType": "Sever",
+    "DustEffect": "Paralysis",
+    "Power": 4,
+    "Speed": 11,
+    "Heal": 14
+  },
+  {
+    "KinsectId": "kinsect-018",
+    "Name": "Cancadaman III",
+
+    "Rarity": 7,
+    "AttackType": "Sever",
+    "DustEffect": "Paralysis",
+    "Power": 4,
+    "Speed": 12,
+    "Heal": 15
+  },
+  {
+    "KinsectId": "kinsect-019",
+    "Name": "Fiddlebrix I",
+
+    "Rarity": 5,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 9,
+    "Speed": 4,
+    "Heal": 13
+  },
+  {
+    "KinsectId": "kinsect-020",
+    "Name": "Fiddlebrix II",
+
+    "Rarity": 6,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 10,
+    "Speed": 4,
+    "Heal": 14
+  },
+  {
+    "KinsectId": "kinsect-021",
+    "Name": "Fiddlebrix III",
+
+    "Rarity": 7,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 11,
+    "Speed": 4,
+    "Heal": 15
+  },
+  {
+    "KinsectId": "kinsect-022",
+    "Name": "Windchopper I",
+
+    "Rarity": 3,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 4,
+    "Speed": 6,
+    "Heal": 3
+  },
+  {
+    "KinsectId": "kinsect-023",
+    "Name": "Windchopper II",
+
+    "Rarity": 4,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 4,
+    "Speed": 8,
+    "Heal": 3
+  },
+  {
+    "KinsectId": "kinsect-024",
+    "Name": "Windchopper III",
+
+    "Rarity": 4,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 4,
+    "Speed": 10,
+    "Heal": 3
+  },
+  {
+    "KinsectId": "kinsect-025",
+    "Name": "Grancathar I",
+
+    "Rarity": 5,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 4,
+    "Speed": 13,
+    "Heal": 7
+  },
+  {
+    "KinsectId": "kinsect-026",
+    "Name": "Grancathar II",
+
+    "Rarity": 6,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 4,
+    "Speed": 14,
+    "Heal": 9
+  },
+  {
+    "KinsectId": "kinsect-027",
+    "Name": "Grancathar III",
+
+    "Rarity": 7,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 4,
+    "Speed": 15,
+    "Heal": 11
+  },
+  {
+    "KinsectId": "kinsect-028",
+    "Name": "Pseudocath I",
+
+    "Rarity": 5,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 8,
+    "Speed": 13,
+    "Heal": 3
+  },
+  {
+    "KinsectId": "kinsect-029",
+    "Name": "Pseudocath II",
+
+    "Rarity": 6,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 10,
+    "Speed": 14,
+    "Heal": 3
+  },
+  {
+    "KinsectId": "kinsect-030",
+    "Name": "Pseudocath III",
+
+    "Rarity": 7,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 12,
+    "Speed": 15,
+    "Heal": 3
+  },
+  {
+    "KinsectId": "kinsect-031",
+    "Name": "Mauldrone I",
+
+    "Rarity": 1,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 1,
+    "Speed": 1,
+    "Heal": 1
+  },
+  {
+    "KinsectId": "kinsect-032",
+    "Name": "Mauldrone II",
+
+    "Rarity": 2,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 2,
+    "Speed": 2,
+    "Heal": 2
+  },
+  {
+    "KinsectId": "kinsect-033",
+    "Name": "Mauldrone III",
+
+    "Rarity": 2,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 3,
+    "Speed": 3,
+    "Heal": 3
+  },
+  {
+    "KinsectId": "kinsect-034",
+    "Name": "Foebeetle I",
+
+    "Rarity": 3,
+    "AttackType": "Blunt",
+    "DustEffect": "Poison",
+    "Power": 6,
+    "Speed": 4,
+    "Heal": 4
+  },
+  {
+    "KinsectId": "kinsect-035",
+    "Name": "Foebeetle II",
+
+    "Rarity": 4,
+    "AttackType": "Blunt",
+    "DustEffect": "Poison",
+    "Power": 8,
+    "Speed": 5,
+    "Heal": 4
+  },
+  {
+    "KinsectId": "kinsect-036",
+    "Name": "Foebeetle III",
+
+    "Rarity": 4,
+    "AttackType": "Blunt",
+    "DustEffect": "Poison",
+    "Power": 10,
+    "Speed": 6,
+    "Heal": 4
+  },
+  {
+    "KinsectId": "kinsect-037",
+    "Name": "Carnage Beetle I",
+
+    "Rarity": 5,
+    "AttackType": "Blunt",
+    "DustEffect": "Poison",
+    "Power": 11,
+    "Speed": 8,
+    "Heal": 4
+  },
+  {
+    "KinsectId": "kinsect-038",
+    "Name": "Carnage Beetle II",
+
+    "Rarity": 6,
+    "AttackType": "Blunt",
+    "DustEffect": "Poison",
+    "Power": 12,
+    "Speed": 9,
+    "Heal": 4
+  },
+  {
+    "KinsectId": "kinsect-039",
+    "Name": "Carnage Beetle III",
+
+    "Rarity": 7,
+    "AttackType": "Blunt",
+    "DustEffect": "Poison",
+    "Power": 13,
+    "Speed": 11,
+    "Heal": 4
+  },
+  {
+    "KinsectId": "kinsect-040",
+    "Name": "Bonnetfille I",
+
+    "Rarity": 5,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 12,
+    "Speed": 6,
+    "Heal": 6
+  },
+  {
+    "KinsectId": "kinsect-041",
+    "Name": "Bonnetfille II",
+
+    "Rarity": 6,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 13,
+    "Speed": 6,
+    "Heal": 7
+  },
+  {
+    "KinsectId": "kinsect-042",
+    "Name": "Bonnetfille III",
+
+    "Rarity": 7,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 14,
+    "Speed": 6,
+    "Heal": 8
+  },
+  {
+    "KinsectId": "kinsect-043",
+    "Name": "Ladytarge I",
+
+    "Rarity": 3,
+    "AttackType": "Blunt",
+    "DustEffect": "Paralysis",
+    "Power": 4,
+    "Speed": 4,
+    "Heal": 6
+  },
+  {
+    "KinsectId": "kinsect-044",
+    "Name": "Ladytarge II",
+
+    "Rarity": 4,
+    "AttackType": "Blunt",
+    "DustEffect": "Paralysis",
+    "Power": 4,
+    "Speed": 5,
+    "Heal": 7
+  },
+  {
+    "KinsectId": "kinsect-045",
+    "Name": "Ladytarge III",
+
+    "Rarity": 4,
+    "AttackType": "Blunt",
+    "DustEffect": "Paralysis",
+    "Power": 5,
+    "Speed": 6,
+    "Heal": 8
+  },
+  {
+    "KinsectId": "kinsect-046",
+    "Name": "Ladypavise I",
+
+    "Rarity": 5,
+    "AttackType": "Blunt",
+    "DustEffect": "Paralysis",
+    "Power": 7,
+    "Speed": 6,
+    "Heal": 13
+  },
+  {
+    "KinsectId": "kinsect-047",
+    "Name": "Ladypavise II",
+
+    "Rarity": 6,
+    "AttackType": "Blunt",
+    "DustEffect": "Paralysis",
+    "Power": 8,
+    "Speed": 6,
+    "Heal": 14
+  },
+  {
+    "KinsectId": "kinsect-048",
+    "Name": "Ladypavise III",
+
+    "Rarity": 7,
+    "AttackType": "Blunt",
+    "DustEffect": "Paralysis",
+    "Power": 9,
+    "Speed": 6,
+    "Heal": 15
+  },
+  {
+    "KinsectId": "kinsect-049",
+    "Name": "Arkmaiden I",
+
+    "Rarity": 5,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 5,
+    "Speed": 6,
+    "Heal": 13
+  },
+  {
+    "KinsectId": "kinsect-050",
+    "Name": "Arkmaiden II",
+
+    "Rarity": 6,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 6,
+    "Speed": 6,
+    "Heal": 14
+  },
+  {
+    "KinsectId": "kinsect-051",
+    "Name": "Arkmaiden III",
+
+    "Rarity": 7,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 7,
+    "Speed": 6,
+    "Heal": 15
+  },
+  {
+    "KinsectId": "kinsect-052",
+    "Name": "Gullshad I",
+
+    "Rarity": 3,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 3,
+    "Speed": 6,
+    "Heal": 4
+  },
+  {
+    "KinsectId": "kinsect-053",
+    "Name": "Gullshad II",
+
+    "Rarity": 4,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 3,
+    "Speed": 8,
+    "Heal": 4
+  },
+  {
+    "KinsectId": "kinsect-054",
+    "Name": "Gullshad III",
+
+    "Rarity": 4,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 3,
+    "Speed": 10,
+    "Heal": 5
+  },
+  {
+    "KinsectId": "kinsect-055",
+    "Name": "Bullshroud I",
+
+    "Rarity": 5,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 5,
+    "Speed": 13,
+    "Heal": 5
+  },
+  {
+    "KinsectId": "kinsect-056",
+    "Name": "Bullshroud II",
+
+    "Rarity": 6,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 5,
+    "Speed": 14,
+    "Heal": 6
+  },
+  {
+    "KinsectId": "kinsect-057",
+    "Name": "Bullshroud III",
+
+    "Rarity": 7,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 5,
+    "Speed": 15,
+    "Heal": 7
+  },
+  {
+    "KinsectId": "kinsect-058",
+    "Name": "Whispervesp I",
+
+    "Rarity": 5,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 3,
+    "Speed": 12,
+    "Heal": 8
+  },
+  {
+    "KinsectId": "kinsect-059",
+    "Name": "Whispervesp II",
+
+    "Rarity": 6,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 3,
+    "Speed": 13,
+    "Heal": 9
+  },
+  {
+    "KinsectId": "kinsect-060",
+    "Name": "Whispervesp III",
+
+    "Rarity": 7,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 3,
+    "Speed": 15,
+    "Heal": 11
+  },
+  {
+    "KinsectId": "kinsect-061",
+    "Name": "Dragon Soul",
+
+    "Rarity": 6,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 12,
+    "Speed": 11,
+    "Heal": 1
+  },
+  {
+    "KinsectId": "kinsect-062",
+    "Name": "True Dragon Soul",
+    1: null,
+    "Rarity": 7,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 15,
+    "Speed": 14,
+    "Heal": 1
+  },
+  {
+    "KinsectId": "kinsect-063",
+    "Name": "Nexus Dragon Soul",
+
+    "Rarity": 12,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 17,
+    "Speed": 16,
+    "Heal": 1
+  },
+  {
+    "KinsectId": "kinsect-064",
+    "Name": "Vezirstag I Velox",
+
+    "Rarity": 9,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 14,
+    "Speed": 9,
+    "Heal": 11
+  },
+  {
+    "KinsectId": "kinsect-065",
+    "Name": "Vezirstag II Velox",
+
+    "Rarity": 10,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 15,
+    "Speed": 10,
+    "Heal": 11
+  },
+  {
+    "KinsectId": "kinsect-066",
+    "Name": "Vezirstag III Velox",
+
+    "Rarity": 11,
+    "AttackType": "Sever",
+    "DustEffect": "Poison",
+    "Power": 16,
+    "Speed": 11,
+    "Heal": 12
+  },
+  {
+    "KinsectId": "kinsect-067",
+    "Name": "Vezirstag I Forz",
+
+    "Rarity": 9,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 16,
+    "Speed": 5,
+    "Heal": 11
+  },
+  {
+    "KinsectId": "kinsect-068",
+    "Name": "Vezirstag II Forz",
+
+    "Rarity": 10,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 18,
+    "Speed": 6,
+    "Heal": 12
+  },
+  {
+    "KinsectId": "kinsect-069",
+    "Name": "Vezirstag III Forz",
+
+    "Rarity": 11,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 20,
+    "Speed": 7,
+    "Heal": 13
+  },
+  {
+    "KinsectId": "kinsect-070",
+    "Name": "Bilbobrix I Velox",
+
+    "Rarity": 9,
+    "AttackType": "Sever",
+    "DustEffect": "Paralysis",
+    "Power": 4,
+    "Speed": 13,
+    "Heal": 16
+  },
+  {
+    "KinsectId": "kinsect-071",
+    "Name": "Bilbobrix II Velox",
+
+    "Rarity": 10,
+    "AttackType": "Sever",
+    "DustEffect": "Paralysis",
+    "Power": 5,
+    "Speed": 14,
+    "Heal": 18
+  },
+  {
+    "KinsectId": "kinsect-072",
+    "Name": "Bilbobrix III Velox",
+
+    "Rarity": 11,
+    "AttackType": "Sever",
+    "DustEffect": "Paralysis",
+    "Power": 6,
+    "Speed": 15,
+    "Heal": 20
+  },
+  {
+    "KinsectId": "kinsect-073",
+    "Name": "Bilbobrix I Forz",
+
+    "Rarity": 9,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 12,
+    "Speed": 4,
+    "Heal": 16
+  },
+  {
+    "KinsectId": "kinsect-074",
+    "Name": "Bilbobrix II Forz",
+
+    "Rarity": 10,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 13,
+    "Speed": 5,
+    "Heal": 18
+  },
+  {
+    "KinsectId": "kinsect-075",
+    "Name": "Bilbobrix III Forz",
+
+    "Rarity": 11,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 14,
+    "Speed": 6,
+    "Heal": 20
+  },
+  {
+    "KinsectId": "kinsect-076",
+    "Name": "Foliacath I Medis",
+
+    "Rarity": 9,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 4,
+    "Speed": 16,
+    "Heal": 12
+  },
+  {
+    "KinsectId": "kinsect-077",
+    "Name": "Foliacath II Medis",
+
+    "Rarity": 10,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 5,
+    "Speed": 18,
+    "Heal": 13
+  },
+  {
+    "KinsectId": "kinsect-078",
+    "Name": "Foliacath III Medis",
+
+    "Rarity": 11,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 6,
+    "Speed": 20,
+    "Heal": 14
+  },
+  {
+    "KinsectId": "kinsect-079",
+    "Name": "Foliacath I Forz",
+
+    "Rarity": 9,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 13,
+    "Speed": 16,
+    "Heal": 3
+  },
+  {
+    "KinsectId": "kinsect-080",
+    "Name": "Foliacath II Forz",
+
+    "Rarity": 10,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 14,
+    "Speed": 18,
+    "Heal": 4
+  },
+  {
+    "KinsectId": "kinsect-081",
+    "Name": "Foliacath III Forz",
+
+    "Rarity": 11,
+    "AttackType": "Sever",
+    "DustEffect": "Blast",
+    "Power": 15,
+    "Speed": 20,
+    "Heal": 5
+  },
+  {
+    "KinsectId": "kinsect-082",
+    "Name": "Elscarad I",
+
+    "Rarity": 10,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 6,
+    "Speed": 6,
+    "Heal": 10
+  },
+  {
+    "KinsectId": "kinsect-083",
+    "Name": "Elscarad II",
+
+    "Rarity": 11,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 9,
+    "Speed": 9,
+    "Heal": 15
+  },
+  {
+    "KinsectId": "kinsect-084",
+    "Name": "Elscarad III",
+
+    "Rarity": 12,
+    "AttackType": "Sever",
+    "DustEffect": "Heal",
+    "Power": 12,
+    "Speed": 12,
+    "Heal": 20
+  },
+  {
+    "KinsectId": "kinsect-085",
+    "Name": "Gleambeetle I Velox",
+
+    "Rarity": 9,
+    "AttackType": "Blunt",
+    "DustEffect": "Poison",
+    "Power": 14,
+    "Speed": 12,
+    "Heal": 5
+  },
+  {
+    "KinsectId": "kinsect-086",
+    "Name": "Gleambeetle II Velox",
+
+    "Rarity": 10,
+    "AttackType": "Blunt",
+    "DustEffect": "Poison",
+    "Power": 15,
+    "Speed": 13,
+    "Heal": 6
+  },
+  {
+    "KinsectId": "kinsect-087",
+    "Name": "Gleambeetle III Velox",
+
+    "Rarity": 11,
+    "AttackType": "Blunt",
+    "DustEffect": "Poison",
+    "Power": 17,
+    "Speed": 14,
+    "Heal": 7
+  },
+  {
+    "KinsectId": "kinsect-088",
+    "Name": "Gleambeetle I Medis",
+
+    "Rarity": 9,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 15,
+    "Speed": 6,
+    "Heal": 9
+  },
+  {
+    "KinsectId": "kinsect-089",
+    "Name": "Gleambeetle II Medis",
+
+    "Rarity": 10,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 17,
+    "Speed": 7,
+    "Heal": 10
+  },
+  {
+    "KinsectId": "kinsect-090",
+    "Name": "Gleambeetle III Medis",
+
+    "Rarity": 11,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 19,
+    "Speed": 8,
+    "Heal": 11
+  },
+  {
+    "KinsectId": "kinsect-091",
+    "Name": "Ladytower I Forz",
+
+    "Rarity": 9,
+    "AttackType": "Blunt",
+    "DustEffect": "Paralysis",
+    "Power": 10,
+    "Speed": 6,
+    "Heal": 16
+  },
+  {
+    "KinsectId": "kinsect-092",
+    "Name": "Ladytower II Forz",
+
+    "Rarity": 10,
+    "AttackType": "Blunt",
+    "DustEffect": "Paralysis",
+    "Power": 11,
+    "Speed": 7,
+    "Heal": 18
+  },
+  {
+    "KinsectId": "kinsect-093",
+    "Name": "Ladytower III Forz",
+
+    "Rarity": 11,
+    "AttackType": "Blunt",
+    "DustEffect": "Paralysis",
+    "Power": 12,
+    "Speed": 8,
+    "Heal": 20
+  },
+  {
+    "KinsectId": "kinsect-094",
+    "Name": "Ladytower I Velox",
+
+    "Rarity": 9,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 7,
+    "Speed": 8,
+    "Heal": 16
+  },
+  {
+    "KinsectId": "kinsect-095",
+    "Name": "Ladytower II Velox",
+
+    "Rarity": 10,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 8,
+    "Speed": 9,
+    "Heal": 18
+  },
+  {
+    "KinsectId": "kinsect-096",
+    "Name": "Ladytower III Velox",
+
+    "Rarity": 11,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 9,
+    "Speed": 11,
+    "Heal": 20
+  },
+  {
+    "KinsectId": "kinsect-097",
+    "Name": "Valorwing I Forz",
+
+    "Rarity": 9,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 7,
+    "Speed": 16,
+    "Heal": 7
+  },
+  {
+    "KinsectId": "kinsect-098",
+    "Name": "Valorwing II Forz",
+
+    "Rarity": 10,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 8,
+    "Speed": 18,
+    "Heal": 8
+  },
+  {
+    "KinsectId": "kinsect-099",
+    "Name": "Valorwing III Forz",
+
+    "Rarity": 11,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 10,
+    "Speed": 20,
+    "Heal": 9
+  },
+  {
+    "KinsectId": "kinsect-100",
+    "Name": "Valorwing I Medis",
+
+    "Rarity": 9,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 3,
+    "Speed": 16,
+    "Heal": 12
+  },
+  {
+    "KinsectId": "kinsect-101",
+    "Name": "Valorwing II Medis",
+
+    "Rarity": 10,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 4,
+    "Speed": 18,
+    "Heal": 13
+  },
+  {
+    "KinsectId": "kinsect-102",
+    "Name": "Valorwing III Medis",
+
+    "Rarity": 11,
+    "AttackType": "Blunt",
+    "DustEffect": "Blast",
+    "Power": 5,
+    "Speed": 20,
+    "Heal": 14
+  },
+  {
+    "KinsectId": "kinsect-103",
+    "Name": "Arginesse I",
+
+    "Rarity": 10,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 6,
+    "Speed": 6,
+    "Heal": 10
+  },
+  {
+    "KinsectId": "kinsect-104",
+    "Name": "Arginesse II",
+
+    "Rarity": 11,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 9,
+    "Speed": 9,
+    "Heal": 15
+  },
+  {
+    "KinsectId": "kinsect-105",
+    "Name": "Arginesse III",
+
+    "Rarity": 12,
+    "AttackType": "Blunt",
+    "DustEffect": "Heal",
+    "Power": 11,
+    "Speed": 12,
+    "Heal": 20
+  }
+]

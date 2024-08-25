@@ -113,7 +113,7 @@ public class DefenseStatsJsonConverterFixture
         {{
           ""{nameof(DefenseStats.BaseDef)}"": {_baseDef},
           ""{nameof(DefenseStats.MaxDef)}"": {_maxDef},
-          ""{nameof(DefenseStats.ArgumentedMaxDef)}"": {_argumentedMaxDef},
+          ""{nameof(DefenseStats.AugmentedMaxDef)}"": {_argumentedMaxDef},
           ""{nameof(DefenseStats.FireDef)}"": {_fireDef},
           ""{nameof(DefenseStats.WaterDef)}"": {_waterDef},
           ""{nameof(DefenseStats.ThunderDef)}"": {_thunderDef},

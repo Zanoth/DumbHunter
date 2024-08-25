@@ -1,0 +1,266 @@
+﻿<UserControl x:Class="MHW.Wpf.Views.GearManagementView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:MHW.Wpf.Views"
+             xmlns:viewModels="clr-namespace:MHW.Wpf.ViewModels"
+             xmlns:controls="clr-namespace:Wpf.Design.Controls;assembly=Wpf.Design"
+             xmlns:armors="clr-namespace:SharedDataModels.Abstractions.Gear.Armors;assembly=SharedDataModels.Abstractions"
+             xmlns:weapons="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons;assembly=SharedDataModels.Abstractions"
+             xmlns:designWeapons="clr-namespace:Wpf.Design.Weapons;assembly=Wpf.Design"
+             xmlns:bows="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.Bows;assembly=SharedDataModels.Abstractions"
+             xmlns:chargeBlades="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.ChargeBlades;assembly=SharedDataModels.Abstractions"
+             xmlns:dualBlades="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.DualBlades;assembly=SharedDataModels.Abstractions"
+             xmlns:greatSwords="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.GreatSwords;assembly=SharedDataModels.Abstractions"
+             xmlns:gunlances="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.Gunlances;assembly=SharedDataModels.Abstractions"
+             xmlns:hammers="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.Hammers;assembly=SharedDataModels.Abstractions"
+             xmlns:heavyBowGuns="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.HeavyBowGuns;assembly=SharedDataModels.Abstractions"
+             xmlns:huntingHorns="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.HuntingHorns;assembly=SharedDataModels.Abstractions"
+             xmlns:insectGlaives="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.insectGlaives;assembly=SharedDataModels.Abstractions"
+             xmlns:lances="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.Lances;assembly=SharedDataModels.Abstractions"
+             xmlns:lightBowGuns="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.LightBowGuns;assembly=SharedDataModels.Abstractions"
+             xmlns:longSwords="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.LongSwords;assembly=SharedDataModels.Abstractions"
+             xmlns:switchAxes="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.SwitchAxes;assembly=SharedDataModels.Abstractions"
+             xmlns:swordAndShields="clr-namespace:SharedDataModels.Abstractions.Gear.Weapons.SwordAndShields;assembly=SharedDataModels.Abstractions"
+             mc:Ignorable="d"
+             d:DesignHeight="450"
+             d:DesignWidth="800"
+             d:DataContext="{d:DesignInstance Type={x:Type viewModels:GearManagementViewModel},IsDesignTimeCreatable=False}">
+  <Grid>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="*" />
+      <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+    
+    <TabControl Grid.Column="0">
+      <TabItem Header="Bows">
+        <ListView ItemsSource="{Binding Bows, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type bows:IBow}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="ChargeBlades">
+        <ListView ItemsSource="{Binding ChargeBlades, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type chargeBlades:IChargeBlade}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="DualBlades">
+        <ListView ItemsSource="{Binding DualBlades, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type dualBlades:IDualBlades}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="GreatSwords">
+        <ListView ItemsSource="{Binding GreatSwords, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type greatSwords:IGreatSword}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="Gunlances">
+        <ListView ItemsSource="{Binding Gunlances, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type gunlances:IGunlance}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="Hammers">
+        <ListView ItemsSource="{Binding Hammers, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type hammers:IHammer}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="Heavy BowGuns">
+        <ListView ItemsSource="{Binding HeavyBowGuns, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type heavyBowGuns:IHeavyBowGun}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="Hunting Horns">
+        <ListView ItemsSource="{Binding HuntingHorns, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type huntingHorns:IHuntingHorn}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="Insect glaives">
+        <ListView ItemsSource="{Binding InsectGlaives, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type insectGlaives:IInsectGlaive}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="Lances">
+        <ListView ItemsSource="{Binding Lances, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type lances:ILance}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="Longswords">
+        <ListView ItemsSource="{Binding Longswords, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type longSwords:ILongsword}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="Switch Axes">
+        <ListView ItemsSource="{Binding SwitchAxes, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type switchAxes:ISwitchAxe}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+      
+      <TabItem Header="Sword and Shields">
+        <ListView ItemsSource="{Binding SwordAndShields, Mode=OneWay}">
+          <ListView.ItemTemplate>
+            <DataTemplate DataType="{x:Type swordAndShields:ISwordAndShield}">
+              <ContentControl Content="{Binding}" >
+                <ContentControl.ContentTemplate>
+                  <DataTemplate>
+                    <designWeapons:WeaponControl/>
+                  </DataTemplate>
+                </ContentControl.ContentTemplate>
+              </ContentControl>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+        </ListView>
+      </TabItem>
+            
+    </TabControl>
+    
+    
+    
+
+    <ListView Grid.Column="1"
+              ItemsSource="{Binding Armors, Mode=OneWay}">
+      <ListView.ItemTemplate>
+        <DataTemplate DataType="{x:Type armors:Armor}">
+          <ContentControl Content="{Binding}" >
+            <ContentControl.ContentTemplate>
+              <DataTemplate>
+                <controls:ArmorControl/>
+              </DataTemplate>
+            </ContentControl.ContentTemplate>
+          </ContentControl>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+
+  </Grid>
+</UserControl>

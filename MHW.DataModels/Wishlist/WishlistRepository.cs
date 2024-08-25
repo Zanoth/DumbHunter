@@ -5,13 +5,14 @@ namespace MHW.DataModels.Wishlist;
 
 public class WishlistRepository : RepositoryBase<IGearId, EntityTracker>
 {
+  private static readonly string ResourceName = $"{typeof(WishlistRepository).Namespace}.WishlistConfiguration.json";
+
   public WishlistRepository(ISerializor serializor)
   {
     Serializor = serializor;
-    Initialize();
+    Initialize(ResourceName);
   }
 
-  protected override string ResourceName { get; } = $"{typeof(WishlistRepository).Namespace}.WishlistConfiguration.json";
   protected override ISerializor Serializor { get; }
   protected override void AddEntitiesToDictionary(IDictionary<IGearId, EntityTracker> entityDictionary, List<EntityTracker> entityList)
   {

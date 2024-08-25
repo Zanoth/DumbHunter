@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Prism.DryIoc" Version="8.1.97" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\MHW.Console\MHW.Console.csproj" />
     <ProjectReference Include="..\MHW.DataModels\MHW.DataModels.csproj" />
     <ProjectReference Include="..\MHW.Entry\MHW.Entry.csproj" />

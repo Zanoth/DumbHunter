@@ -4,13 +4,14 @@ using SharedDataModels.Abstractions.Gear.Charms;
 namespace MHW.DataModels.Gear.Charms;
 public class CharmRepository : RepositoryBase<CharmId, Charm>
 {
+  private static readonly string ResourceName = $"{typeof(CharmRepository).Namespace}.CharmConfiguration.json";
+
   public CharmRepository(ISerializor serializor)
   {
     Serializor = serializor;
-    Initialize();
+    Initialize(ResourceName);
   }
 
-  protected override string ResourceName { get; } = $"{typeof(CharmRepository).Namespace}.CharmConfiguration.json";
   protected override ISerializor Serializor { get; }
   protected override void AddEntitiesToDictionary(IDictionary<CharmId, Charm> entityDictionary, List<Charm> entityList)
   {

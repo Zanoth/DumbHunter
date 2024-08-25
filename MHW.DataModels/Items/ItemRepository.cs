@@ -4,13 +4,14 @@ namespace MHW.DataModels.Items;
 
 public class ItemRepository : RepositoryBase<ItemId, Item>
 {
+  private readonly static string ResourceName = $"{typeof(ItemRepository).Namespace}.ItemConfiguration.json";
+
   public ItemRepository(ISerializor serializor)
   {
     Serializor = serializor;
-    Initialize();
+    Initialize(ResourceName);
   }
 
-  protected override string ResourceName { get; } = $"{typeof(ItemRepository).Namespace}.ItemConfiguration.json";
   protected override ISerializor Serializor { get; }
   protected override void AddEntitiesToDictionary(IDictionary<ItemId, Item> entityDictionary, List<Item> entityList)
   {

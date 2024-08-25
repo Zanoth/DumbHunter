@@ -5,13 +5,14 @@ namespace MHW.DataModels.Locations;
 
 public class LocationRepository : RepositoryBase<LocationId, Location>
 {
+  private static readonly string ResourceName = $"{typeof(LocationRepository).Namespace}.LocationConfiguration.json";
+
   public LocationRepository(ISerializor serializor)
   {
     Serializor = serializor;
-    Initialize();
+    Initialize(ResourceName);
   }
 
-  protected override string ResourceName { get; } = $"{typeof(LocationRepository).Namespace}.LocationConfiguration.json";
   protected override ISerializor Serializor { get; }
   protected override void AddEntitiesToDictionary(IDictionary<LocationId, Location> entityDictionary, List<Location> entityList)
   {

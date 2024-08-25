@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MHW.DataModels\MHW.DataModels.csproj" />
+    <ProjectReference Include="..\SharedDataModels.Abstractions\SharedDataModels.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

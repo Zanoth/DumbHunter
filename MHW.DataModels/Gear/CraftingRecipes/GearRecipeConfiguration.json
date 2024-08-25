@@ -105366,5 +105366,1949 @@
     ],
     "IdOfPrevious": "",
     "RecipeId": "recipe-4576"
+  },
+  {
+    "AssociatedGearId": "kinsect-002",
+    "Items": [
+      {
+        "ItemId": "item-0115",
+        "Quantity": 3
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-001",
+    "RecipeId": "recipe-4577"
+  },
+  {
+    "AssociatedGearId": "kinsect-003",
+    "Items": [
+      {
+        "ItemId": "item-0120",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0147",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-002",
+    "RecipeId": "recipe-4578"
+  },
+  {
+    "AssociatedGearId": "kinsect-004",
+    "Items": [
+      {
+        "ItemId": "item-0148",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0115",
+        "Quantity": 3
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-003",
+    "RecipeId": "recipe-4579"
+  },
+  {
+    "AssociatedGearId": "kinsect-005",
+    "Items": [
+      {
+        "ItemId": "item-0117",
+        "Quantity": 3
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-004",
+    "RecipeId": "recipe-4580"
+  },
+  {
+    "AssociatedGearId": "kinsect-006",
+    "Items": [
+      {
+        "ItemId": "item-0149",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0264",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-005",
+    "RecipeId": "recipe-4581"
+  },
+  {
+    "AssociatedGearId": "kinsect-007",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0118",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0154",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-006",
+    "RecipeId": "recipe-4582"
+  },
+  {
+    "AssociatedGearId": "kinsect-008",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0119",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0158",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-007",
+    "RecipeId": "recipe-4583"
+  },
+  {
+    "AssociatedGearId": "kinsect-009",
+    "Items": [
+      {
+        "ItemId": "item-0152",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0124",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-008",
+    "RecipeId": "recipe-4584"
+  },
+  {
+    "AssociatedGearId": "kinsect-010",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0118",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0156",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-006",
+    "RecipeId": "recipe-4585"
+  },
+  {
+    "AssociatedGearId": "kinsect-011",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0119",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0164",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-010",
+    "RecipeId": "recipe-4586"
+  },
+  {
+    "AssociatedGearId": "kinsect-012",
+    "Items": [
+      {
+        "ItemId": "item-0152",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0125",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-011",
+    "RecipeId": "recipe-4587"
+  },
+  {
+    "AssociatedGearId": "kinsect-013",
+    "Items": [
+      {
+        "ItemId": "item-0148",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0120",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-003",
+    "RecipeId": "recipe-4588"
+  },
+  {
+    "AssociatedGearId": "kinsect-014",
+    "Items": [
+      {
+        "ItemId": "item-0117",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0121",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-013",
+    "RecipeId": "recipe-4589"
+  },
+  {
+    "AssociatedGearId": "kinsect-015",
+    "Items": [
+      {
+        "ItemId": "item-0149",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0286",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-014",
+    "RecipeId": "recipe-4590"
+  },
+  {
+    "AssociatedGearId": "kinsect-016",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0118",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0184",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-015",
+    "RecipeId": "recipe-4591"
+  },
+  {
+    "AssociatedGearId": "kinsect-017",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0119",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0160",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-016",
+    "RecipeId": "recipe-4592"
+  },
+  {
+    "AssociatedGearId": "kinsect-018",
+    "Items": [
+      {
+        "ItemId": "item-0152",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0142",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-017",
+    "RecipeId": "recipe-4593"
+  },
+  {
+    "AssociatedGearId": "kinsect-019",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0118",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0206",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-015",
+    "RecipeId": "recipe-4594"
+  },
+  {
+    "AssociatedGearId": "kinsect-020",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0119",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0164",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-015",
+    "RecipeId": "recipe-4595"
+  },
+  {
+    "AssociatedGearId": "kinsect-021",
+    "Items": [
+      {
+        "ItemId": "item-0152",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0125",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-015",
+    "RecipeId": "recipe-4596"
+  },
+  {
+    "AssociatedGearId": "kinsect-022",
+    "Items": [
+      {
+        "ItemId": "item-0148",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0116",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-003",
+    "RecipeId": "recipe-4597"
+  },
+  {
+    "AssociatedGearId": "kinsect-023",
+    "Items": [
+      {
+        "ItemId": "item-0117",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0116",
+        "Quantity": 3
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-022",
+    "RecipeId": "recipe-4598"
+  },
+  {
+    "AssociatedGearId": "kinsect-024",
+    "Items": [
+      {
+        "ItemId": "item-0149",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0275",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-023",
+    "RecipeId": "recipe-4599"
+  },
+  {
+    "AssociatedGearId": "kinsect-025",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0118",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0185",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-024",
+    "RecipeId": "recipe-4600"
+  },
+  {
+    "AssociatedGearId": "kinsect-026",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0119",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0123",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-025",
+    "RecipeId": "recipe-4601"
+  },
+  {
+    "AssociatedGearId": "kinsect-027",
+    "Items": [
+      {
+        "ItemId": "item-0152",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0124",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-026",
+    "RecipeId": "recipe-4602"
+  },
+  {
+    "AssociatedGearId": "kinsect-028",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0118",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0156",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-024",
+    "RecipeId": "recipe-4603"
+  },
+  {
+    "AssociatedGearId": "kinsect-029",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0119",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0164",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-028",
+    "RecipeId": "recipe-4604"
+  },
+  {
+    "AssociatedGearId": "kinsect-030",
+    "Items": [
+      {
+        "ItemId": "item-0152",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0125",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-029",
+    "RecipeId": "recipe-4605"
+  },
+  {
+    "AssociatedGearId": "kinsect-032",
+    "Items": [
+      {
+        "ItemId": "item-0146",
+        "Quantity": 3
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-031",
+    "RecipeId": "recipe-4606"
+  },
+  {
+    "AssociatedGearId": "kinsect-033",
+    "Items": [
+      {
+        "ItemId": "item-0138",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0147",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-032",
+    "RecipeId": "recipe-4607"
+  },
+  {
+    "AssociatedGearId": "kinsect-034",
+    "Items": [
+      {
+        "ItemId": "item-0148",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0138",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-033",
+    "RecipeId": "recipe-4608"
+  },
+  {
+    "AssociatedGearId": "kinsect-035",
+    "Items": [
+      {
+        "ItemId": "item-0135",
+        "Quantity": 3
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-034",
+    "RecipeId": "recipe-4609"
+  },
+  {
+    "AssociatedGearId": "kinsect-036",
+    "Items": [
+      {
+        "ItemId": "item-0149",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0312",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-035",
+    "RecipeId": "recipe-4610"
+  },
+  {
+    "AssociatedGearId": "kinsect-037",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0136",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0122",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-036",
+    "RecipeId": "recipe-4611"
+  },
+  {
+    "AssociatedGearId": "kinsect-038",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0141",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0158",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-037",
+    "RecipeId": "recipe-4612"
+  },
+  {
+    "AssociatedGearId": "kinsect-039",
+    "Items": [
+      {
+        "ItemId": "item-0173",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0124",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-038",
+    "RecipeId": "recipe-4613"
+  },
+  {
+    "AssociatedGearId": "kinsect-040",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0136",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0202",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-036",
+    "RecipeId": "recipe-4614"
+  },
+  {
+    "AssociatedGearId": "kinsect-041",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0141",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0164",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-040",
+    "RecipeId": "recipe-4615"
+  },
+  {
+    "AssociatedGearId": "kinsect-042",
+    "Items": [
+      {
+        "ItemId": "item-0173",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0125",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-041",
+    "RecipeId": "recipe-4616"
+  },
+  {
+    "AssociatedGearId": "kinsect-043",
+    "Items": [
+      {
+        "ItemId": "item-0148",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0146",
+        "Quantity": 3
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-033",
+    "RecipeId": "recipe-4617"
+  },
+  {
+    "AssociatedGearId": "kinsect-044",
+    "Items": [
+      {
+        "ItemId": "item-0135",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0139",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-043",
+    "RecipeId": "recipe-4618"
+  },
+  {
+    "AssociatedGearId": "kinsect-045",
+    "Items": [
+      {
+        "ItemId": "item-0149",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0303",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-044",
+    "RecipeId": "recipe-4619"
+  },
+  {
+    "AssociatedGearId": "kinsect-046",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0136",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0211",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-045",
+    "RecipeId": "recipe-4620"
+  },
+  {
+    "AssociatedGearId": "kinsect-047",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0141",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0160",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-046",
+    "RecipeId": "recipe-4621"
+  },
+  {
+    "AssociatedGearId": "kinsect-048",
+    "Items": [
+      {
+        "ItemId": "item-0173",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0142",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-047",
+    "RecipeId": "recipe-4622"
+  },
+  {
+    "AssociatedGearId": "kinsect-049",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0136",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0179",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-045",
+    "RecipeId": "recipe-4623"
+  },
+  {
+    "AssociatedGearId": "kinsect-050",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0141",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0164",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-049",
+    "RecipeId": "recipe-4624"
+  },
+  {
+    "AssociatedGearId": "kinsect-051",
+    "Items": [
+      {
+        "ItemId": "item-0173",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0125",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-050",
+    "RecipeId": "recipe-4625"
+  },
+  {
+    "AssociatedGearId": "kinsect-052",
+    "Items": [
+      {
+        "ItemId": "item-0148",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0137",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-033",
+    "RecipeId": "recipe-4626"
+  },
+  {
+    "AssociatedGearId": "kinsect-053",
+    "Items": [
+      {
+        "ItemId": "item-0135",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0140",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-052",
+    "RecipeId": "recipe-4627"
+  },
+  {
+    "AssociatedGearId": "kinsect-054",
+    "Items": [
+      {
+        "ItemId": "item-0149",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0294",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-053",
+    "RecipeId": "recipe-4628"
+  },
+  {
+    "AssociatedGearId": "kinsect-055",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0136",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0191",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-054",
+    "RecipeId": "recipe-4629"
+  },
+  {
+    "AssociatedGearId": "kinsect-056",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0141",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0123",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-055",
+    "RecipeId": "recipe-4630"
+  },
+  {
+    "AssociatedGearId": "kinsect-057",
+    "Items": [
+      {
+        "ItemId": "item-0173",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0124",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-056",
+    "RecipeId": "recipe-4631"
+  },
+  {
+    "AssociatedGearId": "kinsect-058",
+    "Items": [
+      {
+        "ItemId": "item-0150",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0136",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0180",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-054",
+    "RecipeId": "recipe-4632"
+  },
+  {
+    "AssociatedGearId": "kinsect-059",
+    "Items": [
+      {
+        "ItemId": "item-0151",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0141",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0164",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-058",
+    "RecipeId": "recipe-4633"
+  },
+  {
+    "AssociatedGearId": "kinsect-060",
+    "Items": [
+      {
+        "ItemId": "item-0173",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0151",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0125",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-059",
+    "RecipeId": "recipe-4634"
+  },
+  {
+    "AssociatedGearId": "kinsect-062",
+    "Items": [
+      {
+        "ItemId": "item-0469",
+        "Quantity": 5
+      },
+      {
+        "ItemId": "item-0467",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0142",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0124",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-061",
+    "RecipeId": "recipe-4635"
+  },
+  {
+    "AssociatedGearId": "kinsect-063",
+    "Items": [
+      {
+        "ItemId": "item-0784",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0778",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0466",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-1053",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-062",
+    "RecipeId": "recipe-4636"
+  },
+  {
+    "AssociatedGearId": "kinsect-064",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0682",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0698",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-009",
+    "RecipeId": "recipe-4637"
+  },
+  {
+    "AssociatedGearId": "kinsect-065",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0683",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0800",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-064",
+    "RecipeId": "recipe-4638"
+  },
+  {
+    "AssociatedGearId": "kinsect-066",
+    "Items": [
+      {
+        "ItemId": "item-0788",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0845",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-065",
+    "RecipeId": "recipe-4639"
+  },
+  {
+    "AssociatedGearId": "kinsect-067",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0682",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0700",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-012",
+    "RecipeId": "recipe-4640"
+  },
+  {
+    "AssociatedGearId": "kinsect-068",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0683",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0759",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-067",
+    "RecipeId": "recipe-4641"
+  },
+  {
+    "AssociatedGearId": "kinsect-069",
+    "Items": [
+      {
+        "ItemId": "item-0788",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0858",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-068",
+    "RecipeId": "recipe-4642"
+  },
+  {
+    "AssociatedGearId": "kinsect-070",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0682",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0699",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-018",
+    "RecipeId": "recipe-4643"
+  },
+  {
+    "AssociatedGearId": "kinsect-071",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0683",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0781",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-070",
+    "RecipeId": "recipe-4644"
+  },
+  {
+    "AssociatedGearId": "kinsect-072",
+    "Items": [
+      {
+        "ItemId": "item-0788",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0778",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-071",
+    "RecipeId": "recipe-4645"
+  },
+  {
+    "AssociatedGearId": "kinsect-073",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0682",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0700",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-021",
+    "RecipeId": "recipe-4646"
+  },
+  {
+    "AssociatedGearId": "kinsect-074",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0683",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0780",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-073",
+    "RecipeId": "recipe-4647"
+  },
+  {
+    "AssociatedGearId": "kinsect-075",
+    "Items": [
+      {
+        "ItemId": "item-0788",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0964",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-074",
+    "RecipeId": "recipe-4648"
+  },
+  {
+    "AssociatedGearId": "kinsect-076",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0682",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0702",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-027",
+    "RecipeId": "recipe-4649"
+  },
+  {
+    "AssociatedGearId": "kinsect-077",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0683",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0784",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-076",
+    "RecipeId": "recipe-4650"
+  },
+  {
+    "AssociatedGearId": "kinsect-078",
+    "Items": [
+      {
+        "ItemId": "item-0788",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0943",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-077",
+    "RecipeId": "recipe-4651"
+  },
+  {
+    "AssociatedGearId": "kinsect-079",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0682",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0700",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-030",
+    "RecipeId": "recipe-4652"
+  },
+  {
+    "AssociatedGearId": "kinsect-080",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0683",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0810",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-079",
+    "RecipeId": "recipe-4653"
+  },
+  {
+    "AssociatedGearId": "kinsect-081",
+    "Items": [
+      {
+        "ItemId": "item-0788",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0974",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-080",
+    "RecipeId": "recipe-4654"
+  },
+  {
+    "AssociatedGearId": "kinsect-082",
+    "Items": [
+      {
+        "ItemId": "item-0807",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0998",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-1000",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-024",
+    "RecipeId": "recipe-4655"
+  },
+  {
+    "AssociatedGearId": "kinsect-083",
+    "Items": [
+      {
+        "ItemId": "item-0121",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-1007",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-1047",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-082",
+    "RecipeId": "recipe-4656"
+  },
+  {
+    "AssociatedGearId": "kinsect-084",
+    "Items": [
+      {
+        "ItemId": "item-1048",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-1055",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-1056",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-083",
+    "RecipeId": "recipe-4657"
+  },
+  {
+    "AssociatedGearId": "kinsect-085",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0685",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0698",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-039",
+    "RecipeId": "recipe-4658"
+  },
+  {
+    "AssociatedGearId": "kinsect-086",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0697",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0782",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-085",
+    "RecipeId": "recipe-4659"
+  },
+  {
+    "AssociatedGearId": "kinsect-087",
+    "Items": [
+      {
+        "ItemId": "item-0791",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0845",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-086",
+    "RecipeId": "recipe-4660"
+  },
+  {
+    "AssociatedGearId": "kinsect-088",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0685",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0700",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-042",
+    "RecipeId": "recipe-4661"
+  },
+  {
+    "AssociatedGearId": "kinsect-089",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0697",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0865",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-088",
+    "RecipeId": "recipe-4662"
+  },
+  {
+    "AssociatedGearId": "kinsect-090",
+    "Items": [
+      {
+        "ItemId": "item-0791",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0858",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-089",
+    "RecipeId": "recipe-4663"
+  },
+  {
+    "AssociatedGearId": "kinsect-091",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0685",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0699",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-048",
+    "RecipeId": "recipe-4664"
+  },
+  {
+    "AssociatedGearId": "kinsect-092",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0697",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0783",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-091",
+    "RecipeId": "recipe-4665"
+  },
+  {
+    "AssociatedGearId": "kinsect-093",
+    "Items": [
+      {
+        "ItemId": "item-0791",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0778",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-092",
+    "RecipeId": "recipe-4666"
+  },
+  {
+    "AssociatedGearId": "kinsect-094",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0685",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0700",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-051",
+    "RecipeId": "recipe-4667"
+  },
+  {
+    "AssociatedGearId": "kinsect-095",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0697",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0861",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-094",
+    "RecipeId": "recipe-4668"
+  },
+  {
+    "AssociatedGearId": "kinsect-096",
+    "Items": [
+      {
+        "ItemId": "item-0791",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0964",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-095",
+    "RecipeId": "recipe-4669"
+  },
+  {
+    "AssociatedGearId": "kinsect-097",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0685",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0702",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-057",
+    "RecipeId": "recipe-4670"
+  },
+  {
+    "AssociatedGearId": "kinsect-098",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0697",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0784",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-097",
+    "RecipeId": "recipe-4671"
+  },
+  {
+    "AssociatedGearId": "kinsect-099",
+    "Items": [
+      {
+        "ItemId": "item-0791",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0943",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-098",
+    "RecipeId": "recipe-4672"
+  },
+  {
+    "AssociatedGearId": "kinsect-100",
+    "Items": [
+      {
+        "ItemId": "item-0686",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0685",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "item-0700",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-060",
+    "RecipeId": "recipe-4673"
+  },
+  {
+    "AssociatedGearId": "kinsect-101",
+    "Items": [
+      {
+        "ItemId": "item-0786",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0697",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-0810",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-100",
+    "RecipeId": "recipe-4674"
+  },
+  {
+    "AssociatedGearId": "kinsect-102",
+    "Items": [
+      {
+        "ItemId": "item-0791",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0787",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-0974",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-101",
+    "RecipeId": "recipe-4675"
+  },
+  {
+    "AssociatedGearId": "kinsect-103",
+    "Items": [
+      {
+        "ItemId": "item-0849",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-1010",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-1012",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-033",
+    "RecipeId": "recipe-4676"
+  },
+  {
+    "AssociatedGearId": "kinsect-104",
+    "Items": [
+      {
+        "ItemId": "item-1016",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-1019",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-1047",
+        "Quantity": 2
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-103",
+    "RecipeId": "recipe-4677"
+  },
+  {
+    "AssociatedGearId": "kinsect-105",
+    "Items": [
+      {
+        "ItemId": "item-1048",
+        "Quantity": 2
+      },
+      {
+        "ItemId": "item-1057",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "item-1058",
+        "Quantity": 1
+      }
+    ],
+    "CraftingType": "Upgrade",
+    "IdOfPrevious": "kinsect-104",
+    "RecipeId": "recipe-4678"
   }
 ]

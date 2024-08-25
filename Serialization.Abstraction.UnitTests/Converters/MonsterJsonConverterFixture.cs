@@ -55,8 +55,6 @@ public class MonsterJsonConverterFixture
     json.Should().Be(expectedJson);
   }
 
-
-
   #region Helper Class(es)
 
   private class MonsterTestBuilder
@@ -65,6 +63,7 @@ public class MonsterJsonConverterFixture
     private string _name = "TestMonster";
     private MonsterEcology _ecology = MonsterEcology.Undefined;
     private MonsterSize _size = MonsterSize.Large;
+    private string _icon = "dummyIconPath";
     private TrapInteractions _trapInteractions = new TrapInteractions(pitfallTrap: true, shockTrap: false, vineTrap: true);
 
 
@@ -73,6 +72,8 @@ public class MonsterJsonConverterFixture
       new Drop(QuestRank.Undefined, DropCondition.Undefined, new LootDetails(ItemId.New("ItemId-0001"), 1, 100)),
       new Drop(QuestRank.Undefined, DropCondition.Undefined, new LootDetails(ItemId.New("ItemId-0002"), 1, 100))
     };
+
+    private IEnumerable<FormWeakness> _formWeakness => throw new NotImplementedException();
 
     public MonsterTestBuilder WithMonsterId(MonsterId monsterId)
     {
@@ -116,8 +117,10 @@ public class MonsterJsonConverterFixture
         _name,
         _ecology,
         _size,
+        _icon,
         _trapInteractions,
-        _drops
+        _drops,
+        _formWeakness
       );
     }
 

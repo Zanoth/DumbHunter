@@ -1,6 +1,6 @@
-﻿using SharedDataModels.Abstractions.Items;
-using System.Text;
+﻿using System.Text;
 using SharedDataModels.Abstractions.Gear.Charms;
+using SharedDataModels.Abstractions.Gear.Weapons;
 
 namespace Serialization.Abstraction.UnitTests.Converters;
 
